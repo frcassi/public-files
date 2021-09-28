@@ -1,0 +1,70 @@
+{
+  "paths": [
+    {
+      "categories": [
+        "397fe1ae-a818-4822-8e03-4b24a643d701"
+      ],
+      "color": "#FFFFFF",
+      "description": "<p>ssdf sdfg dfg dfg</p>\n",
+      "mediaUuid": "f8099cef-e8ba-4c98-9222-ffee78c18164",
+      "subtitle": "asdasdasd",
+      "skuCode": null,
+      "tag": "path-main-external-game",
+      "title": "Primo Path Game",
+      "lastUpdate": "2021-09-24T17:40:02",
+      "uuid": "d16a4370-335d-48b7-b104-a25430d3fbc9",
+      "totalSize": 105594
+    },
+    {
+      "categories": [
+        "397fe1ae-a818-4822-8e03-4b24a643d703"
+      ],
+      "color": "#FFFFFF",
+      "description": null,
+      "mediaUuid": null,
+      "subtitle": null,
+      "skuCode": null,
+      "tag": "path-game-reward",
+      "title": "Premi Sbloccati",
+      "lastUpdate": "2021-09-24T17:43:55",
+      "uuid": "1c5138db-e30c-4d8d-8fc1-acaaaa82fb47",
+      "totalSize": 51546
+    }
+  ],
+  "pathCategories": [
+    {
+      "color": null,
+      "description": null,
+      "lastUpdate": "2021-09-24T17:14:00",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": null,
+      "tag": "preview",
+      "title": null,
+      "uuid": "397fe1ae-a818-4822-8e03-4b24a643d701"
+    },
+    {
+      "color": null,
+      "description": null,
+      "lastUpdate": "2021-09-24T17:14:00",
+      "mediaUuid": null,
+      "order": 2,
+      "subtitle": null,
+      "tag": "circular-expanded",
+      "title": null,
+      "uuid": "397fe1ae-a818-4822-8e03-4b24a643d703"
+    }
+  ],
+  "mediaFiles": [
+    {
+      "lastUpdate": "2021-09-23T19:01:56",
+      "mimeType": "image/png",
+      "name": "test-mod.png",
+      "type": "IMG",
+      "size": 19663,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-mod.png",
+      "uuid": "f8099cef-e8ba-4c98-9222-ffee78c18164"
+    }
+  ],
+  "lastUpdate": "2021-09-24T17:43:55"
+}
