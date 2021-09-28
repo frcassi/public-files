@@ -1,0 +1,120 @@
+{
+  "categories": [
+    "397fe1ae-a818-4822-8e03-4b24a643d703"
+  ],
+  "color": "#FFFFFF",
+  "description": null,
+  "mediaUuid": null,
+  "subtitle": null,
+  "skuCode": null,
+  "tag": "path-game-reward",
+  "title": "Premi Sbloccati",
+  "lastUpdate": "2021-09-24T17:43:55",
+  "uuid": "1c5138db-e30c-4d8d-8fc1-acaaaa82fb47",
+  "pathCategories": [
+    {
+      "color": null,
+      "description": null,
+      "lastUpdate": "2021-09-24T17:14:00",
+      "mediaUuid": null,
+      "order": 2,
+      "subtitle": null,
+      "tag": "circular-expanded",
+      "title": null,
+      "uuid": "397fe1ae-a818-4822-8e03-4b24a643d703"
+    }
+  ],
+  "mediaFiles": [
+    {
+      "lastUpdate": "2021-09-23T19:01:56",
+      "mimeType": "image/png",
+      "name": "test-mod.png",
+      "type": "IMG",
+      "size": 19663,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-mod.png",
+      "uuid": "f8099cef-e8ba-4c98-9222-ffee78c18164"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:01:49",
+      "mimeType": "image/png",
+      "name": "test-1.png",
+      "type": "IMG",
+      "size": 31883,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-1.png",
+      "uuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f"
+    }
+  ],
+  "pois": [
+    {
+      "categories": [],
+      "description": "<p>asddasdfasdgfsdfsdafasdfsadfasdfsdf</p>\n",
+      "mediaUuid": "f8099cef-e8ba-4c98-9222-ffee78c18164",
+      "subtitle": "http://localhost:8080",
+      "tag": "poi-game-reward",
+      "title": "Premioooo",
+      "lastUpdate": "2021-09-23T20:04:42",
+      "uuid": "3b7720e7-b226-4589-a051-1e0b28d6db5b"
+    }
+  ],
+  "poiOrder": [
+    {
+      "index": 0,
+      "isEnabled": true,
+      "order": null,
+      "poiUuid": "3b7720e7-b226-4589-a051-1e0b28d6db5b",
+      "isAccessibility": true,
+      "isVisited": true,
+      "isHidden": false,
+      "id": 2
+    }
+  ],
+  "poiCategories": [],
+  "sheets": [
+    {
+      "description": "<p>Aliquam tincidunt tristique maximus.</p>\n<p>Phasellus eu nunc odio. Nulla mi diam, tincidunt quis hendrerit a, venenatis at magna. Sed vestibulum quam et leo tristique bibendum. Vestibulum convallis eros vel molestie ullamcorper. Integer auctor erat non lacus sollicitudin, et dignissim risus sagittis. Aliquam bibendum mi non magna pretium volutpat. Aenean sit amet ultricies neque. Nunc euismod, mauris ac pellentesque blandit, ipsum ex dictum elit, a euismod enim dolor non ante. Sed euismod aliquet velit id viverra. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n<p>Cras et sem varius libero luctus vehicula. Praesent id venenatis metus. Vivamus ultricies purus auctor dui dictum euismod. Etiam gravida diam neque, nec faucibus nulla gravida at. Donec commodo augue vitae risus finibus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sed sagittis nulla. Duis faucibus urna non mauris scelerisque interdum. Sed gravida dolor cursus tristique pellentesque. Nulla at purus nec turpis egestas rutrum porta ac metus. Phasellus mattis iaculis euismod. Aenean et massa ornare, lobortis risus quis, eleifend eros.</p>\n<p>Fusce eu elit pulvinar, consectetur odio ac, luctus nibh. Praesent at placerat tortor. Suspendisse nec pretium mauris. Quisque lacinia tellus non eros eleifend, nec luctus arcu vestibulum. Aenean gravida, nunc quis tincidunt feugiat, est purus efficitur elit, vel molestie risus felis id augue. Mauris lorem dolor, cursus sit amet metus nec, tincidunt imperdiet urna. Duis massa risus, ornare eget dapibus nec, interdum egestas tellus. Maecenas semper at tellus nec imperdiet. Fusce eget ante eu nulla aliquam gravida. Proin purus tellus, luctus vel efficitur sed, faucibus id magna. Ut ullamcorper justo nisl, in tincidunt mauris faucibus sit amet. Suspendisse et ornare lectus, vel laoreet diam.</p>\n<p>Etiam laoreet, libero sit amet tempus molestie, leo sapien varius metus, non ultrices urna ante a leo. Donec semper in ipsum eu faucibus. Duis pretium libero ante, consectetur feugiat nulla tincidunt non. Proin ultricies velit sit amet tellus rhoncus, sollicitudin luctus risus molestie. Proin tortor libero, rhoncus id ornare in, hendrerit ac purus. Pellentesque a nisl enim. Vestibulum quis dolor lorem. Proin at mi sit amet neque scelerisque cursus. Maecenas commodo sem posuere convallis commodo. In odio massa, scelerisque vel sapien in, feugiat rhoncus augue. Nulla et lacus sapien. Donec rhoncus congue quam nec auctor. Donec et arcu rhoncus, vulputate nunc at, vestibulum odio. Maecenas egestas tellus id est tristique sodales. Vestibulum at felis vitae quam fringilla feugiat. Mauris in leo lectus.</p>\n",
+      "items": [],
+      "lastUpdate": "2021-09-24T17:11:37",
+      "mediaUuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f",
+      "subtitle": "http://www.googoe.com",
+      "title": "Premiooooasasas",
+      "tag": "game-reward",
+      "uuid": "4f60f490-ad67-43a7-9d4e-8dde765bf88b"
+    },
+    {
+      "description": null,
+      "items": [
+        "31f5e579-4dd0-43f2-a7f2-03cc6f5d626f"
+      ],
+      "lastUpdate": "2021-09-24T17:17:20",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": "Premi Sbloccati",
+      "tag": "path-game-reward-entry-sheet",
+      "uuid": "e9189d1e-d1ca-4e6a-b63e-ecfc9f272b85"
+    }
+  ],
+  "sheetItems": [
+    {
+      "lastUpdate": "2021-09-24T17:17:20",
+      "order": 0,
+      "uuid": "31f5e579-4dd0-43f2-a7f2-03cc6f5d626f"
+    }
+  ],
+  "relations": [
+    {
+      "poiUuid": "3b7720e7-b226-4589-a051-1e0b28d6db5b",
+      "inType": "SHT_ITM",
+      "inUuid": "31f5e579-4dd0-43f2-a7f2-03cc6f5d626f",
+      "outType": "SHT",
+      "outUuid": "4f60f490-ad67-43a7-9d4e-8dde765bf88b"
+    },
+    {
+      "poiUuid": "",
+      "inUuid": "",
+      "inType": "EPT",
+      "outType": "SHT",
+      "outUuid": "e9189d1e-d1ca-4e6a-b63e-ecfc9f272b85"
+    }
+  ],
+  "totalSize": 51546
+}

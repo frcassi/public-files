@@ -1,0 +1,427 @@
+{
+  "categories": [
+    "397fe1ae-a818-4822-8e03-4b24a643d701"
+  ],
+  "color": "#FFFFFF",
+  "description": "<p>ssdf sdfg dfg dfg</p>\n",
+  "mediaUuid": "f8099cef-e8ba-4c98-9222-ffee78c18164",
+  "subtitle": "asdasdasd",
+  "skuCode": null,
+  "tag": "path-main-external-game",
+  "title": "Primo Path Game",
+  "lastUpdate": "2021-09-24T17:40:02",
+  "uuid": "d16a4370-335d-48b7-b104-a25430d3fbc9",
+  "pathCategories": [
+    {
+      "color": null,
+      "description": null,
+      "lastUpdate": "2021-09-24T17:14:00",
+      "mediaUuid": null,
+      "order": 0,
+      "subtitle": null,
+      "tag": "preview",
+      "title": null,
+      "uuid": "397fe1ae-a818-4822-8e03-4b24a643d701"
+    }
+  ],
+  "mediaFiles": [
+    {
+      "lastUpdate": "2021-09-23T19:01:56",
+      "mimeType": "image/png",
+      "name": "test-mod.png",
+      "type": "IMG",
+      "size": 19663,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-mod.png",
+      "uuid": "f8099cef-e8ba-4c98-9222-ffee78c18164"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:01:49",
+      "mimeType": "image/png",
+      "name": "test-1.png",
+      "type": "IMG",
+      "size": 31883,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-1.png",
+      "uuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:19:21",
+      "mimeType": "audio/mpeg",
+      "name": "claps-1.mp3",
+      "type": "AUD",
+      "size": 54048,
+      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/claps-1.mp3",
+      "uuid": "ea91978c-d26f-431d-a2da-ddd9bcb8b1c3"
+    }
+  ],
+  "pois": [
+    {
+      "categories": [],
+      "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu mollis massa, ut fermentum sapien. Sed ut nisl sed magna lacinia condimentum. Donec lobortis libero non leo dapibus, vitae molestie nunc sollicitudin. Vivamus in dictum turpis. Donec sollicitudin orci nunc, posuere maximus arcu suscipit eget. Nam laoreet, arcu nec auctor sodales, nibh massa blandit tortor, ac tempus metus ex quis lorem. Mauris porta aliquam risus sit amet semper. Praesent ultrices, odio eget dapibus rutrum, leo arcu venenatis massa, quis vulputate est metus ut turpis. Proin nec lorem metus. Nullam augue ligula, euismod eu est vel, euismod facilisis mauris. Aenean mi odio, dictum vitae luctus in, tristique a magna. In convallis metus sed tempor mattis. Nulla quis vulputate nulla. Aliquam tincidunt tristique maximus.</p>\n<p>Phasellus eu nunc odio. Nulla mi diam, tincidunt quis hendrerit a, venenatis at magna. Sed vestibulum quam et leo tristique bibendum. Vestibulum convallis eros vel molestie ullamcorper. Integer auctor erat non lacus sollicitudin, et dignissim risus sagittis. Aliquam bibendum mi non magna pretium volutpat. Aenean sit amet ultricies neque. Nunc euismod, mauris ac pellentesque blandit, ipsum ex dictum elit, a euismod enim dolor non ante. Sed euismod aliquet velit id viverra. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n<p>Cras et sem varius libero luctus vehicula. Praesent id venenatis metus. Vivamus ultricies purus auctor dui dictum euismod. Etiam gravida diam neque, nec faucibus nulla gravida at. Donec commodo augue vitae risus finibus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sed sagittis nulla. Duis faucibus urna non mauris scelerisque interdum. Sed gravida dolor cursus tristique pellentesque. Nulla at purus nec turpis egestas rutrum porta ac metus. Phasellus mattis iaculis euismod. Aenean et massa ornare, lobortis risus quis, eleifend eros.</p>\n<p>Fusce eu elit pulvinar, consectetur odio ac, luctus nibh. Praesent at placerat tortor. Suspendisse nec pretium mauris. Quisque lacinia tellus non eros eleifend, nec luctus arcu vestibulum. Aenean gravida, nunc quis tincidunt feugiat, est purus efficitur elit, vel molestie risus felis id augue. Mauris lorem dolor, cursus sit amet metus nec, tincidunt imperdiet urna. Duis massa risus, ornare eget dapibus nec, interdum egestas tellus. Maecenas semper at tellus nec imperdiet. Fusce eget ante eu nulla aliquam gravida. Proin purus tellus, luctus vel efficitur sed, faucibus id magna. Ut ullamcorper justo nisl, in tincidunt mauris faucibus sit amet. Suspendisse et ornare lectus, vel laoreet diam.</p>\n<p>Etiam laoreet, libero sit amet tempus molestie, leo sapien varius metus, non ultrices urna ante a leo. Donec semper in ipsum eu faucibus. Duis pretium libero ante, consectetur feugiat nulla tincidunt non. Proin ultricies velit sit amet tellus rhoncus, sollicitudin luctus risus molestie. Proin tortor libero, rhoncus id ornare in, hendrerit ac purus. Pellentesque a nisl enim. Vestibulum quis dolor lorem. Proin at mi sit amet neque scelerisque cursus. Maecenas commodo sem posuere convallis commodo. In odio massa, scelerisque vel sapien in, feugiat rhoncus augue. Nulla et lacus sapien. Donec rhoncus congue quam nec auctor. Donec et arcu rhoncus, vulputate nunc at, vestibulum odio. Maecenas egestas tellus id est tristique sodales. Vestibulum at felis vitae quam fringilla feugiat. Mauris in leo lectus.</p>\n",
+      "mediaUuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f",
+      "subtitle": "stottotilopo poi game primo",
+      "tag": "poi-main-external-game",
+      "title": "Primo POI Game",
+      "lastUpdate": "2021-09-24T15:21:47",
+      "uuid": "877815c5-ee7a-48be-9466-be612a1da36e"
+    }
+  ],
+  "poiOrder": [
+    {
+      "index": 0,
+      "isEnabled": false,
+      "order": null,
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "isAccessibility": true,
+      "isVisited": true,
+      "isHidden": false,
+      "id": 1
+    }
+  ],
+  "poiCategories": [],
+  "gps": [
+    {
+      "lastUpdate": "2021-09-23T19:26:39",
+      "latitude": 37.7294526,
+      "longitude": 14.7216797,
+      "radius": 10.0,
+      "uuid": "15c0001c-6c99-4a3d-97f0-868ceea0886b"
+    }
+  ],
+  "sheets": [
+    {
+      "description": null,
+      "items": [
+        "09661fc0-2f5e-4956-adab-88ba7f37aba5",
+        "84ee5b2c-7d2c-47ab-85dc-99f35850c952",
+        "efdfc655-8f0b-4751-adb4-8e0371e7fb9a"
+      ],
+      "lastUpdate": "2021-09-24T17:11:38",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": null,
+      "tag": "poi-main-external-game-entry-sheet",
+      "uuid": "9447202d-7219-4e75-a9b1-6a6e2ef1b9bd"
+    },
+    {
+      "description": null,
+      "items": [
+        "7519d5f9-4505-4169-a280-edce25ff316f"
+      ],
+      "lastUpdate": "2021-09-24T14:13:10",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": null,
+      "tag": "poi-main-external-game-activator",
+      "uuid": "f9fcd3be-5d10-4b84-9c37-1e50ae86c464"
+    },
+    {
+      "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu mollis massa, ut fermentum sapien. Sed ut nisl sed magna lacinia condimentum. Donec lobortis libero non leo dapibus, vitae molestie nunc sollicitudin. Vivamus in dictum turpis. Donec sollicitudin orci nunc, posuere maximus arcu suscipit eget. Nam laoreet, arcu nec auctor sodales, nibh massa blandit tortor, ac tempus metus ex quis lorem. Mauris porta aliquam risus sit amet semper. Praesent ultrices, odio eget dapibus rutrum, leo arcu venenatis massa, quis vulputate est metus ut turpis. Proin nec lorem metus. Nullam augue ligula, euismod eu est vel, euismod facilisis mauris. Aenean mi odio, dictum vitae luctus in, tristique a magna. In convallis metus sed tempor mattis. Nulla quis vulputate nulla. Aliquam tincidunt tristique maximus.</p>\n<p>Phasellus eu nunc odio. Nulla mi diam, tincidunt quis hendrerit a, venenatis at magna. Sed vestibulum quam et leo tristique bibendum. Vestibulum convallis eros vel molestie ullamcorper. Integer auctor erat non lacus sollicitudin, et dignissim risus sagittis. Aliquam bibendum mi non magna pretium volutpat. Aenean sit amet ultricies neque. Nunc euismod, mauris ac pellentesque blandit, ipsum ex dictum elit, a euismod enim dolor non ante. Sed euismod aliquet velit id viverra. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n<p>Cras et sem varius libero luctus vehicula. Praesent id venenatis metus. Vivamus ultricies purus auctor dui dictum euismod. Etiam gravida diam neque, nec faucibus nulla gravida at. Donec commodo augue vitae risus finibus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sed sagittis nulla. Duis faucibus urna non mauris scelerisque interdum. Sed gravida dolor cursus tristique pellentesque. Nulla at purus nec turpis egestas rutrum porta ac metus. Phasellus mattis iaculis euismod. Aenean et massa ornare, lobortis risus quis, eleifend eros.</p>\n<p>Fusce eu elit pulvinar, consectetur odio ac, luctus nibh. Praesent at placerat tortor. Suspendisse nec pretium mauris. Quisque lacinia tellus non eros eleifend, nec luctus arcu vestibulum. Aenean gravida, nunc quis tincidunt feugiat, est purus efficitur elit, vel molestie risus felis id augue. Mauris lorem dolor, cursus sit amet metus nec, tincidunt imperdiet urna. Duis massa risus, ornare eget dapibus nec, interdum egestas tellus. Maecenas semper at tellus nec imperdiet. Fusce eget ante eu nulla aliquam gravida. Proin purus tellus, luctus vel efficitur sed, faucibus id magna. Ut ullamcorper justo nisl, in tincidunt mauris faucibus sit amet. Suspendisse et ornare lectus, vel laoreet diam.</p>\n<p>Etiam laoreet, libero sit amet tempus molestie, leo sapien varius metus, non ultrices urna ante a leo. Donec semper in ipsum eu faucibus. Duis pretium libero ante, consectetur feugiat nulla tincidunt non. Proin ultricies velit sit amet tellus rhoncus, sollicitudin luctus risus molestie. Proin tortor libero, rhoncus id ornare in, hendrerit ac purus. Pellentesque a nisl enim. Vestibulum quis dolor lorem. Proin at mi sit amet neque scelerisque cursus. Maecenas commodo sem posuere convallis commodo. In odio massa, scelerisque vel sapien in, feugiat rhoncus augue. Nulla et lacus sapien. Donec rhoncus congue quam nec auctor. Donec et arcu rhoncus, vulputate nunc at, vestibulum odio. Maecenas egestas tellus id est tristique sodales. Vestibulum at felis vitae quam fringilla feugiat. Mauris in leo lectus.</p>\n",
+      "items": [
+        "06718e14-3f0e-4da8-a383-0ad2a4b00504",
+        "a6bbfed7-0772-49f2-8f97-1fae28604a8a",
+        "a2098701-00e6-467b-a1da-8aa427ee04b7"
+      ],
+      "lastUpdate": "2021-09-23T19:19:26",
+      "mediaUuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f",
+      "subtitle": "stottotilopo poi game primo",
+      "title": "Primo POI Game",
+      "tag": "poi-main-external-game-main-data",
+      "uuid": "25dc56de-2740-4cd6-9235-7d9d5160d5ac"
+    },
+    {
+      "description": "<p>Aliquam tincidunt tristique maximus.</p>\n<p>Phasellus eu nunc odio. Nulla mi diam, tincidunt quis hendrerit a, venenatis at magna. Sed vestibulum quam et leo tristique bibendum. Vestibulum convallis eros vel molestie ullamcorper. Integer auctor erat non lacus sollicitudin, et dignissim risus sagittis. Aliquam bibendum mi non magna pretium volutpat. Aenean sit amet ultricies neque. Nunc euismod, mauris ac pellentesque blandit, ipsum ex dictum elit, a euismod enim dolor non ante. Sed euismod aliquet velit id viverra. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n<p>Cras et sem varius libero luctus vehicula. Praesent id venenatis metus. Vivamus ultricies purus auctor dui dictum euismod. Etiam gravida diam neque, nec faucibus nulla gravida at. Donec commodo augue vitae risus finibus efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sed sagittis nulla. Duis faucibus urna non mauris scelerisque interdum. Sed gravida dolor cursus tristique pellentesque. Nulla at purus nec turpis egestas rutrum porta ac metus. Phasellus mattis iaculis euismod. Aenean et massa ornare, lobortis risus quis, eleifend eros.</p>\n<p>Fusce eu elit pulvinar, consectetur odio ac, luctus nibh. Praesent at placerat tortor. Suspendisse nec pretium mauris. Quisque lacinia tellus non eros eleifend, nec luctus arcu vestibulum. Aenean gravida, nunc quis tincidunt feugiat, est purus efficitur elit, vel molestie risus felis id augue. Mauris lorem dolor, cursus sit amet metus nec, tincidunt imperdiet urna. Duis massa risus, ornare eget dapibus nec, interdum egestas tellus. Maecenas semper at tellus nec imperdiet. Fusce eget ante eu nulla aliquam gravida. Proin purus tellus, luctus vel efficitur sed, faucibus id magna. Ut ullamcorper justo nisl, in tincidunt mauris faucibus sit amet. Suspendisse et ornare lectus, vel laoreet diam.</p>\n<p>Etiam laoreet, libero sit amet tempus molestie, leo sapien varius metus, non ultrices urna ante a leo. Donec semper in ipsum eu faucibus. Duis pretium libero ante, consectetur feugiat nulla tincidunt non. Proin ultricies velit sit amet tellus rhoncus, sollicitudin luctus risus molestie. Proin tortor libero, rhoncus id ornare in, hendrerit ac purus. Pellentesque a nisl enim. Vestibulum quis dolor lorem. Proin at mi sit amet neque scelerisque cursus. Maecenas commodo sem posuere convallis commodo. In odio massa, scelerisque vel sapien in, feugiat rhoncus augue. Nulla et lacus sapien. Donec rhoncus congue quam nec auctor. Donec et arcu rhoncus, vulputate nunc at, vestibulum odio. Maecenas egestas tellus id est tristique sodales. Vestibulum at felis vitae quam fringilla feugiat. Mauris in leo lectus.</p>\n",
+      "items": [],
+      "lastUpdate": "2021-09-24T17:11:37",
+      "mediaUuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f",
+      "subtitle": "http://www.googoe.com",
+      "title": "Premiooooasasas",
+      "tag": "game-reward",
+      "uuid": "4f60f490-ad67-43a7-9d4e-8dde765bf88b"
+    },
+    {
+      "description": null,
+      "items": [
+        "3dd89e5c-4867-434a-a3ff-7fb4503789cd"
+      ],
+      "lastUpdate": "2021-09-24T14:13:10",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": null,
+      "tag": "game-quiz-sheet",
+      "uuid": "34006407-4d9d-4851-b460-a7be4526e411"
+    },
+    {
+      "description": null,
+      "items": [
+        "31775382-97aa-4b9a-9995-74ef7a494115",
+        "dac821ec-3a30-4637-98ca-fed5117a31f3"
+      ],
+      "lastUpdate": "2021-09-24T14:21:11",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": "Che ore sono",
+      "tag": "game-quiz-question-sheet",
+      "uuid": "a966a5cd-3fc2-43e1-98ac-a38e9565c4d0"
+    },
+    {
+      "description": null,
+      "items": [],
+      "lastUpdate": "2021-09-24T14:21:10",
+      "mediaUuid": null,
+      "subtitle": "true",
+      "title": "diopende",
+      "tag": "game-quiz-question-answer-sheet",
+      "uuid": "56776106-ad51-4ff0-b362-160d4be013bc"
+    },
+    {
+      "description": null,
+      "items": [],
+      "lastUpdate": "2021-09-24T14:21:10",
+      "mediaUuid": null,
+      "subtitle": "false",
+      "title": "asdasdasd",
+      "tag": "game-quiz-question-answer-sheet",
+      "uuid": "71db7d95-a469-4a4e-bc8b-b05d50d06c61"
+    },
+    {
+      "description": null,
+      "items": [],
+      "lastUpdate": "2021-09-23T19:19:25",
+      "mediaUuid": null,
+      "subtitle": "g code generato",
+      "title": null,
+      "tag": "gmap-code",
+      "uuid": "d731c5f5-5b35-4ce2-8a6c-a93986d42050"
+    },
+    {
+      "description": "<p>ssdf sdfg dfg dfg</p>\n",
+      "items": [
+        "2704c11e-e06a-4ae7-a253-be0ed0565d16"
+      ],
+      "lastUpdate": "2021-09-23T19:45:16",
+      "mediaUuid": "f8099cef-e8ba-4c98-9222-ffee78c18164",
+      "subtitle": "asdasdasd",
+      "title": "Primo Path Game",
+      "tag": "path-main-external-game-entry-sheet",
+      "uuid": "2892b90d-d83c-4d20-be4c-cb23251397e6"
+    }
+  ],
+  "sheetItems": [
+    {
+      "lastUpdate": "2021-09-24T17:11:37",
+      "order": 0,
+      "uuid": "09661fc0-2f5e-4956-adab-88ba7f37aba5"
+    },
+    {
+      "lastUpdate": "2021-09-24T17:11:37",
+      "order": 1,
+      "uuid": "84ee5b2c-7d2c-47ab-85dc-99f35850c952"
+    },
+    {
+      "lastUpdate": "2021-09-24T17:11:37",
+      "order": 2,
+      "uuid": "efdfc655-8f0b-4751-adb4-8e0371e7fb9a"
+    },
+    {
+      "lastUpdate": "2021-09-24T14:13:10",
+      "order": 0,
+      "uuid": "7519d5f9-4505-4169-a280-edce25ff316f"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:19:26",
+      "order": 0,
+      "uuid": "06718e14-3f0e-4da8-a383-0ad2a4b00504"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:19:26",
+      "order": 1,
+      "uuid": "a6bbfed7-0772-49f2-8f97-1fae28604a8a"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:19:26",
+      "order": 2,
+      "uuid": "a2098701-00e6-467b-a1da-8aa427ee04b7"
+    },
+    {
+      "lastUpdate": "2021-09-24T14:13:10",
+      "order": 0,
+      "uuid": "3dd89e5c-4867-434a-a3ff-7fb4503789cd"
+    },
+    {
+      "lastUpdate": "2021-09-24T14:21:11",
+      "order": 0,
+      "uuid": "31775382-97aa-4b9a-9995-74ef7a494115"
+    },
+    {
+      "lastUpdate": "2021-09-24T14:21:11",
+      "order": 1,
+      "uuid": "dac821ec-3a30-4637-98ca-fed5117a31f3"
+    },
+    {
+      "lastUpdate": "2021-09-23T19:45:16",
+      "order": 0,
+      "uuid": "2704c11e-e06a-4ae7-a253-be0ed0565d16"
+    }
+  ],
+  "relations": [
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "09661fc0-2f5e-4956-adab-88ba7f37aba5",
+      "outType": "SHT",
+      "outUuid": "f9fcd3be-5d10-4b84-9c37-1e50ae86c464"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "84ee5b2c-7d2c-47ab-85dc-99f35850c952",
+      "outType": "SHT",
+      "outUuid": "25dc56de-2740-4cd6-9235-7d9d5160d5ac"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "efdfc655-8f0b-4751-adb4-8e0371e7fb9a",
+      "outType": "SHT",
+      "outUuid": "4f60f490-ad67-43a7-9d4e-8dde765bf88b"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "7519d5f9-4505-4169-a280-edce25ff316f",
+      "outType": "SHT",
+      "outUuid": "34006407-4d9d-4851-b460-a7be4526e411"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "06718e14-3f0e-4da8-a383-0ad2a4b00504",
+      "outType": "GLR",
+      "outUuid": "3ac0edbf-924c-4518-9f73-9f55e177b5c7"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "a6bbfed7-0772-49f2-8f97-1fae28604a8a",
+      "outType": "GLR",
+      "outUuid": "bf7204fa-81fd-4125-ae82-1a022a5aef47"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "a2098701-00e6-467b-a1da-8aa427ee04b7",
+      "outType": "SHT",
+      "outUuid": "d731c5f5-5b35-4ce2-8a6c-a93986d42050"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inType": "SHT_ITM",
+      "inUuid": "2704c11e-e06a-4ae7-a253-be0ed0565d16",
+      "outType": "SHT",
+      "outUuid": "9447202d-7219-4e75-a9b1-6a6e2ef1b9bd"
+    },
+    {
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "inUuid": "15c0001c-6c99-4a3d-97f0-868ceea0886b",
+      "inType": "GPS",
+      "outType": "SHT",
+      "outUuid": "9447202d-7219-4e75-a9b1-6a6e2ef1b9bd"
+    },
+    {
+      "poiUuid": "",
+      "inUuid": "",
+      "inType": "EPT",
+      "outType": "SHT",
+      "outUuid": "2892b90d-d83c-4d20-be4c-cb23251397e6"
+    },
+    {
+      "poiUuid": "",
+      "inUuid": "",
+      "inType": "EPT",
+      "outType": "MAP",
+      "outUuid": "362a4a2c-af28-47df-aba8-dabbd689d81f"
+    }
+  ],
+  "galleries": [
+    {
+      "items": [
+        "4fba7d23-b4b7-49e4-8bb6-3896e06b23d3",
+        "3f5ca96a-1a37-419f-96d0-43c370d02b8c"
+      ],
+      "tag": "images-gallery",
+      "lastUpdate": "2021-09-23T19:02:00",
+      "uuid": "3ac0edbf-924c-4518-9f73-9f55e177b5c7"
+    },
+    {
+      "items": [
+        "5f11eeb8-0f6e-442a-9447-a14b41b771bc"
+      ],
+      "tag": "audio-gallery",
+      "lastUpdate": "2021-09-23T19:19:25",
+      "uuid": "bf7204fa-81fd-4125-ae82-1a022a5aef47"
+    }
+  ],
+  "galleryItems": [
+    {
+      "description": null,
+      "mediaUuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f",
+      "order": 0,
+      "subtitle": null,
+      "title": null,
+      "lastUpdate": "2021-09-23T19:01:59",
+      "uuid": "4fba7d23-b4b7-49e4-8bb6-3896e06b23d3"
+    },
+    {
+      "description": null,
+      "mediaUuid": "f8099cef-e8ba-4c98-9222-ffee78c18164",
+      "order": 1,
+      "subtitle": null,
+      "title": null,
+      "lastUpdate": "2021-09-23T19:02:00",
+      "uuid": "3f5ca96a-1a37-419f-96d0-43c370d02b8c"
+    },
+    {
+      "description": null,
+      "mediaUuid": "ea91978c-d26f-431d-a2da-ddd9bcb8b1c3",
+      "order": 0,
+      "subtitle": null,
+      "title": null,
+      "lastUpdate": "2021-09-23T19:19:25",
+      "uuid": "5f11eeb8-0f6e-442a-9447-a14b41b771bc"
+    }
+  ],
+  "maps": [
+    {
+      "bottomRightLatitude": 0.0,
+      "bottomRightLongitude": 0.0,
+      "description": null,
+      "height": 0,
+      "lastUpdate": "2021-09-24T17:40:02",
+      "items": [
+        "c8fc9abd-21e1-44ed-8e3f-5eeb4e81b856"
+      ],
+      "mapType": 0,
+      "mediaUuid": null,
+      "subtitle": null,
+      "tag": "map-from-pois-gps",
+      "title": null,
+      "topLeftLatitude": 0.0,
+      "topLeftLongitude": 0.0,
+      "uuid": "362a4a2c-af28-47df-aba8-dabbd689d81f",
+      "width": 0
+    }
+  ],
+  "mapItems": [
+    {
+      "lastUpdate": "2021-09-23T19:45:16",
+      "latitude": 37.7294526,
+      "longitude": 14.7216797,
+      "mediaUuid": null,
+      "poiUuid": "877815c5-ee7a-48be-9466-be612a1da36e",
+      "uuid": "c8fc9abd-21e1-44ed-8e3f-5eeb4e81b856",
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "totalSize": 105594
+}
