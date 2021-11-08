@@ -1,1 +1,203 @@
-{"paths":[{"categories":[],"color":"","description":null,"mediaUuid":null,"subtitle":null,"skuCode":null,"tag":"path-intro","title":"Intro","lastUpdate":"2021-10-18T11:07:47","uuid":"86c2d50a-aa3d-4772-a493-51a688fe7ef7","totalSize":2779908},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d702"],"color":"#EA6A4B","description":"<p>Gioca e visualizza in tempo reale la tua posizione in classifica.</p>\n","mediaUuid":"7e5a190b-b38d-4200-86c1-5e00b55e6734","subtitle":"AUGUSTUS","skuCode":null,"tag":"path-rank","title":"Classifica","lastUpdate":"2021-10-18T14:06:00","uuid":"4e58d24a-1203-424d-b0bc-239d357b3d94","totalSize":791546},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d702"],"color":"#EA6A4B","description":"<p>Salva i tuoi preferiti e ritrovali qui in qualsiasi momento.</p>\n","mediaUuid":"75e9c38e-957c-43ed-9fd7-0ee6822fcc6f","subtitle":"AUGUSTUS","skuCode":null,"tag":"path-bookmark","title":"Preferiti","lastUpdate":"2021-10-18T14:06:00","uuid":"266d5791-5c58-4eaf-bb22-31b73b2b356c","totalSize":769170},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d703"],"color":"#EA6A4B","description":"<p>Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.</p>\n","mediaUuid":"e31c23bf-9b18-483a-8d92-f072eb1b64f9","subtitle":"AUGUSTUS","skuCode":null,"tag":"path-game-reward","title":"Bacheca","lastUpdate":"2021-10-18T15:30:00","uuid":"24b0f8d1-fa30-4b9a-aaac-791ad3388e31","totalSize":138681},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d701"],"color":"#EA6A4B","description":"<p>Esplora la Villa Romana del Casale di Piazza Armerina. Risolvi enigmi tra corridoi, terme e appartamenti e colleziona tesori</p>\n","mediaUuid":"b1e13456-c3d3-495b-9e13-c6274e5aa948","subtitle":"Piazza Armerina","skuCode":null,"tag":"path-main-external-game","title":"Villa Romana del Casale","lastUpdate":"2021-10-18T12:17:51","uuid":"0f1b3a8a-5acf-4dfd-9bbe-56f422de46c4","totalSize":25918942},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d701"],"color":"#EA6A4B","description":"<p>Il Parco della Valle dei Templi rivela i suoi segreti: incomincia la visita, decifra gli enigmi e scova un tesoro inestimabile</p>\n","mediaUuid":"f3174664-39ea-4d91-8b2e-2bba81d35ddd","subtitle":"Agrigento","skuCode":null,"tag":"path-main-external-game","title":"Valle dei Templi","lastUpdate":"2021-10-18T12:17:51","uuid":"c5a5f8b7-c390-41a4-8f8a-7b2b75f75d73","totalSize":2360956},{"categories":[],"color":"","description":null,"mediaUuid":null,"subtitle":null,"skuCode":null,"tag":"path-extra","title":"Extra","lastUpdate":"2021-10-19T08:19:45","uuid":"a1fceed5-cf07-49c6-8928-feea4073681a","totalSize":89180},{"categories":["397fe1ae-a818-4822-8e03-4b24a643d701"],"color":"#EA6A4B","description":"<p>Scopri la storia dell’espansione greca in Sicilia nel Parco archeologico di Naxos andando a caccia dei suoi tesori nascosti!</p>\n","mediaUuid":"75e9c38e-957c-43ed-9fd7-0ee6822fcc6f","subtitle":"Taormina-Naxos","skuCode":null,"tag":"path-main-external-game","title":"Parco di Taormina-Naxos","lastUpdate":"2021-10-18T13:53:25","uuid":"dd2310ff-7113-40b3-9689-f8bb1d1a5392","totalSize":2751772}],"pathCategories":[{"color":null,"description":null,"lastUpdate":"2021-10-18T14:06:00","mediaUuid":null,"order":1,"subtitle":null,"tag":"profile","title":"Il tuo Profilo","uuid":"397fe1ae-a818-4822-8e03-4b24a643d702"},{"color":null,"description":"Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.","lastUpdate":"2021-10-18T15:30:00","mediaUuid":null,"order":2,"subtitle":null,"tag":"circular-expanded","title":"Bacheca","uuid":"397fe1ae-a818-4822-8e03-4b24a643d703"},{"color":null,"description":null,"lastUpdate":"2021-09-24T17:14:00","mediaUuid":null,"order":0,"subtitle":null,"tag":"preview","title":"Percorsi","uuid":"397fe1ae-a818-4822-8e03-4b24a643d701"}],"mediaFiles":[{"lastUpdate":"2021-10-12T10:13:51","mimeType":"image/png","name":"AdobeStock_83450730.png","type":"IMG","size":791546,"url":"http://augustuscms.democontent.it/wp-content/uploads/2021/10/AdobeStock_83450730.png","uuid":"7e5a190b-b38d-4200-86c1-5e00b55e6734"},{"lastUpdate":"2021-10-12T10:14:30","mimeType":"image/png","name":"3.png","type":"IMG","size":769170,"url":"http://augustuscms.democontent.it/wp-content/uploads/2021/10/3.png","uuid":"75e9c38e-957c-43ed-9fd7-0ee6822fcc6f"},{"lastUpdate":"2021-10-12T10:15:21","mimeType":"image/png","name":"Colonna_percorso_villacasale@2x.png","type":"IMG","size":107983,"url":"http://augustuscms.democontent.it/wp-content/uploads/2021/10/Colonna_percorso_villacasale@2x.png","uuid":"e31c23bf-9b18-483a-8d92-f072eb1b64f9"},{"lastUpdate":"2021-10-07T11:14:59","mimeType":"image/png","name":"Villa-Romana-del-Casale.png","type":"IMG","size":645829,"url":"http://augustuscms.democontent.it/wp-content/uploads/2021/10/Villa-Romana-del-Casale.png","uuid":"b1e13456-c3d3-495b-9e13-c6274e5aa948"},{"lastUpdate":"2021-10-12T10:26:21","mimeType":"image/png","name":"2.png","type":"IMG","size":378354,"url":"http://augustuscms.democontent.it/wp-content/uploads/2021/10/2.png","uuid":"f3174664-39ea-4d91-8b2e-2bba81d35ddd"}],"lastUpdate":"2021-10-19T08:19:45"}
+{
+    "paths": [
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-intro",
+            "title": "Intro",
+            "lastUpdate": "2021-10-18T11:07:47",
+            "uuid": "86c2d50a-aa3d-4772-a493-51a688fe7ef7",
+            "totalSize": 2779908
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d702"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Gioca e visualizza in tempo reale la tua posizione in classifica.</p>\n",
+            "mediaUuid": "7e5a190b-b38d-4200-86c1-5e00b55e6734",
+            "subtitle": "AUGUSTUS",
+            "skuCode": null,
+            "tag": "path-rank",
+            "title": "Classifica",
+            "lastUpdate": "2021-10-18T14:06:00",
+            "uuid": "4e58d24a-1203-424d-b0bc-239d357b3d94",
+            "totalSize": 791546
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d702"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Salva i tuoi preferiti e ritrovali qui in qualsiasi momento.</p>\n",
+            "mediaUuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f",
+            "subtitle": "AUGUSTUS",
+            "skuCode": null,
+            "tag": "path-bookmark",
+            "title": "Preferiti",
+            "lastUpdate": "2021-10-18T14:06:00",
+            "uuid": "266d5791-5c58-4eaf-bb22-31b73b2b356c",
+            "totalSize": 769170
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d703"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.</p>\n",
+            "mediaUuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9",
+            "subtitle": "AUGUSTUS",
+            "skuCode": null,
+            "tag": "path-game-reward",
+            "title": "Bacheca",
+            "lastUpdate": "2021-10-18T15:30:00",
+            "uuid": "24b0f8d1-fa30-4b9a-aaac-791ad3388e31",
+            "totalSize": 138681
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d701"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Esplora la Villa Romana del Casale di Piazza Armerina. Risolvi enigmi tra corridoi, terme e appartamenti e colleziona tesori</p>\n",
+            "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948",
+            "subtitle": "Piazza Armerina",
+            "skuCode": null,
+            "tag": "path-main-external-game",
+            "title": "Villa Romana del Casale",
+            "lastUpdate": "2021-10-18T12:17:51",
+            "uuid": "0f1b3a8a-5acf-4dfd-9bbe-56f422de46c4",
+            "totalSize": 25918942
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d701"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Il Parco della Valle dei Templi rivela i suoi segreti: incomincia la visita, decifra gli enigmi e scova un tesoro inestimabile</p>\n",
+            "mediaUuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd",
+            "subtitle": "Agrigento",
+            "skuCode": null,
+            "tag": "path-main-external-game",
+            "title": "Valle dei Templi",
+            "lastUpdate": "2021-10-18T12:17:51",
+            "uuid": "c5a5f8b7-c390-41a4-8f8a-7b2b75f75d73",
+            "totalSize": 2360956
+        },
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-extra",
+            "title": "Extra",
+            "lastUpdate": "2021-10-19T08:19:45",
+            "uuid": "a1fceed5-cf07-49c6-8928-feea4073681a",
+            "totalSize": 89180
+        },
+        {
+            "categories": [
+                "397fe1ae-a818-4822-8e03-4b24a643d701"
+            ],
+            "color": "#EA6A4B",
+            "description": "<p>Scopri la storia dell’espansione greca in Sicilia nel Parco archeologico di Naxos andando a caccia dei suoi tesori nascosti!</p>\n",
+            "mediaUuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f",
+            "subtitle": "Taormina-Naxos",
+            "skuCode": null,
+            "tag": "path-main-external-game",
+            "title": "Parco di Taormina-Naxos",
+            "lastUpdate": "2021-10-18T13:53:25",
+            "uuid": "dd2310ff-7113-40b3-9689-f8bb1d1a5392",
+            "totalSize": 2751772
+        }
+    ],
+    "pathCategories": [
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2021-10-18T14:06:00",
+            "mediaUuid": null,
+            "order": 1,
+            "subtitle": null,
+            "tag": "profile",
+            "title": "Il tuo Profilo",
+            "uuid": "397fe1ae-a818-4822-8e03-4b24a643d702"
+        },
+        {
+            "color": null,
+            "description": "Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.",
+            "lastUpdate": "2021-10-18T15:30:00",
+            "mediaUuid": null,
+            "order": 2,
+            "subtitle": null,
+            "tag": "circular-expanded",
+            "title": "Bacheca",
+            "uuid": "397fe1ae-a818-4822-8e03-4b24a643d703"
+        },
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2021-09-24T17:14:00",
+            "mediaUuid": null,
+            "order": 0,
+            "subtitle": null,
+            "tag": "preview",
+            "title": "Percorsi",
+            "uuid": "397fe1ae-a818-4822-8e03-4b24a643d701"
+        }
+    ],
+    "mediaFiles": [
+        {
+            "lastUpdate": "2021-10-12T10:13:51",
+            "mimeType": "image/png",
+            "name": "AdobeStock_83450730.png",
+            "type": "IMG",
+            "size": 791546,
+            "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/AdobeStock_83450730.png",
+            "uuid": "7e5a190b-b38d-4200-86c1-5e00b55e6734"
+        },
+        {
+            "lastUpdate": "2021-10-12T10:14:30",
+            "mimeType": "image/png",
+            "name": "3.png",
+            "type": "IMG",
+            "size": 769170,
+            "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/3.png",
+            "uuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f"
+        },
+        {
+            "lastUpdate": "2021-10-12T10:15:21",
+            "mimeType": "image/png",
+            "name": "Colonna_percorso_villacasale@2x.png",
+            "type": "IMG",
+            "size": 107983,
+            "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/Colonna_percorso_villacasale@2x.png",
+            "uuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9"
+        },
+        {
+            "lastUpdate": "2021-10-07T11:14:59",
+            "mimeType": "image/png",
+            "name": "Villa-Romana-del-Casale.png",
+            "type": "IMG",
+            "size": 645829,
+            "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/Villa-Romana-del-Casale.png",
+            "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948"
+        },
+        {
+            "lastUpdate": "2021-10-12T10:26:21",
+            "mimeType": "image/png",
+            "name": "2.png",
+            "type": "IMG",
+            "size": 378354,
+            "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/2.png",
+            "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
+        }
+    ],
+    "lastUpdate": "2021-10-19T08:19:45"
+}
