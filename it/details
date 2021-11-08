@@ -27,20 +27,20 @@
   "mediaFiles": [
     {
       "lastUpdate": "2021-09-23T19:01:56",
-      "mimeType": "image/png",
-      "name": "test-mod.png",
+      "mimeType": "image/jpeg",
+      "name": "test-mod.jpg",
       "type": "IMG",
       "size": 19663,
-      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-mod.png",
+      "url": "https://sm.ign.com/ign_it/screenshot/default/happy-game-recensione_ft2p.jpg",
       "uuid": "f8099cef-e8ba-4c98-9222-ffee78c18164"
     },
     {
       "lastUpdate": "2021-09-23T19:01:49",
-      "mimeType": "image/png",
-      "name": "test-1.png",
+      "mimeType": "image/jpeg",
+      "name": "test-1.jpg",
       "type": "IMG",
       "size": 31883,
-      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-1.png",
+      "url": "https://sm.ign.com/ign_it/screenshot/default/happy-game-recensione_ft2p.jpg",
       "uuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f"
     },
     {
@@ -49,7 +49,7 @@
       "name": "claps-1.mp3",
       "type": "AUD",
       "size": 54048,
-      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/claps-1.mp3",
+      "url": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3",
       "uuid": "ea91978c-d26f-431d-a2da-ddd9bcb8b1c3"
     }
   ],
@@ -454,20 +454,20 @@
   "mediaFiles": [
     {
       "lastUpdate": "2021-09-23T19:01:56",
-      "mimeType": "image/png",
-      "name": "test-mod.png",
+      "mimeType": "image/jpeg",
+      "name": "test-mod.jpg",
       "type": "IMG",
       "size": 19663,
-      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-mod.png",
+      "url": "https://sm.ign.com/ign_it/screenshot/default/happy-game-recensione_ft2p.jpg",
       "uuid": "f8099cef-e8ba-4c98-9222-ffee78c18164"
     },
     {
       "lastUpdate": "2021-09-23T19:01:49",
-      "mimeType": "image/png",
-      "name": "test-1.png",
+      "mimeType": "image/jpeg",
+      "name": "test-1.jpg",
       "type": "IMG",
       "size": 31883,
-      "url": "http://localhost:8080/augustus/wp-content/uploads/2021/09/test-1.png",
+      "url": "https://sm.ign.com/ign_it/screenshot/default/happy-game-recensione_ft2p.jpg",
       "uuid": "ca751081-2eb8-4a51-aa99-ed8928bdb70f"
     }
   ],
