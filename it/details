@@ -8,7 +8,7 @@
         "skuCode": null,
         "tag": "path-intro",
         "title": "Intro",
-        "lastUpdate": "2020-10-21T12:07:47",
+        "lastUpdate": "2022-10-21T12:07:47",
         "uuid": "86c2d50a-aa3d-4772-a493-51a688fe7ef7",
         "pois": [
             {
@@ -18,7 +18,7 @@
                 "subtitle": null,
                 "tag": "poi-intro",
                 "title": "Intro",
-                "lastUpdate": "2020-10-15T15:56:28",
+                "lastUpdate": "2022-10-15T15:56:28",
                 "uuid": "f40e5d1b-5661-4ddb-9873-a5a3fb453093"
             }
         ],
@@ -37,7 +37,7 @@
         "poiCategories": [],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-19 T11:07:30",
+                "lastUpdate": "2022-10-19 T11:07:30",
                 "mimeType": "image/png",
                 "name": "1.png",
                 "type": "IMG",
@@ -46,7 +46,7 @@
                 "uuid": "9dcf1a85-ce73-4095-ad33-6076c05ddcfc"
             },
             {
-                "lastUpdate": "2020-10-13T10:26:21",
+                "lastUpdate": "2022-10-13T10:26:21",
                 "mimeType": "image/png",
                 "name": "2.png",
                 "type": "IMG",
@@ -55,7 +55,7 @@
                 "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
             },
             {
-                "lastUpdate": "2020-10-13T10:14:30",
+                "lastUpdate": "2022-10-13T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -64,7 +64,7 @@
                 "uuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f"
             },
             {
-                "lastUpdate": "2020-10-12T10:12:29",
+                "lastUpdate": "2022-10-12T10:12:29",
                 "mimeType": "image/png",
                 "name": "4.png",
                 "type": "IMG",
@@ -84,7 +84,7 @@
                     "ccdc94f2-00c2-4403-bfd4-711a5bc4e677",
                     "692f43be-afe8-45c5-bd3c-0a77b3d04f7a"
                 ],
-                "lastUpdate": "2020-10-18T11:07:47",
+                "lastUpdate": "2022-10-18T11:07:47",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Intro",
@@ -94,7 +94,7 @@
             {
                 "description": "<p>Dall’unione di cronmologia e beni assessorali nasce il progetto Gianluigina, che mira alla creazione di un dominio del mondo interattivo e immersivo per una fruizione esperienziale di 4 siti archeologici siciliani.</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T10:47:00",
+                "lastUpdate": "2022-10-18T10:47:00",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "",
@@ -104,7 +104,7 @@
             {
                 "description": "<p>La piattaforma di gioco web e app AUGuSTUS consente la scoperta onsite e offsite del patrimonio culturale della Sicilia sulle orme dell’imperatore Augusto. All’interno di ogni percorso sono presenti una serie di punti di interesse e contenuti a valore aggiunto navigabili su una mappa fruibile attraverso l’app.</p>\n<p>Il giocatore supererà prove ed enigmi basati su avvenimenti storici reali interagendo in prima persona con ambienti e personaggi e accumulando tesori.</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "",
@@ -114,7 +114,7 @@
             {
                 "description": "<p>Il giocatore supererà prove ed enigmi basati su avvenimenti storici reali interagendo in prima persona con ambienti e personaggi e accumulando tesori.</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T10:47:02",
+                "lastUpdate": "2022-10-18T10:47:02",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Videogame",
@@ -126,7 +126,7 @@
                 "items": [
                     "e924353f-d320-42ef-aeed-219b13ccb749"
                 ],
-                "lastUpdate": "2020-10-05T15:56:29",
+                "lastUpdate": "2022-10-05T15:56:29",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Intro",
@@ -136,37 +136,37 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 0,
                 "uuid": "74575bb7-ad19-4f9b-9383-27292113cb56"
             },
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 1,
                 "uuid": "1ab9248e-51d7-4dbd-bde1-3672014be95e"
             },
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 2,
                 "uuid": "a56e0633-49c2-4d66-b963-394552d6558e"
             },
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 3,
                 "uuid": "94e149d0-ded6-43f6-9418-5f997fd423b8"
             },
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 4,
                 "uuid": "ccdc94f2-00c2-4403-bfd4-711a5bc4e677"
             },
             {
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "order": 5,
                 "uuid": "692f43be-afe8-45c5-bd3c-0a77b3d04f7a"
             },
             {
-                "lastUpdate": "2020-10-05T15:56:29",
+                "lastUpdate": "2022-10-05T15:56:29",
                 "order": 0,
                 "uuid": "e924353f-d320-42ef-aeed-219b13ccb749"
             }
@@ -236,7 +236,7 @@
                     "de20ff4e-e9e2-4add-9584-2f2d0b5572cb"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "uuid": "6d831580-ad4b-488d-89c1-d3f2d1e4c9e1"
             },
             {
@@ -244,7 +244,7 @@
                     "7da7b1a0-4cb9-43da-84ae-2aa5cda3b2a8"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-18T10:47:02",
+                "lastUpdate": "2022-10-18T10:47:02",
                 "uuid": "5c206e37-7c20-4768-ab6b-70bc5a8a7fd8"
             },
             {
@@ -252,7 +252,7 @@
                     "83ed5df3-8712-4646-aece-6b356f888d93"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-18T10:47:02",
+                "lastUpdate": "2022-10-18T10:47:02",
                 "uuid": "65f4cecc-cc96-4fae-be94-903d077de606"
             }
         ],
@@ -263,7 +263,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "uuid": "9e8ca58a-a1c5-4f6a-ab25-60dfa8fc36c8"
             },
             {
@@ -272,7 +272,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-18T11:07:46",
+                "lastUpdate": "2022-10-18T11:07:46",
                 "uuid": "de20ff4e-e9e2-4add-9584-2f2d0b5572cb"
             },
             {
@@ -281,7 +281,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-18T10:47:02",
+                "lastUpdate": "2022-10-18T10:47:02",
                 "uuid": "7da7b1a0-4cb9-43da-84ae-2aa5cda3b2a8"
             },
             {
@@ -290,7 +290,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-18T10:47:02",
+                "lastUpdate": "2022-10-18T10:47:02",
                 "uuid": "83ed5df3-8712-4646-aece-6b356f888d93"
             }
         ],
@@ -307,13 +307,13 @@
         "skuCode": null,
         "tag": "path-rank",
         "title": "Classifica",
-        "lastUpdate": "2020-10-19T14:06:00",
+        "lastUpdate": "2022-10-19T14:06:00",
         "uuid": "4e58d24a-1203-424d-b0bc-239d357b3d94",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2020-10-18T14:06:00",
+                "lastUpdate": "2022-10-18T14:06:00",
                 "mediaUuid": null,
                 "order": 1,
                 "subtitle": null,
@@ -324,7 +324,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-12T10:13:51",
+                "lastUpdate": "2022-10-12T10:13:51",
                 "mimeType": "image/png",
                 "name": "AdobeStock_83450730.png",
                 "type": "IMG",
@@ -341,7 +341,7 @@
                 "subtitle": "AUGUSTUS",
                 "tag": "poi-rank",
                 "title": "Classifica",
-                "lastUpdate": "2020-10-12T10:14:09",
+                "lastUpdate": "2022-10-12T10:14:09",
                 "uuid": "39fdcb7a-be39-4e19-b5d7-091e9faf72a4"
             }
         ],
@@ -362,7 +362,7 @@
             {
                 "description": "<p>Gioca e visualizza in tempo reale la tua posizione in classifica.</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-12T10:14:09",
+                "lastUpdate": "2022-10-12T10:14:09",
                 "mediaUuid": null,
                 "subtitle": "AUGUSTUS",
                 "title": "Classifica",
@@ -374,7 +374,7 @@
                 "items": [
                     "f9424f02-84b7-4a83-8b33-9980a51f38ed"
                 ],
-                "lastUpdate": "2020-10-12T10:14:08",
+                "lastUpdate": "2022-10-12T10:14:08",
                 "mediaUuid": "7e5a190b-b38d-4200-86c1-5e00b55e6734",
                 "subtitle": "AUGUSTUS",
                 "title": "Classifica",
@@ -384,7 +384,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-05T15:57:07",
+                "lastUpdate": "2022-10-05T15:57:07",
                 "order": 0,
                 "uuid": "f9424f02-84b7-4a83-8b33-9980a51f38ed"
             }
@@ -418,13 +418,13 @@
         "skuCode": null,
         "tag": "path-bookmark",
         "title": "Preferiti",
-        "lastUpdate": "2020-10-19T14:06:00",
+        "lastUpdate": "2022-10-19T14:06:00",
         "uuid": "266d5791-5c58-4eaf-bb22-31b73b2b356c",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2020-10-18T14:06:00",
+                "lastUpdate": "2022-10-18T14:06:00",
                 "mediaUuid": null,
                 "order": 1,
                 "subtitle": null,
@@ -435,7 +435,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-12T10:14:30",
+                "lastUpdate": "2022-10-12T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -452,7 +452,7 @@
                 "subtitle": "AUGUSTUS",
                 "tag": "poi-bookmark",
                 "title": "Preferiti",
-                "lastUpdate": "2020-10-12T10:14:47",
+                "lastUpdate": "2022-10-12T10:14:47",
                 "uuid": "b5811d4f-76ee-4c7a-a145-eb5f45a122bd"
             }
         ],
@@ -473,7 +473,7 @@
             {
                 "description": "<p>Salva i tuoi preferiti e ritrovali qui in qualsiasi momento.</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-12T10:14:47",
+                "lastUpdate": "2022-10-12T10:14:47",
                 "mediaUuid": null,
                 "subtitle": "AUGUSTUS",
                 "title": "Preferiti",
@@ -485,7 +485,7 @@
                 "items": [
                     "833166f1-2ed4-43ee-8fa4-12d451c5823c"
                 ],
-                "lastUpdate": "2020-10-12T10:14:47",
+                "lastUpdate": "2022-10-12T10:14:47",
                 "mediaUuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f",
                 "subtitle": "AUGUSTUS",
                 "title": "Preferiti",
@@ -495,7 +495,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-05T15:57:23",
+                "lastUpdate": "2022-10-05T15:57:23",
                 "order": 0,
                 "uuid": "833166f1-2ed4-43ee-8fa4-12d451c5823c"
             }
@@ -529,13 +529,13 @@
         "skuCode": null,
         "tag": "path-game-reward",
         "title": "Bacheca",
-        "lastUpdate": "2020-10-19T15:30:00",
+        "lastUpdate": "2022-10-19T15:30:00",
         "uuid": "24b0f8d1-fa30-4b9a-aaac-791ad3388e31",
         "pathCategories": [
             {
                 "color": null,
                 "description": "Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.",
-                "lastUpdate": "2020-10-18T15:30:00",
+                "lastUpdate": "2022-10-18T15:30:00",
                 "mediaUuid": null,
                 "order": 2,
                 "subtitle": null,
@@ -546,7 +546,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-12T10:15:21",
+                "lastUpdate": "2022-10-12T10:15:21",
                 "mimeType": "image/png",
                 "name": "Colonna_percorso_villacasale@2x.png",
                 "type": "IMG",
@@ -555,7 +555,7 @@
                 "uuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:50",
+                "lastUpdate": "2022-10-12T10:09:50",
                 "mimeType": "image/png",
                 "name": "Colonna_percorso_villacasale.png",
                 "type": "IMG",
@@ -572,7 +572,7 @@
                 "subtitle": null,
                 "tag": "poi-game-reward",
                 "title": null,
-                "lastUpdate": "2020-10-05T15:51:39",
+                "lastUpdate": "2022-10-05T15:51:39",
                 "uuid": "6927da74-cf09-4011-9bbd-da9be45be1f5"
             }
         ],
@@ -593,7 +593,7 @@
             {
                 "description": "<p>Hai conquistato un oggetto sbloccando questo percorso. Il tuo tesoro è custodito nella stanza delle meraviglie. Visita il sito web per saperne di più!</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T10:49:40",
+                "lastUpdate": "2022-10-18T10:49:40",
                 "mediaUuid": "7837eaa2-46a1-4cc3-96ec-8bdaf6a4ced1",
                 "subtitle": "https://www.augustusgame.it",
                 "title": "Colonna",
@@ -605,7 +605,7 @@
                 "items": [
                     "d219337a-0c16-4304-b26f-0ffbe9f6cc88"
                 ],
-                "lastUpdate": "2020-10-12T10:15:41",
+                "lastUpdate": "2022-10-12T10:15:41",
                 "mediaUuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9",
                 "subtitle": "AUGUSTUS",
                 "title": "Bacheca",
@@ -615,7 +615,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-05T15:59:30",
+                "lastUpdate": "2022-10-05T15:59:30",
                 "order": 0,
                 "uuid": "d219337a-0c16-4304-b26f-0ffbe9f6cc88"
             }
@@ -649,13 +649,13 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Villa Romana del Casale",
-        "lastUpdate": "2020-10-19T12:17:51",
+        "lastUpdate": "2022-10-19T12:17:51",
         "uuid": "0f1b3a8a-5acf-4dfd-9bbe-56f422de46c4",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2020-09-24T17:14:00",
+                "lastUpdate": "2022-09-24T17:14:00",
                 "mediaUuid": null,
                 "order": 0,
                 "subtitle": null,
@@ -666,7 +666,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-07T11:14:59",
+                "lastUpdate": "2022-10-07T11:14:59",
                 "mimeType": "image/png",
                 "name": "Villa-Romana-del-Casale.png",
                 "type": "IMG",
@@ -675,7 +675,7 @@
                 "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948"
             },
             {
-                "lastUpdate": "2020-10-07T11:02:46",
+                "lastUpdate": "2022-10-07T11:02:46",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso.png",
                 "type": "IMG",
@@ -684,7 +684,7 @@
                 "uuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60"
             },
             {
-                "lastUpdate": "2020-10-07T11:10:39",
+                "lastUpdate": "2022-10-07T11:10:39",
                 "mimeType": "image/png",
                 "name": "Poi-2-Frigidarium.png",
                 "type": "IMG",
@@ -693,7 +693,7 @@
                 "uuid": "36afb5d5-4fcf-49b6-aa3a-053c4590ad6a"
             },
             {
-                "lastUpdate": "2020-10-07T14:31:50",
+                "lastUpdate": "2022-10-07T14:31:50",
                 "mimeType": "image/png",
                 "name": "Poi-3-Peristilio-quadrato_1.png",
                 "type": "IMG",
@@ -702,7 +702,7 @@
                 "uuid": "eb98c018-8b2a-461f-a1fc-6dd26e26199b"
             },
             {
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "mimeType": "image/png",
                 "name": "Poi-4-pars-servilis.png",
                 "type": "IMG",
@@ -711,7 +711,7 @@
                 "uuid": "ea85fac0-7e8e-4f7e-b4ff-5777d3addaee"
             },
             {
-                "lastUpdate": "2020-10-07T14:54:47",
+                "lastUpdate": "2022-10-07T14:54:47",
                 "mimeType": "image/png",
                 "name": "Poi-5-appartamento-Nord.png",
                 "type": "IMG",
@@ -720,7 +720,7 @@
                 "uuid": "a7c3e209-e4fb-4bea-81f7-213a649c15d8"
             },
             {
-                "lastUpdate": "2020-10-07T15:06:33",
+                "lastUpdate": "2022-10-07T15:06:33",
                 "mimeType": "image/png",
                 "name": "Poi-6-Corridoio-della-Grande-Caccia.png",
                 "type": "IMG",
@@ -729,7 +729,7 @@
                 "uuid": "21c49772-9890-4541-9ea8-49b5322bf2a9"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:40",
+                "lastUpdate": "2022-10-11T15:22:40",
                 "mimeType": "image/png",
                 "name": "Poi-7-appartamento-Sud.png",
                 "type": "IMG",
@@ -738,7 +738,7 @@
                 "uuid": "cfba051d-57ae-45bf-9678-fdabc369b8ab"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:32",
+                "lastUpdate": "2022-10-11T15:39:32",
                 "mimeType": "image/png",
                 "name": "Poi-8-–-Stanza-delle-Palestrite.png",
                 "type": "IMG",
@@ -747,7 +747,7 @@
                 "uuid": "b9dcc030-2058-4f82-9961-74940998afd8"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:39",
+                "lastUpdate": "2022-10-11T15:44:39",
                 "mimeType": "image/png",
                 "name": "Poi-9-–-Diaeta-di-Orfeo.png",
                 "type": "IMG",
@@ -756,7 +756,7 @@
                 "uuid": "9ad9da6a-a5e5-44e5-86c9-9c3010218778"
             },
             {
-                "lastUpdate": "2020-10-11T15:53:02",
+                "lastUpdate": "2022-10-11T15:53:02",
                 "mimeType": "image/png",
                 "name": "Poi-10-–-Triclinio-Tribsidiato.png",
                 "type": "IMG",
@@ -765,7 +765,7 @@
                 "uuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b12"
             },
             {
-                "lastUpdate": "2020-10-05T15:46:57",
+                "lastUpdate": "2022-10-05T15:46:57",
                 "mimeType": "audio/mpeg",
                 "name": "claps.mp3",
                 "type": "AUD",
@@ -774,7 +774,7 @@
                 "uuid": "e016082e-ca39-4ef0-8a99-2af7662327b7"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:15",
+                "lastUpdate": "2022-10-07T14:33:15",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_00-1.png",
                 "type": "IMG",
@@ -783,7 +783,7 @@
                 "uuid": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:16",
+                "lastUpdate": "2022-10-07T14:33:16",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_01-1.png",
                 "type": "IMG",
@@ -792,7 +792,7 @@
                 "uuid": "45db56da-e68c-4d40-b79f-91ad96a3304f"
             },
             {
-                "lastUpdate": "2020-10-07T14:35:17",
+                "lastUpdate": "2022-10-07T14:35:17",
                 "mimeType": "image/png",
                 "name": "Poi-2-Frigidarium-2.png",
                 "type": "IMG",
@@ -801,7 +801,7 @@
                 "uuid": "035e14df-bbf7-4278-a0ad-5f0fa18c81a5"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:50",
+                "lastUpdate": "2022-10-12T10:09:50",
                 "mimeType": "image/png",
                 "name": "Colonna_percorso_villacasale.png",
                 "type": "IMG",
@@ -810,7 +810,7 @@
                 "uuid": "7837eaa2-46a1-4cc3-96ec-8bdaf6a4ced1"
             },
             {
-                "lastUpdate": "2020-10-07T14:31:17",
+                "lastUpdate": "2022-10-07T14:31:17",
                 "mimeType": "image/png",
                 "name": "POI-3.png",
                 "type": "IMG",
@@ -819,7 +819,7 @@
                 "uuid": "52ef3764-1e6a-40f1-af7d-bf3700e8f4cd"
             },
             {
-                "lastUpdate": "2020-10-07T14:31:34",
+                "lastUpdate": "2022-10-07T14:31:34",
                 "mimeType": "image/png",
                 "name": "Poi-3-Peristilio-quadrato.png",
                 "type": "IMG",
@@ -828,7 +828,7 @@
                 "uuid": "dfa1315e-a374-4fb6-9f6e-b51ba923b3ff"
             },
             {
-                "lastUpdate": "2020-10-07T14:41:17",
+                "lastUpdate": "2022-10-07T14:41:17",
                 "mimeType": "image/png",
                 "name": "Poi-4-pars-servilis_01.png",
                 "type": "IMG",
@@ -837,7 +837,7 @@
                 "uuid": "42471c2d-7078-4661-b051-701c5399e2d2"
             },
             {
-                "lastUpdate": "2020-10-07T14:41:34",
+                "lastUpdate": "2022-10-07T14:41:34",
                 "mimeType": "image/png",
                 "name": "Poi-4-pars-servilis_02.png",
                 "type": "IMG",
@@ -846,7 +846,7 @@
                 "uuid": "9c92854a-6bd2-43e2-ab6a-19c8894d7292"
             },
             {
-                "lastUpdate": "2020-10-07T14:41:50",
+                "lastUpdate": "2022-10-07T14:41:50",
                 "mimeType": "image/png",
                 "name": "Poi-4-pars-servilis_03.png",
                 "type": "IMG",
@@ -855,7 +855,7 @@
                 "uuid": "974b7565-1e2b-4b97-b027-72fe0c18b0ec"
             },
             {
-                "lastUpdate": "2020-10-07T14:42:07",
+                "lastUpdate": "2022-10-07T14:42:07",
                 "mimeType": "image/png",
                 "name": "Poi-4-pars-servilis_04.png",
                 "type": "IMG",
@@ -864,7 +864,7 @@
                 "uuid": "544ce97b-8b2b-4408-85a2-ff53a5c29295"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:56",
+                "lastUpdate": "2022-10-07T14:53:56",
                 "mimeType": "image/png",
                 "name": "Poi-5-appartamento-Nord_01.png",
                 "type": "IMG",
@@ -873,7 +873,7 @@
                 "uuid": "ec0de049-70f3-42fa-a04f-cb880bf56c05"
             },
             {
-                "lastUpdate": "2020-10-07T14:54:13",
+                "lastUpdate": "2022-10-07T14:54:13",
                 "mimeType": "image/png",
                 "name": "Poi-5-appartamento-Nord_02.png",
                 "type": "IMG",
@@ -882,7 +882,7 @@
                 "uuid": "fa36611f-ee6c-4a29-ac93-3ab653112ca4"
             },
             {
-                "lastUpdate": "2020-10-07T14:54:30",
+                "lastUpdate": "2022-10-07T14:54:30",
                 "mimeType": "image/png",
                 "name": "Poi-5-appartamento-Nord_03.png",
                 "type": "IMG",
@@ -891,7 +891,7 @@
                 "uuid": "9d7f6831-4b12-4460-85cb-da36437a6997"
             },
             {
-                "lastUpdate": "2020-10-07T15:05:45",
+                "lastUpdate": "2022-10-07T15:05:45",
                 "mimeType": "image/png",
                 "name": "Poi-6-–-Corridoio-della-Grande-Caccia_00.png",
                 "type": "IMG",
@@ -900,7 +900,7 @@
                 "uuid": "e13d8f21-f01a-4f64-9e1d-168c9b251f9f"
             },
             {
-                "lastUpdate": "2020-10-07T15:06:00",
+                "lastUpdate": "2022-10-07T15:06:00",
                 "mimeType": "image/png",
                 "name": "Poi-6-–-Corridoio-della-Grande-Caccia_01.png",
                 "type": "IMG",
@@ -909,7 +909,7 @@
                 "uuid": "6420716a-9061-4340-94fc-19032355b7a8"
             },
             {
-                "lastUpdate": "2020-10-07T15:06:17",
+                "lastUpdate": "2022-10-07T15:06:17",
                 "mimeType": "image/png",
                 "name": "Poi-6-–-Corridoio-della-Grande-Caccia_02.png",
                 "type": "IMG",
@@ -918,7 +918,7 @@
                 "uuid": "4a075152-4c02-4fe0-ac48-79bbe8e6e34e"
             },
             {
-                "lastUpdate": "2020-10-11T15:21:50",
+                "lastUpdate": "2022-10-11T15:21:50",
                 "mimeType": "image/png",
                 "name": "POI-7.png",
                 "type": "IMG",
@@ -927,7 +927,7 @@
                 "uuid": "12e283c2-33b5-4912-9357-206934db7557"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:07",
+                "lastUpdate": "2022-10-11T15:22:07",
                 "mimeType": "image/png",
                 "name": "Poi-7-appartamento-Sud_01.png",
                 "type": "IMG",
@@ -936,7 +936,7 @@
                 "uuid": "a204aec0-bd14-4b8c-ac52-35ca78bd708f"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:23",
+                "lastUpdate": "2022-10-11T15:22:23",
                 "mimeType": "image/png",
                 "name": "Poi-7-appartamento-Sud_02.png",
                 "type": "IMG",
@@ -945,7 +945,7 @@
                 "uuid": "5b58a61e-aa35-496c-954d-a5c9e5a225de"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:22",
+                "lastUpdate": "2022-10-11T15:38:22",
                 "mimeType": "image/png",
                 "name": "Poi-8-–-Stanza-delle-Palestrite_00.png",
                 "type": "IMG",
@@ -954,7 +954,7 @@
                 "uuid": "c169e6d7-092e-4278-9127-d9f957e03280"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:39",
+                "lastUpdate": "2022-10-11T15:38:39",
                 "mimeType": "image/png",
                 "name": "Poi-8-–-Stanza-delle-Palestrite_01.png",
                 "type": "IMG",
@@ -963,7 +963,7 @@
                 "uuid": "c479ac40-d9e8-49ba-b2f0-d34c64d6af3b"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:56",
+                "lastUpdate": "2022-10-11T15:38:56",
                 "mimeType": "image/png",
                 "name": "Poi-8-–-Stanza-delle-Palestrite_02.png",
                 "type": "IMG",
@@ -972,7 +972,7 @@
                 "uuid": "150ae943-15ca-4fc8-8bad-f504774cd413"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:15",
+                "lastUpdate": "2022-10-11T15:39:15",
                 "mimeType": "image/png",
                 "name": "Poi-8-–-Stanza-delle-Palestrite_03.png",
                 "type": "IMG",
@@ -981,7 +981,7 @@
                 "uuid": "96f688fc-47d9-4b76-90c3-353e1c401940"
             },
             {
-                "lastUpdate": "2020-10-11T15:43:50",
+                "lastUpdate": "2022-10-11T15:43:50",
                 "mimeType": "image/png",
                 "name": "POI-9_3.png",
                 "type": "IMG",
@@ -990,7 +990,7 @@
                 "uuid": "a9ac1e54-f5a4-4eb1-bfeb-c9c3804cbb7d"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:06",
+                "lastUpdate": "2022-10-11T15:44:06",
                 "mimeType": "image/png",
                 "name": "Poi-9-–-Diaeta-di-Orfeo-1.png",
                 "type": "IMG",
@@ -999,7 +999,7 @@
                 "uuid": "7a2cf799-ff3e-43de-9cff-fab8c097e73c"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:23",
+                "lastUpdate": "2022-10-11T15:44:23",
                 "mimeType": "image/png",
                 "name": "POI-9.png",
                 "type": "IMG",
@@ -1008,7 +1008,7 @@
                 "uuid": "fd23bbde-8431-4c7c-83d6-99e4fdee21e6"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:08",
+                "lastUpdate": "2022-10-11T15:52:08",
                 "mimeType": "image/png",
                 "name": "Poi-10-–-Triclinio-Tribsidiato_00.png",
                 "type": "IMG",
@@ -1017,7 +1017,7 @@
                 "uuid": "842153fb-c744-4e23-8689-e5357a333ee6"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:26",
+                "lastUpdate": "2022-10-11T15:52:26",
                 "mimeType": "image/png",
                 "name": "Poi-10-–-Triclinio-Tribsidiato_01.png",
                 "type": "IMG",
@@ -1026,7 +1026,7 @@
                 "uuid": "a301e063-f84e-496f-b701-e5965a4b1133"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:44",
+                "lastUpdate": "2022-10-11T15:52:44",
                 "mimeType": "image/png",
                 "name": "Poi-10-–-Triclinio-Tribsidiato_02.png",
                 "type": "IMG",
@@ -1043,7 +1043,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Ingresso",
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "uuid": "a771e3d1-609f-4883-8736-c903c2337476"
             },
             {
@@ -1053,7 +1053,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Frigidarium",
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "uuid": "5e833bb5-ba25-400c-b49e-86640d49ddaf"
             },
             {
@@ -1063,7 +1063,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Peristilio quadrato",
-                "lastUpdate": "2020-10-11T16:04:05",
+                "lastUpdate": "2022-10-11T16:04:05",
                 "uuid": "525a6b8b-f2da-470e-b5f8-fa72173119b9"
             },
             {
@@ -1073,7 +1073,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Pars servilis",
-                "lastUpdate": "2020-10-11T16:03:14",
+                "lastUpdate": "2022-10-11T16:03:14",
                 "uuid": "e30ae565-d465-450b-9012-3c90957a9d2c"
             },
             {
@@ -1083,7 +1083,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Appartamento padronale N",
-                "lastUpdate": "2020-10-11T16:02:22",
+                "lastUpdate": "2022-10-11T16:02:22",
                 "uuid": "3f319be2-13a6-43d4-994d-dfca0265e68b"
             },
             {
@@ -1093,7 +1093,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Corridoio della Grande Caccia",
-                "lastUpdate": "2020-10-11T16:02:49",
+                "lastUpdate": "2022-10-11T16:02:49",
                 "uuid": "16a047e8-d594-4c30-a6d7-8f1ab8fc2716"
             },
             {
@@ -1103,7 +1103,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Appartamento padronale S",
-                "lastUpdate": "2020-10-11T16:02:46",
+                "lastUpdate": "2022-10-11T16:02:46",
                 "uuid": "4c481468-be83-4575-80d7-b0efe67ebe9e"
             },
             {
@@ -1113,7 +1113,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Stanza delle Palestrite",
-                "lastUpdate": "2020-10-11T16:04:09",
+                "lastUpdate": "2022-10-11T16:04:09",
                 "uuid": "321a8106-e5fa-4ada-9038-6031937b66cb"
             },
             {
@@ -1123,7 +1123,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Dieta di Orfeo",
-                "lastUpdate": "2020-10-11T16:03:13",
+                "lastUpdate": "2022-10-11T16:03:13",
                 "uuid": "1e37e888-71c1-4607-8a99-2e474a635268"
             },
             {
@@ -1133,7 +1133,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Triclinio Triabsidato",
-                "lastUpdate": "2020-10-12T14:46:19",
+                "lastUpdate": "2022-10-12T14:46:19",
                 "uuid": "6ed13142-33f8-49d8-9a26-8f770fc6d38e"
             }
         ],
@@ -1242,70 +1242,70 @@
         "poiCategories": [],
         "gps": [
             {
-                "lastUpdate": "2020-10-07T11:02:48",
+                "lastUpdate": "2022-10-07T11:02:48",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "radius": 5.0,
                 "uuid": "4d311ac0-0dde-4451-a780-5e058a814d6d"
             },
             {
-                "lastUpdate": "2020-10-07T11:10:58",
+                "lastUpdate": "2022-10-07T11:10:58",
                 "latitude": 37.3648428,
                 "longitude": 14.3342561,
                 "radius": 5.0,
                 "uuid": "a65a4aad-b7bc-41ba-b434-916841032a2f"
             },
             {
-                "lastUpdate": "2020-10-07T14:32:07",
+                "lastUpdate": "2022-10-07T14:32:07",
                 "latitude": 37.3647767,
                 "longitude": 14.334594,
                 "radius": 5.0,
                 "uuid": "587d366d-1eb1-4827-b0e3-898733b6ebae"
             },
             {
-                "lastUpdate": "2020-10-07T14:42:41",
+                "lastUpdate": "2022-10-07T14:42:41",
                 "latitude": 37.3648855,
                 "longitude": 14.3346047,
                 "radius": 5.0,
                 "uuid": "f3eeb1c1-58ab-4a3c-adab-e499fd14a60a"
             },
             {
-                "lastUpdate": "2020-10-07T14:55:05",
+                "lastUpdate": "2022-10-07T14:55:05",
                 "latitude": 37.3650411,
                 "longitude": 14.3350446,
                 "radius": 5.0,
                 "uuid": "c369496a-b2bf-4657-a39c-84f621c41613"
             },
             {
-                "lastUpdate": "2020-10-07T15:06:50",
+                "lastUpdate": "2022-10-07T15:06:50",
                 "latitude": 37.3648748,
                 "longitude": 14.3348408,
                 "radius": 5.0,
                 "uuid": "2cd6bc82-4c74-44a8-928d-a1f89fd7ba1d"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:56",
+                "lastUpdate": "2022-10-11T15:22:56",
                 "latitude": 37.3647426,
                 "longitude": 14.3352815,
                 "radius": 5.0,
                 "uuid": "4e50709e-e352-41d8-bba0-727db4a44db2"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:49",
+                "lastUpdate": "2022-10-11T15:39:49",
                 "latitude": 37.3646787,
                 "longitude": 14.3351176,
                 "radius": 5.0,
                 "uuid": "b317be6d-ccb8-4985-ae3a-f985bebb620f"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:56",
+                "lastUpdate": "2022-10-11T15:44:56",
                 "latitude": 37.3647043,
                 "longitude": 14.3348334,
                 "radius": 5.0,
                 "uuid": "fed8f907-b6ad-44d0-8848-a9a65b6c8e0f"
             },
             {
-                "lastUpdate": "2020-10-11T15:53:20",
+                "lastUpdate": "2022-10-11T15:53:20",
                 "latitude": 37.3644378,
                 "longitude": 14.3349204,
                 "radius": 5.0,
@@ -1319,7 +1319,7 @@
                     "e3ecea88-9807-40c1-8753-730f94ac4cf0",
                     "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1329,7 +1329,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1343,7 +1343,7 @@
                     "bc955f4a-5f90-47c0-812e-04985dde7612",
                     "07eaefad-5f9d-4aff-83da-bfd980852995"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Ingresso",
@@ -1353,7 +1353,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1366,7 +1366,7 @@
                     "58aa843a-f18d-479d-b583-1592a0dcbf1c",
                     "2adbc60f-eaa6-44a0-bdf8-8a4e266fa134"
                 ],
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1378,7 +1378,7 @@
                 "items": [
                     "5174bece-583a-4408-b379-7dc314184b0d"
                 ],
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1390,7 +1390,7 @@
                 "items": [
                     "5e0ee08c-150e-4fcf-ae4a-dcab53c43873"
                 ],
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "mediaUuid": "36afb5d5-4fcf-49b6-aa3a-053c4590ad6a",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Frigidarium",
@@ -1404,7 +1404,7 @@
                     "6733d42b-ed9b-43e4-b850-4c3f97665742",
                     "b7a8a2f9-6f91-48ca-942e-1710dd84b1a4"
                 ],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1418,7 +1418,7 @@
                     "b66891ef-60cd-4171-ae56-12b017d1db8e",
                     "9bc39ab3-fc86-47f5-94b8-975b36456325"
                 ],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Le terme romane erano costituite da tre ambienti che si succedevano secondo un ordine ben preciso. Quale?",
@@ -1431,7 +1431,7 @@
                     "2598e493-506e-4a1e-8515-a01a2a1715b1",
                     "6620b695-5729-40c4-a08b-91eef0a624f9"
                 ],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Nelle terme romane, ai servitori era consentito fare il bagno e la sauna insieme ai loro padroni?",
@@ -1445,7 +1445,7 @@
                     "3ff651f2-6141-45ac-8b13-09a02ad1bfd5",
                     "eda21093-507b-488e-980e-d32f69c566d0"
                 ],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Quanti ambienti si aprono sui lati del frigidario della Villa Romana del Casale?",
@@ -1455,7 +1455,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Basilica, ginnasio, calidario",
@@ -1465,7 +1465,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Frigidario, tepidaro, calidario",
@@ -1475,7 +1475,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Frigidario, palestra, basilica",
@@ -1485,7 +1485,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Vero",
@@ -1495,7 +1495,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Falso",
@@ -1505,7 +1505,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "3",
@@ -1515,7 +1515,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "6",
@@ -1525,7 +1525,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "8",
@@ -1539,7 +1539,7 @@
                     "29694a4a-aba9-4a4d-9440-175c21af02ab",
                     "3fbb0107-e272-4ee7-adc3-b0acc2a954c5"
                 ],
-                "lastUpdate": "2020-10-12T10:10:07",
+                "lastUpdate": "2022-10-12T10:10:07",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1551,7 +1551,7 @@
                 "items": [
                     "65ce8f5e-e861-4b51-b415-bce3b1628e1b"
                 ],
-                "lastUpdate": "2020-10-18T10:49:37",
+                "lastUpdate": "2022-10-18T10:49:37",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1566,7 +1566,7 @@
                     "81f2ff9c-89ba-4f4c-94c7-49e38e197b37",
                     "6db9ed06-04be-4849-b6b0-22bbaeb8b807"
                 ],
-                "lastUpdate": "2020-10-12T10:09:49",
+                "lastUpdate": "2022-10-12T10:09:49",
                 "mediaUuid": "eb98c018-8b2a-461f-a1fc-6dd26e26199b",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Peristilio quadrato",
@@ -1576,7 +1576,7 @@
             {
                 "description": "<p>Hai conquistato un oggetto sbloccando questo percorso. Il tuo tesoro è custodito nella stanza delle meraviglie. Visita il sito web per saperne di più!</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T10:49:40",
+                "lastUpdate": "2022-10-18T10:49:40",
                 "mediaUuid": "7837eaa2-46a1-4cc3-96ec-8bdaf6a4ced1",
                 "subtitle": "https://www.augustusgame.it",
                 "title": "Colonna",
@@ -1586,7 +1586,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-05T15:51:18",
+                "lastUpdate": "2022-10-05T15:51:18",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1599,7 +1599,7 @@
                     "c94fcbda-a838-42d9-85da-e3d3b66b99ea",
                     "f096707c-71e4-4634-b11e-a99e1f5fc352"
                 ],
-                "lastUpdate": "2020-10-12T10:05:58",
+                "lastUpdate": "2022-10-12T10:05:58",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1611,7 +1611,7 @@
                 "items": [
                     "03f8c6c3-9576-4ea4-a4ef-31b695f5dec5"
                 ],
-                "lastUpdate": "2020-10-12T10:05:57",
+                "lastUpdate": "2022-10-12T10:05:57",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1623,7 +1623,7 @@
                 "items": [
                     "4452fd9c-24ce-485b-a8c2-b2d2fe61d920"
                 ],
-                "lastUpdate": "2020-10-12T10:05:57",
+                "lastUpdate": "2022-10-12T10:05:57",
                 "mediaUuid": "ea85fac0-7e8e-4f7e-b4ff-5777d3addaee",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Pars servilis",
@@ -1636,7 +1636,7 @@
                     "57b15878-d1ce-407c-99f1-7831b574a5de",
                     "6c93ac31-08b7-4e79-ba29-c3983bd0db27"
                 ],
-                "lastUpdate": "2020-10-07T07:52:53",
+                "lastUpdate": "2022-10-07T07:52:53",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1648,7 +1648,7 @@
                 "items": [
                     "e08cc931-0c79-492a-94b6-3fe76587963a"
                 ],
-                "lastUpdate": "2020-10-05T16:02:32",
+                "lastUpdate": "2022-10-05T16:02:32",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1660,7 +1660,7 @@
                 "items": [
                     "f3453c30-bc19-4674-b4fa-8276ac7d5763"
                 ],
-                "lastUpdate": "2020-10-11T16:02:22",
+                "lastUpdate": "2022-10-11T16:02:22",
                 "mediaUuid": "a7c3e209-e4fb-4bea-81f7-213a649c15d8",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Appartamento padronale N",
@@ -1674,7 +1674,7 @@
                     "eb630c66-e1f4-4984-b33a-c0acd1b5fbf8",
                     "c02cec85-1d3a-4b26-bc5b-ae89816095ac"
                 ],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1688,7 +1688,7 @@
                     "4aa18897-025d-4a05-8c3b-62310da498fe",
                     "7bdf5ea5-9c10-4a8f-8220-a342aee1fe16"
                 ],
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Ulisse e i suoi compagni sono prigionieri nella caverna del ciclope Polifemo. Come riusciranno a fuggire e mettersi in salvo?",
@@ -1702,7 +1702,7 @@
                     "3ee4c456-09bc-4829-bfc9-368f69ad04a2",
                     "9cb1df2e-8daf-49b9-8f8f-97917ebd28a7"
                 ],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "I faraglioni di Acitrezza (Catania) sono isolotti rocciosi che affiorano dal mare. Secondo la leggenda furono scagliati da:",
@@ -1716,7 +1716,7 @@
                     "745a538c-c2dc-4fd0-88f4-cfb3e1858ed0",
                     "b7ac5a6a-0de9-4dfc-b3b1-11b3793b80bb"
                 ],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Per Ulisse la Sicilia è una tappa di un viaggio durato circa 10 anni che dalla città di Troia lo condurrà alla sua terra d’origine: ",
@@ -1726,7 +1726,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Scappando mentre Polifemo dorme",
@@ -1736,7 +1736,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Convincendo il ciclope con dei regali",
@@ -1746,7 +1746,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:54",
+                "lastUpdate": "2022-10-07T14:53:54",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Scappando legati al ventre delle pecore",
@@ -1756,7 +1756,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Polifemo, furioso dopo l’inganno di Ulisse",
@@ -1766,7 +1766,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Zeus, per vendetta contro i siciliani",
@@ -1776,7 +1776,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Polifemo, per catturare dei pesci ",
@@ -1786,7 +1786,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Atene",
@@ -1796,7 +1796,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Itaca",
@@ -1806,7 +1806,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Corinto",
@@ -1819,7 +1819,7 @@
                     "65b661ff-5964-4c09-96f9-7d259a428962",
                     "d9ad00e7-0193-43f8-9bd5-6a78c97b1879"
                 ],
-                "lastUpdate": "2020-10-07T07:52:54",
+                "lastUpdate": "2022-10-07T07:52:54",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1831,7 +1831,7 @@
                 "items": [
                     "f904c428-2f0f-4354-a4ca-63fbd55023ef"
                 ],
-                "lastUpdate": "2020-10-11T16:02:48",
+                "lastUpdate": "2022-10-11T16:02:48",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1843,7 +1843,7 @@
                 "items": [
                     "9ba386bf-39d6-44cd-85da-1cc528ffcd36"
                 ],
-                "lastUpdate": "2020-10-11T16:02:48",
+                "lastUpdate": "2022-10-11T16:02:48",
                 "mediaUuid": "21c49772-9890-4541-9ea8-49b5322bf2a9",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Corridoio della Grande Caccia",
@@ -1856,7 +1856,7 @@
                     "26c40835-3884-486b-b7b8-ad4f5f9807da",
                     "ad3c1a05-6d3c-4ade-a959-bfa4861e5366"
                 ],
-                "lastUpdate": "2020-10-11T15:22:56",
+                "lastUpdate": "2022-10-11T15:22:56",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1868,7 +1868,7 @@
                 "items": [
                     "25278026-e0a5-4dc0-8678-f22c7c5d8b57"
                 ],
-                "lastUpdate": "2020-10-11T15:22:06",
+                "lastUpdate": "2022-10-11T15:22:06",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1880,7 +1880,7 @@
                 "items": [
                     "1f6e8e48-ecea-403c-a4aa-a3fa70372daf"
                 ],
-                "lastUpdate": "2020-10-11T16:02:45",
+                "lastUpdate": "2022-10-11T16:02:45",
                 "mediaUuid": "cfba051d-57ae-45bf-9678-fdabc369b8ab",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Appartamento padronale S",
@@ -1893,7 +1893,7 @@
                     "e1d4c846-ce25-44ea-9697-8a2fb038ac17",
                     "ac727834-2f4c-48e5-bf97-ba8b6e30d96b"
                 ],
-                "lastUpdate": "2020-10-11T15:39:49",
+                "lastUpdate": "2022-10-11T15:39:49",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1905,7 +1905,7 @@
                 "items": [
                     "dd57493d-9155-4eec-a7bc-bc228c90490b"
                 ],
-                "lastUpdate": "2020-10-11T15:38:22",
+                "lastUpdate": "2022-10-11T15:38:22",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1917,7 +1917,7 @@
                 "items": [
                     "a29ffb5e-d270-4cbb-b2ba-9e1916ddb9e7"
                 ],
-                "lastUpdate": "2020-10-11T16:04:08",
+                "lastUpdate": "2022-10-11T16:04:08",
                 "mediaUuid": "b9dcc030-2058-4f82-9961-74940998afd8",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Stanza delle Palestrite",
@@ -1931,7 +1931,7 @@
                     "8bfbb91d-e83d-4989-b747-560ff57b575f",
                     "64dd7b6d-b7af-4aaf-bb60-43c9f0b5b129"
                 ],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -1945,7 +1945,7 @@
                     "00938bcf-61d1-462f-a0b9-543b432b0cfe",
                     "c6c5cb75-92dd-4e6a-b598-bba31f7c9aa2"
                 ],
-                "lastUpdate": "2020-10-11T16:04:07",
+                "lastUpdate": "2022-10-11T16:04:07",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Quanti attrezzi ginnici sono rappresentati nel mosaico delle “Palestrite”?",
@@ -1958,7 +1958,7 @@
                     "66af1765-a302-480f-96c1-c8b19d505232",
                     "2b0eeb56-079b-416b-92d0-ee7fef0a7f1c"
                 ],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Il mosaico delle “Palestrite” rappresenta ragazze in procinto di andare in spiaggia?",
@@ -1972,7 +1972,7 @@
                     "e8c750c4-6340-420e-a875-3d9ebfe9a52e",
                     "258544f0-e280-41d8-ad76-2b4032c004b1"
                 ],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Il mosaico delle “Palestrite” copre un mosaico più antico: cosa vi era rappresentato?",
@@ -1982,7 +1982,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T16:04:06",
+                "lastUpdate": "2022-10-11T16:04:06",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Uno",
@@ -1992,7 +1992,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:20",
+                "lastUpdate": "2022-10-11T15:38:20",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Tre",
@@ -2002,7 +2002,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:20",
+                "lastUpdate": "2022-10-11T15:38:20",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Cinque",
@@ -2012,7 +2012,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Vero",
@@ -2022,7 +2022,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Falso",
@@ -2032,7 +2032,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Una gara olimpica tra uomini",
@@ -2042,7 +2042,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Una scena di caccia",
@@ -2052,7 +2052,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Una decorazione geometrica",
@@ -2065,7 +2065,7 @@
                     "57d0788c-b243-4f67-8d26-1b5cc810750b",
                     "4a088516-8f9a-4013-8f20-08396ec9cdef"
                 ],
-                "lastUpdate": "2020-10-11T15:44:56",
+                "lastUpdate": "2022-10-11T15:44:56",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -2077,7 +2077,7 @@
                 "items": [
                     "d6fc3f6d-a02c-48bc-b76c-bec76d4f8ff6"
                 ],
-                "lastUpdate": "2020-10-11T16:03:11",
+                "lastUpdate": "2022-10-11T16:03:11",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -2089,7 +2089,7 @@
                 "items": [
                     "695025fe-d986-458b-8aa1-8651aa9fb88c"
                 ],
-                "lastUpdate": "2020-10-11T16:03:11",
+                "lastUpdate": "2022-10-11T16:03:11",
                 "mediaUuid": "9ad9da6a-a5e5-44e5-86c9-9c3010218778",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Dieta di Orfeo",
@@ -2102,7 +2102,7 @@
                     "c177cdd4-115a-440b-8ab4-4f258649ae64",
                     "84a05762-0370-456c-91e2-ddcd60e89a71"
                 ],
-                "lastUpdate": "2020-10-11T15:53:19",
+                "lastUpdate": "2022-10-11T15:53:19",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -2114,7 +2114,7 @@
                 "items": [
                     "22206c1d-d9f4-4ee1-b950-439429cac673"
                 ],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -2126,7 +2126,7 @@
                 "items": [
                     "e00d904d-e539-4c48-b009-89f1177a4af7"
                 ],
-                "lastUpdate": "2020-10-12T14:46:19",
+                "lastUpdate": "2022-10-12T14:46:19",
                 "mediaUuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b12",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Triclinio Triabsidato",
@@ -2140,7 +2140,7 @@
                     "92d0e1cd-6bd3-43fb-9489-8cb007b46cb8",
                     "0e4fb214-30e6-467e-a345-c58217e4f1b1"
                 ],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -2154,7 +2154,7 @@
                     "85ad7e4a-187f-4073-aeaa-a4106100d136",
                     "047a5640-8009-468e-8bf6-71dbc1b88e75"
                 ],
-                "lastUpdate": "2020-10-12T14:46:17",
+                "lastUpdate": "2022-10-12T14:46:17",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Questo ambiente si chiama triclinio. Perché?",
@@ -2168,7 +2168,7 @@
                     "ee0cde89-4fb9-4f0f-b620-ea686da62e1c",
                     "6a82871e-2b76-4a1e-9c87-0dcf7bf5ca44"
                 ],
-                "lastUpdate": "2020-10-12T14:46:17",
+                "lastUpdate": "2022-10-12T14:46:17",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Quante erano le fatiche di Ercole?",
@@ -2182,7 +2182,7 @@
                     "3cc3e20e-73a6-4943-82dc-fd8334a231d8",
                     "530e8bba-0102-45e3-92c1-9767a2878ebc"
                 ],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Cosa portava sempre con sé Ercole?",
@@ -2192,7 +2192,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:05",
+                "lastUpdate": "2022-10-11T15:52:05",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Aveva una forma di trifoglio",
@@ -2202,7 +2202,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:05",
+                "lastUpdate": "2022-10-11T15:52:05",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Ospitava tre klinè, letti da banchetto",
@@ -2212,7 +2212,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:05",
+                "lastUpdate": "2022-10-11T15:52:05",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Il tavolo principale aveva tre piedi",
@@ -2222,7 +2222,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Dodici",
@@ -2232,7 +2232,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Ventiquattro",
@@ -2242,7 +2242,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Trentasei",
@@ -2252,7 +2252,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Martello e pelliccia di orso",
@@ -2262,7 +2262,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "true",
                 "title": "Clava e pelle di leone",
@@ -2272,7 +2272,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "mediaUuid": null,
                 "subtitle": "false",
                 "title": "Spada e scudo",
@@ -2293,7 +2293,7 @@
                     "6c842133-a760-40b2-9399-22be42173ccc",
                     "17be47b4-7493-458c-bff8-c8ca5ac5bd00"
                 ],
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948",
                 "subtitle": "Piazza Armerina",
                 "title": "Villa Romana del Casale",
@@ -2303,507 +2303,507 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "e3ecea88-9807-40c1-8753-730f94ac4cf0"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "b33ab00f-682d-41ee-b511-bcc1d7a5e98a"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "bc955f4a-5f90-47c0-812e-04985dde7612"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 2,
                 "uuid": "07eaefad-5f9d-4aff-83da-bfd980852995"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "order": 0,
                 "uuid": "58aa843a-f18d-479d-b583-1592a0dcbf1c"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:18",
+                "lastUpdate": "2022-10-11T16:02:18",
                 "order": 1,
                 "uuid": "2adbc60f-eaa6-44a0-bdf8-8a4e266fa134"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 0,
                 "uuid": "5174bece-583a-4408-b379-7dc314184b0d"
             },
             {
-                "lastUpdate": "2020-10-07T14:35:33",
+                "lastUpdate": "2022-10-07T14:35:33",
                 "order": 0,
                 "uuid": "5e0ee08c-150e-4fcf-ae4a-dcab53c43873"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 0,
                 "uuid": "fc853680-f863-4fb6-bbad-a607632df323"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 1,
                 "uuid": "6733d42b-ed9b-43e4-b850-4c3f97665742"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 2,
                 "uuid": "b7a8a2f9-6f91-48ca-942e-1710dd84b1a4"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "order": 0,
                 "uuid": "5bfd3d90-10eb-4f4f-ba81-804e87bb3273"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "order": 1,
                 "uuid": "b66891ef-60cd-4171-ae56-12b017d1db8e"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "order": 2,
                 "uuid": "9bc39ab3-fc86-47f5-94b8-975b36456325"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 0,
                 "uuid": "2598e493-506e-4a1e-8515-a01a2a1715b1"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 1,
                 "uuid": "6620b695-5729-40c4-a08b-91eef0a624f9"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 0,
                 "uuid": "82e1f065-8b02-4681-965a-de2f287cfda5"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 1,
                 "uuid": "3ff651f2-6141-45ac-8b13-09a02ad1bfd5"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:17",
+                "lastUpdate": "2022-10-11T16:02:17",
                 "order": 2,
                 "uuid": "eda21093-507b-488e-980e-d32f69c566d0"
             },
             {
-                "lastUpdate": "2020-10-12T10:10:07",
+                "lastUpdate": "2022-10-12T10:10:07",
                 "order": 0,
                 "uuid": "f1e73938-4f9c-49be-8705-888d04eb120c"
             },
             {
-                "lastUpdate": "2020-10-12T10:10:07",
+                "lastUpdate": "2022-10-12T10:10:07",
                 "order": 1,
                 "uuid": "29694a4a-aba9-4a4d-9440-175c21af02ab"
             },
             {
-                "lastUpdate": "2020-10-12T10:10:07",
+                "lastUpdate": "2022-10-12T10:10:07",
                 "order": 2,
                 "uuid": "3fbb0107-e272-4ee7-adc3-b0acc2a954c5"
             },
             {
-                "lastUpdate": "2020-10-18T10:49:36",
+                "lastUpdate": "2022-10-18T10:49:36",
                 "order": 0,
                 "uuid": "65ce8f5e-e861-4b51-b415-bce3b1628e1b"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:49",
+                "lastUpdate": "2022-10-12T10:09:49",
                 "order": 0,
                 "uuid": "352d39a9-d9da-4c68-b302-585070f576f6"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:49",
+                "lastUpdate": "2022-10-12T10:09:49",
                 "order": 1,
                 "uuid": "380f3f15-99d2-4469-b691-2deae99de868"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:49",
+                "lastUpdate": "2022-10-12T10:09:49",
                 "order": 2,
                 "uuid": "81f2ff9c-89ba-4f4c-94c7-49e38e197b37"
             },
             {
-                "lastUpdate": "2020-10-12T10:09:49",
+                "lastUpdate": "2022-10-12T10:09:49",
                 "order": 3,
                 "uuid": "6db9ed06-04be-4849-b6b0-22bbaeb8b807"
             },
             {
-                "lastUpdate": "2020-10-12T10:05:57",
+                "lastUpdate": "2022-10-12T10:05:57",
                 "order": 0,
                 "uuid": "c94fcbda-a838-42d9-85da-e3d3b66b99ea"
             },
             {
-                "lastUpdate": "2020-10-12T10:05:57",
+                "lastUpdate": "2022-10-12T10:05:57",
                 "order": 1,
                 "uuid": "f096707c-71e4-4634-b11e-a99e1f5fc352"
             },
             {
-                "lastUpdate": "2020-10-12T10:05:56",
+                "lastUpdate": "2022-10-12T10:05:56",
                 "order": 0,
                 "uuid": "03f8c6c3-9576-4ea4-a4ef-31b695f5dec5"
             },
             {
-                "lastUpdate": "2020-10-12T10:05:57",
+                "lastUpdate": "2022-10-12T10:05:57",
                 "order": 0,
                 "uuid": "4452fd9c-24ce-485b-a8c2-b2d2fe61d920"
             },
             {
-                "lastUpdate": "2020-10-07T07:52:53",
+                "lastUpdate": "2022-10-07T07:52:53",
                 "order": 0,
                 "uuid": "57b15878-d1ce-407c-99f1-7831b574a5de"
             },
             {
-                "lastUpdate": "2020-10-07T07:52:53",
+                "lastUpdate": "2022-10-07T07:52:53",
                 "order": 1,
                 "uuid": "6c93ac31-08b7-4e79-ba29-c3983bd0db27"
             },
             {
-                "lastUpdate": "2020-10-05T16:02:32",
+                "lastUpdate": "2022-10-05T16:02:32",
                 "order": 0,
                 "uuid": "e08cc931-0c79-492a-94b6-3fe76587963a"
             },
             {
-                "lastUpdate": "2020-10-07T14:55:05",
+                "lastUpdate": "2022-10-07T14:55:05",
                 "order": 0,
                 "uuid": "f3453c30-bc19-4674-b4fa-8276ac7d5763"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 0,
                 "uuid": "17f2640f-7559-4dc5-ae49-a386f3cd8d0b"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 1,
                 "uuid": "eb630c66-e1f4-4984-b33a-c0acd1b5fbf8"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 2,
                 "uuid": "c02cec85-1d3a-4b26-bc5b-ae89816095ac"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "order": 0,
                 "uuid": "9828d284-bb09-4e6e-8883-f8d2eeb26030"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "order": 1,
                 "uuid": "4aa18897-025d-4a05-8c3b-62310da498fe"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:19",
+                "lastUpdate": "2022-10-11T16:02:19",
                 "order": 2,
                 "uuid": "7bdf5ea5-9c10-4a8f-8220-a342aee1fe16"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 0,
                 "uuid": "b079a6c9-3cb4-45d8-b969-42264b082493"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 1,
                 "uuid": "3ee4c456-09bc-4829-bfc9-368f69ad04a2"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 2,
                 "uuid": "9cb1df2e-8daf-49b9-8f8f-97917ebd28a7"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 0,
                 "uuid": "90c5e379-c2f5-4b7a-b728-42d3afeac41e"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 1,
                 "uuid": "745a538c-c2dc-4fd0-88f4-cfb3e1858ed0"
             },
             {
-                "lastUpdate": "2020-10-07T14:53:55",
+                "lastUpdate": "2022-10-07T14:53:55",
                 "order": 2,
                 "uuid": "b7ac5a6a-0de9-4dfc-b3b1-11b3793b80bb"
             },
             {
-                "lastUpdate": "2020-10-07T07:52:54",
+                "lastUpdate": "2022-10-07T07:52:54",
                 "order": 0,
                 "uuid": "65b661ff-5964-4c09-96f9-7d259a428962"
             },
             {
-                "lastUpdate": "2020-10-07T07:52:54",
+                "lastUpdate": "2022-10-07T07:52:54",
                 "order": 1,
                 "uuid": "d9ad00e7-0193-43f8-9bd5-6a78c97b1879"
             },
             {
-                "lastUpdate": "2020-10-11T16:02:48",
+                "lastUpdate": "2022-10-11T16:02:48",
                 "order": 0,
                 "uuid": "f904c428-2f0f-4354-a4ca-63fbd55023ef"
             },
             {
-                "lastUpdate": "2020-10-07T15:06:50",
+                "lastUpdate": "2022-10-07T15:06:50",
                 "order": 0,
                 "uuid": "9ba386bf-39d6-44cd-85da-1cc528ffcd36"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:56",
+                "lastUpdate": "2022-10-11T15:22:56",
                 "order": 0,
                 "uuid": "26c40835-3884-486b-b7b8-ad4f5f9807da"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:56",
+                "lastUpdate": "2022-10-11T15:22:56",
                 "order": 1,
                 "uuid": "ad3c1a05-6d3c-4ade-a959-bfa4861e5366"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:06",
+                "lastUpdate": "2022-10-11T15:22:06",
                 "order": 0,
                 "uuid": "25278026-e0a5-4dc0-8678-f22c7c5d8b57"
             },
             {
-                "lastUpdate": "2020-10-11T15:22:56",
+                "lastUpdate": "2022-10-11T15:22:56",
                 "order": 0,
                 "uuid": "1f6e8e48-ecea-403c-a4aa-a3fa70372daf"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:49",
+                "lastUpdate": "2022-10-11T15:39:49",
                 "order": 0,
                 "uuid": "e1d4c846-ce25-44ea-9697-8a2fb038ac17"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:49",
+                "lastUpdate": "2022-10-11T15:39:49",
                 "order": 1,
                 "uuid": "ac727834-2f4c-48e5-bf97-ba8b6e30d96b"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:22",
+                "lastUpdate": "2022-10-11T15:38:22",
                 "order": 0,
                 "uuid": "dd57493d-9155-4eec-a7bc-bc228c90490b"
             },
             {
-                "lastUpdate": "2020-10-11T15:39:49",
+                "lastUpdate": "2022-10-11T15:39:49",
                 "order": 0,
                 "uuid": "a29ffb5e-d270-4cbb-b2ba-9e1916ddb9e7"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 0,
                 "uuid": "72d650c5-4c05-4777-ab28-5ecbddb35909"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 1,
                 "uuid": "8bfbb91d-e83d-4989-b747-560ff57b575f"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 2,
                 "uuid": "64dd7b6d-b7af-4aaf-bb60-43c9f0b5b129"
             },
             {
-                "lastUpdate": "2020-10-11T16:04:07",
+                "lastUpdate": "2022-10-11T16:04:07",
                 "order": 0,
                 "uuid": "0eeb0c8f-1fa2-4cc2-afa4-b45329fc4112"
             },
             {
-                "lastUpdate": "2020-10-11T16:04:07",
+                "lastUpdate": "2022-10-11T16:04:07",
                 "order": 1,
                 "uuid": "00938bcf-61d1-462f-a0b9-543b432b0cfe"
             },
             {
-                "lastUpdate": "2020-10-11T16:04:07",
+                "lastUpdate": "2022-10-11T16:04:07",
                 "order": 2,
                 "uuid": "c6c5cb75-92dd-4e6a-b598-bba31f7c9aa2"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 0,
                 "uuid": "66af1765-a302-480f-96c1-c8b19d505232"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 1,
                 "uuid": "2b0eeb56-079b-416b-92d0-ee7fef0a7f1c"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 0,
                 "uuid": "be572240-0860-49a7-b2e3-11ba2b4844e3"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 1,
                 "uuid": "e8c750c4-6340-420e-a875-3d9ebfe9a52e"
             },
             {
-                "lastUpdate": "2020-10-11T15:38:21",
+                "lastUpdate": "2022-10-11T15:38:21",
                 "order": 2,
                 "uuid": "258544f0-e280-41d8-ad76-2b4032c004b1"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:56",
+                "lastUpdate": "2022-10-11T15:44:56",
                 "order": 0,
                 "uuid": "57d0788c-b243-4f67-8d26-1b5cc810750b"
             },
             {
-                "lastUpdate": "2020-10-11T15:44:56",
+                "lastUpdate": "2022-10-11T15:44:56",
                 "order": 1,
                 "uuid": "4a088516-8f9a-4013-8f20-08396ec9cdef"
             },
             {
-                "lastUpdate": "2020-10-11T16:03:10",
+                "lastUpdate": "2022-10-11T16:03:10",
                 "order": 0,
                 "uuid": "d6fc3f6d-a02c-48bc-b76c-bec76d4f8ff6"
             },
             {
-                "lastUpdate": "2020-10-11T16:03:11",
+                "lastUpdate": "2022-10-11T16:03:11",
                 "order": 0,
                 "uuid": "695025fe-d986-458b-8aa1-8651aa9fb88c"
             },
             {
-                "lastUpdate": "2020-10-11T15:53:19",
+                "lastUpdate": "2022-10-11T15:53:19",
                 "order": 0,
                 "uuid": "c177cdd4-115a-440b-8ab4-4f258649ae64"
             },
             {
-                "lastUpdate": "2020-10-11T15:53:19",
+                "lastUpdate": "2022-10-11T15:53:19",
                 "order": 1,
                 "uuid": "84a05762-0370-456c-91e2-ddcd60e89a71"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 0,
                 "uuid": "22206c1d-d9f4-4ee1-b950-439429cac673"
             },
             {
-                "lastUpdate": "2020-10-11T16:04:31",
+                "lastUpdate": "2022-10-11T16:04:31",
                 "order": 0,
                 "uuid": "e00d904d-e539-4c48-b009-89f1177a4af7"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 0,
                 "uuid": "4afa4fb0-8339-48a3-b75b-f9b567f783ca"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 1,
                 "uuid": "92d0e1cd-6bd3-43fb-9489-8cb007b46cb8"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 2,
                 "uuid": "0e4fb214-30e6-467e-a345-c58217e4f1b1"
             },
             {
-                "lastUpdate": "2020-10-12T14:46:16",
+                "lastUpdate": "2022-10-12T14:46:16",
                 "order": 0,
                 "uuid": "d046cf5b-5c17-40a7-8b29-c8cc966e0f03"
             },
             {
-                "lastUpdate": "2020-10-12T14:46:16",
+                "lastUpdate": "2022-10-12T14:46:16",
                 "order": 1,
                 "uuid": "85ad7e4a-187f-4073-aeaa-a4106100d136"
             },
             {
-                "lastUpdate": "2020-10-12T14:46:16",
+                "lastUpdate": "2022-10-12T14:46:16",
                 "order": 2,
                 "uuid": "047a5640-8009-468e-8bf6-71dbc1b88e75"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 0,
                 "uuid": "60dace9b-1e49-4c97-994e-44762373255e"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 1,
                 "uuid": "ee0cde89-4fb9-4f0f-b620-ea686da62e1c"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 2,
                 "uuid": "6a82871e-2b76-4a1e-9c87-0dcf7bf5ca44"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 0,
                 "uuid": "88d1b13e-abc3-47d9-9bd7-e029dadd749f"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 1,
                 "uuid": "3cc3e20e-73a6-4943-82dc-fd8334a231d8"
             },
             {
-                "lastUpdate": "2020-10-11T15:52:07",
+                "lastUpdate": "2022-10-11T15:52:07",
                 "order": 2,
                 "uuid": "530e8bba-0102-45e3-92c1-9767a2878ebc"
             },
             {
-                "lastUpdate": "2020-10-05T16:00:50",
+                "lastUpdate": "2022-10-05T16:00:50",
                 "order": 0,
                 "uuid": "2dc620c2-fa06-4313-868f-ad7032fc2f05"
             },
             {
-                "lastUpdate": "2020-10-05T16:00:50",
+                "lastUpdate": "2022-10-05T16:00:50",
                 "order": 1,
                 "uuid": "1906bf59-a810-4c54-95e3-93958ee5ee3d"
             },
             {
-                "lastUpdate": "2020-10-05T16:00:50",
+                "lastUpdate": "2022-10-05T16:00:50",
                 "order": 2,
                 "uuid": "c1fa2e8e-ebbf-448f-8c63-c3ec4ffa9ef9"
             },
             {
-                "lastUpdate": "2020-10-05T16:00:50",
+                "lastUpdate": "2022-10-05T16:00:50",
                 "order": 3,
                 "uuid": "f336b12b-0c83-47cf-b8f2-e414dc601ca8"
             },
             {
-                "lastUpdate": "2020-10-05T16:00:50",
+                "lastUpdate": "2022-10-05T16:00:50",
                 "order": 4,
                 "uuid": "c2482c35-a24b-4fea-8db0-2ae3a0560e82"
             },
             {
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "order": 5,
                 "uuid": "cd0b1eac-6679-4297-b151-6365d19dc9ab"
             },
             {
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "order": 6,
                 "uuid": "8ef410a8-d3aa-47fe-86c5-04e5d7f00834"
             },
             {
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "order": 7,
                 "uuid": "b2dacac0-a919-493f-9bc6-5f40546978e5"
             },
             {
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "order": 8,
                 "uuid": "6c842133-a760-40b2-9399-22be42173ccc"
             },
             {
-                "lastUpdate": "2020-10-08T10:45:53",
+                "lastUpdate": "2022-10-08T10:45:53",
                 "order": 9,
                 "uuid": "17be47b4-7493-458c-bff8-c8ca5ac5bd00"
             }
@@ -3607,7 +3607,7 @@
                     "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
                 ],
                 "tag": "audio-gallery",
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "ef07144a-dc24-4df4-ae6d-1692541563b3"
             },
             {
@@ -3616,7 +3616,7 @@
                     "9d82f39d-3850-4307-8299-04281a3f097a"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "f5f480ce-9b6a-4544-a230-949a2a556a86"
             },
             {
@@ -3624,7 +3624,7 @@
                     "4d1fe0a7-df99-40a2-9bd1-7901fcb83ece"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:35:33",
+                "lastUpdate": "2022-10-07T14:35:33",
                 "uuid": "b708564d-4bf1-4973-8a99-a7e857153f50"
             },
             {
@@ -3632,7 +3632,7 @@
                     "fa2b3152-50df-47b5-a393-52ab9d1e9fb0"
                 ],
                 "tag": "game-puzzle-gallery",
-                "lastUpdate": "2020-10-07T14:31:31",
+                "lastUpdate": "2022-10-07T14:31:31",
                 "uuid": "2e195889-5732-4cb2-87e7-8586111b6a4e"
             },
             {
@@ -3640,7 +3640,7 @@
                     "0b93ce0f-6cd9-4691-8020-d7a979377037"
                 ],
                 "tag": "audio-gallery",
-                "lastUpdate": "2020-10-05T15:51:17",
+                "lastUpdate": "2022-10-05T15:51:17",
                 "uuid": "e35b0e0a-32ad-4544-bf3a-37a6b36e1623"
             },
             {
@@ -3648,7 +3648,7 @@
                     "9a698056-e82c-4aec-8446-5ad0ad786de5"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:31:50",
+                "lastUpdate": "2022-10-07T14:31:50",
                 "uuid": "0996500f-56e6-4635-8eae-4ffb2f6ce26a"
             },
             {
@@ -3659,7 +3659,7 @@
                     "13faee6d-b811-41a8-9fc4-8a6df90bd432"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "uuid": "e28b9fd4-77f5-4aa6-8dcf-45bbc783acd6"
             },
             {
@@ -3669,7 +3669,7 @@
                     "2f99343c-9b7f-43fa-91ec-eac9c561f779"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:54:47",
+                "lastUpdate": "2022-10-07T14:54:47",
                 "uuid": "6e72fc16-2b1e-46f3-971b-5463ccf7c3d6"
             },
             {
@@ -3679,7 +3679,7 @@
                     "384c725d-f35e-4a6f-8d4d-a58a9fd650e9"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T15:06:33",
+                "lastUpdate": "2022-10-07T15:06:33",
                 "uuid": "15c9bd11-b0bc-4782-8223-364eeadb15e9"
             },
             {
@@ -3687,7 +3687,7 @@
                     "4aa5b4fa-dba3-4c5b-8ba6-55ddb511b832"
                 ],
                 "tag": "game-puzzle-gallery",
-                "lastUpdate": "2020-10-11T15:22:05",
+                "lastUpdate": "2022-10-11T15:22:05",
                 "uuid": "12429476-1445-48b2-a6db-42f9ea712752"
             },
             {
@@ -3696,7 +3696,7 @@
                     "52fe390f-ca57-4daf-a65a-92724b09394a"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-11T15:22:39",
+                "lastUpdate": "2022-10-11T15:22:39",
                 "uuid": "d9328abb-ab9e-4805-adb0-55ddc04c38a0"
             },
             {
@@ -3707,7 +3707,7 @@
                     "33dc4b3c-e965-4a14-9cb9-fd47dadffdfe"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-11T15:39:31",
+                "lastUpdate": "2022-10-11T15:39:31",
                 "uuid": "f6c8fd4a-4e71-400f-b6ba-f6527d72ff28"
             },
             {
@@ -3715,7 +3715,7 @@
                     "380103e1-75d3-4738-87cb-842c5988eac4"
                 ],
                 "tag": "game-puzzle-gallery",
-                "lastUpdate": "2020-10-11T15:44:05",
+                "lastUpdate": "2022-10-11T15:44:05",
                 "uuid": "d9c947a1-152d-4768-8486-98d249768a61"
             },
             {
@@ -3724,7 +3724,7 @@
                     "00afb814-4993-4d4b-90e4-f56d4bde2f0d"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-11T15:44:39",
+                "lastUpdate": "2022-10-11T15:44:39",
                 "uuid": "4fea40e2-0be0-44f0-8700-bc4f5f66f50a"
             },
             {
@@ -3734,7 +3734,7 @@
                     "1b911ff3-be2a-4801-b9e3-2c2530f91421"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-11T15:53:01",
+                "lastUpdate": "2022-10-11T15:53:01",
                 "uuid": "6d5b5e93-5c8c-4799-a196-da56212c7cdd"
             }
         ],
@@ -3745,7 +3745,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
             },
             {
@@ -3754,7 +3754,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "d7ffab0b-9e89-407e-aa6e-9f9feebff3f1"
             },
             {
@@ -3763,7 +3763,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "9d82f39d-3850-4307-8299-04281a3f097a"
             },
             {
@@ -3772,7 +3772,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:35:33",
+                "lastUpdate": "2022-10-07T14:35:33",
                 "uuid": "4d1fe0a7-df99-40a2-9bd1-7901fcb83ece"
             },
             {
@@ -3781,7 +3781,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:31:31",
+                "lastUpdate": "2022-10-07T14:31:31",
                 "uuid": "fa2b3152-50df-47b5-a393-52ab9d1e9fb0"
             },
             {
@@ -3790,7 +3790,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-05T15:51:17",
+                "lastUpdate": "2022-10-05T15:51:17",
                 "uuid": "0b93ce0f-6cd9-4691-8020-d7a979377037"
             },
             {
@@ -3799,7 +3799,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:31:50",
+                "lastUpdate": "2022-10-07T14:31:50",
                 "uuid": "9a698056-e82c-4aec-8446-5ad0ad786de5"
             },
             {
@@ -3808,7 +3808,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "uuid": "64968eb6-cd51-4bd0-b661-37cd0307fb3b"
             },
             {
@@ -3817,7 +3817,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "uuid": "a821184c-754a-444b-9390-077e4588e545"
             },
             {
@@ -3826,7 +3826,7 @@
                 "order": 2,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "uuid": "b1163c28-df69-489a-b7db-82f19c716a22"
             },
             {
@@ -3835,7 +3835,7 @@
                 "order": 3,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:42:24",
+                "lastUpdate": "2022-10-07T14:42:24",
                 "uuid": "13faee6d-b811-41a8-9fc4-8a6df90bd432"
             },
             {
@@ -3844,7 +3844,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:54:47",
+                "lastUpdate": "2022-10-07T14:54:47",
                 "uuid": "9c9236db-2c93-4eff-bf18-6bc6384fd059"
             },
             {
@@ -3853,7 +3853,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:54:47",
+                "lastUpdate": "2022-10-07T14:54:47",
                 "uuid": "44f85881-bd78-4c56-bcb3-cee6212ff6c5"
             },
             {
@@ -3862,7 +3862,7 @@
                 "order": 2,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:54:47",
+                "lastUpdate": "2022-10-07T14:54:47",
                 "uuid": "2f99343c-9b7f-43fa-91ec-eac9c561f779"
             },
             {
@@ -3871,7 +3871,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T15:06:33",
+                "lastUpdate": "2022-10-07T15:06:33",
                 "uuid": "443aebe0-d5fc-4fcd-a4eb-fe69e2027f58"
             },
             {
@@ -3880,7 +3880,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T15:06:33",
+                "lastUpdate": "2022-10-07T15:06:33",
                 "uuid": "1348920d-5d17-4e52-a4d3-28235e12ad8d"
             },
             {
@@ -3889,7 +3889,7 @@
                 "order": 2,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T15:06:33",
+                "lastUpdate": "2022-10-07T15:06:33",
                 "uuid": "384c725d-f35e-4a6f-8d4d-a58a9fd650e9"
             },
             {
@@ -3898,7 +3898,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:22:05",
+                "lastUpdate": "2022-10-11T15:22:05",
                 "uuid": "4aa5b4fa-dba3-4c5b-8ba6-55ddb511b832"
             },
             {
@@ -3907,7 +3907,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:22:39",
+                "lastUpdate": "2022-10-11T15:22:39",
                 "uuid": "657204c5-7f9e-40d2-be40-3beceb3c270a"
             },
             {
@@ -3916,7 +3916,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:22:39",
+                "lastUpdate": "2022-10-11T15:22:39",
                 "uuid": "52fe390f-ca57-4daf-a65a-92724b09394a"
             },
             {
@@ -3925,7 +3925,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:39:31",
+                "lastUpdate": "2022-10-11T15:39:31",
                 "uuid": "438fd64b-a45c-4633-86ed-b72df3b7f258"
             },
             {
@@ -3934,7 +3934,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:39:31",
+                "lastUpdate": "2022-10-11T15:39:31",
                 "uuid": "454413a3-3cca-4740-9bed-86849dfc1d86"
             },
             {
@@ -3943,7 +3943,7 @@
                 "order": 2,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:39:31",
+                "lastUpdate": "2022-10-11T15:39:31",
                 "uuid": "979fb2ae-276c-40e7-8c99-25d8ce81aaae"
             },
             {
@@ -3952,7 +3952,7 @@
                 "order": 3,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:39:31",
+                "lastUpdate": "2022-10-11T15:39:31",
                 "uuid": "33dc4b3c-e965-4a14-9cb9-fd47dadffdfe"
             },
             {
@@ -3961,7 +3961,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:44:05",
+                "lastUpdate": "2022-10-11T15:44:05",
                 "uuid": "380103e1-75d3-4738-87cb-842c5988eac4"
             },
             {
@@ -3970,7 +3970,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:44:39",
+                "lastUpdate": "2022-10-11T15:44:39",
                 "uuid": "78837ed2-ac43-4e25-b2cc-05ee31f84ca6"
             },
             {
@@ -3979,7 +3979,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:44:39",
+                "lastUpdate": "2022-10-11T15:44:39",
                 "uuid": "00afb814-4993-4d4b-90e4-f56d4bde2f0d"
             },
             {
@@ -3988,7 +3988,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:53:01",
+                "lastUpdate": "2022-10-11T15:53:01",
                 "uuid": "1d0d1191-ab1a-42cb-88e4-4e147c35545a"
             },
             {
@@ -3997,7 +3997,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:53:01",
+                "lastUpdate": "2022-10-11T15:53:01",
                 "uuid": "7b88ac7d-ddfa-46b8-b98c-d29c0d059b81"
             },
             {
@@ -4006,7 +4006,7 @@
                 "order": 2,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-11T15:53:01",
+                "lastUpdate": "2022-10-11T15:53:01",
                 "uuid": "1b911ff3-be2a-4801-b9e3-2c2530f91421"
             }
         ],
@@ -4016,7 +4016,7 @@
                 "dependencies": null,
                 "extra": null,
                 "id": 3,
-                "lastUpdate": "2020-10-11T18:58:00",
+                "lastUpdate": "2022-10-11T18:58:00",
                 "name": "Colonna",
                 "uuid": "397fe1ae-a818-4822-8e03-4b24a6430003"
             },
@@ -4025,7 +4025,7 @@
                 "dependencies": null,
                 "extra": null,
                 "id": 1,
-                "lastUpdate": "2020-10-07T11:15:00",
+                "lastUpdate": "2022-10-07T11:15:00",
                 "name": "ColoraPoi4",
                 "uuid": "397fe1ae-a818-4822-8e03-4b24a6430001"
             },
@@ -4034,7 +4034,7 @@
                 "dependencies": null,
                 "extra": null,
                 "id": 2,
-                "lastUpdate": "2020-10-07T11:15:00",
+                "lastUpdate": "2022-10-07T11:15:00",
                 "name": "ColoraPoi6",
                 "uuid": "397fe1ae-a818-4822-8e03-4b24a6430002"
             }
@@ -4045,7 +4045,7 @@
                 "bottomRightLongitude": 0.0,
                 "description": null,
                 "height": 0,
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "items": [
                     "6e2996fe-ac89-4e43-b955-f56f2f7b1657",
                     "652c8a7d-a7be-4295-92b5-c5ce13bd4c03",
@@ -4071,7 +4071,7 @@
         ],
         "mapItems": [
             {
-                "lastUpdate": "2020-10-07T11:02:49",
+                "lastUpdate": "2022-10-07T11:02:49",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "mediaUuid": null,
@@ -4081,7 +4081,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-07T11:11:00",
+                "lastUpdate": "2022-10-07T11:11:00",
                 "latitude": 37.3648428,
                 "longitude": 14.3342561,
                 "mediaUuid": null,
@@ -4091,7 +4091,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3647767,
                 "longitude": 14.334594,
                 "mediaUuid": null,
@@ -4101,7 +4101,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3648855,
                 "longitude": 14.3346047,
                 "mediaUuid": null,
@@ -4111,7 +4111,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-07T14:55:07",
+                "lastUpdate": "2022-10-07T14:55:07",
                 "latitude": 37.3650411,
                 "longitude": 14.3350446,
                 "mediaUuid": null,
@@ -4121,7 +4121,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3648748,
                 "longitude": 14.3348408,
                 "mediaUuid": null,
@@ -4131,7 +4131,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3647426,
                 "longitude": 14.3352815,
                 "mediaUuid": null,
@@ -4141,7 +4141,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3646787,
                 "longitude": 14.3351176,
                 "mediaUuid": null,
@@ -4151,7 +4151,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3647043,
                 "longitude": 14.3348334,
                 "mediaUuid": null,
@@ -4161,7 +4161,7 @@
                 "y": 0
             },
             {
-                "lastUpdate": "2020-10-11T15:53:41",
+                "lastUpdate": "2022-10-11T15:53:41",
                 "latitude": 37.3644378,
                 "longitude": 14.3349204,
                 "mediaUuid": null,
@@ -4184,13 +4184,13 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Valle dei Templi",
-        "lastUpdate": "2020-10-19T12:17:51",
+        "lastUpdate": "2022-10-19T12:17:51",
         "uuid": "c5a5f8b7-c390-41a4-8f8a-7b2b75f75d73",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2020-09-24T17:14:00",
+                "lastUpdate": "2022-09-24T17:14:00",
                 "mediaUuid": null,
                 "order": 0,
                 "subtitle": null,
@@ -4201,7 +4201,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-12T10:26:21",
+                "lastUpdate": "2022-10-12T10:26:21",
                 "mimeType": "image/png",
                 "name": "2.png",
                 "type": "IMG",
@@ -4210,7 +4210,7 @@
                 "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
             },
             {
-                "lastUpdate": "2020-10-07T11:02:46",
+                "lastUpdate": "2022-10-07T11:02:46",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso.png",
                 "type": "IMG",
@@ -4219,7 +4219,7 @@
                 "uuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60"
             },
             {
-                "lastUpdate": "2020-10-05T15:46:57",
+                "lastUpdate": "2022-10-05T15:46:57",
                 "mimeType": "audio/mpeg",
                 "name": "claps.mp3",
                 "type": "AUD",
@@ -4228,7 +4228,7 @@
                 "uuid": "e016082e-ca39-4ef0-8a99-2af7662327b7"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:15",
+                "lastUpdate": "2022-10-07T14:33:15",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_00-1.png",
                 "type": "IMG",
@@ -4237,7 +4237,7 @@
                 "uuid": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:16",
+                "lastUpdate": "2022-10-07T14:33:16",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_01-1.png",
                 "type": "IMG",
@@ -4254,7 +4254,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Ingresso",
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "uuid": "a771e3d1-609f-4883-8736-c903c2337476"
             }
         ],
@@ -4273,7 +4273,7 @@
         "poiCategories": [],
         "gps": [
             {
-                "lastUpdate": "2020-10-07T11:02:48",
+                "lastUpdate": "2022-10-07T11:02:48",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "radius": 5.0,
@@ -4287,7 +4287,7 @@
                     "e3ecea88-9807-40c1-8753-730f94ac4cf0",
                     "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4297,7 +4297,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4311,7 +4311,7 @@
                     "bc955f4a-5f90-47c0-812e-04985dde7612",
                     "07eaefad-5f9d-4aff-83da-bfd980852995"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Ingresso",
@@ -4321,7 +4321,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4333,7 +4333,7 @@
                 "items": [
                     "72385936-17ec-480c-9e80-972c9c57a172"
                 ],
-                "lastUpdate": "2020-10-12T10:26:37",
+                "lastUpdate": "2022-10-12T10:26:37",
                 "mediaUuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd",
                 "subtitle": "Agrigento",
                 "title": "Valle dei Templi",
@@ -4343,32 +4343,32 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "e3ecea88-9807-40c1-8753-730f94ac4cf0"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "b33ab00f-682d-41ee-b511-bcc1d7a5e98a"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "bc955f4a-5f90-47c0-812e-04985dde7612"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 2,
                 "uuid": "07eaefad-5f9d-4aff-83da-bfd980852995"
             },
             {
-                "lastUpdate": "2020-10-12T10:26:37",
+                "lastUpdate": "2022-10-12T10:26:37",
                 "order": 0,
                 "uuid": "72385936-17ec-480c-9e80-972c9c57a172"
             }
@@ -4444,7 +4444,7 @@
                     "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
                 ],
                 "tag": "audio-gallery",
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "ef07144a-dc24-4df4-ae6d-1692541563b3"
             },
             {
@@ -4453,7 +4453,7 @@
                     "9d82f39d-3850-4307-8299-04281a3f097a"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "f5f480ce-9b6a-4544-a230-949a2a556a86"
             }
         ],
@@ -4464,7 +4464,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
             },
             {
@@ -4473,7 +4473,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "d7ffab0b-9e89-407e-aa6e-9f9feebff3f1"
             },
             {
@@ -4482,7 +4482,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "9d82f39d-3850-4307-8299-04281a3f097a"
             }
         ],
@@ -4492,7 +4492,7 @@
                 "bottomRightLongitude": 0.0,
                 "description": null,
                 "height": 0,
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "items": [
                     "1aacbd7f-24bd-4117-a24d-5c27b580c16b"
                 ],
@@ -4509,7 +4509,7 @@
         ],
         "mapItems": [
             {
-                "lastUpdate": "2020-10-12T10:26:38",
+                "lastUpdate": "2022-10-12T10:26:38",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "mediaUuid": null,
@@ -4530,7 +4530,7 @@
         "skuCode": null,
         "tag": "path-extra",
         "title": "Extra",
-        "lastUpdate": "2020-10-19T08:19:45",
+        "lastUpdate": "2022-10-19T08:19:45",
         "uuid": "a1fceed5-cf07-49c6-8928-feea4073681a",
         "pois": [
             {
@@ -4540,7 +4540,7 @@
                 "subtitle": null,
                 "tag": "poi-extra",
                 "title": "Extra",
-                "lastUpdate": "2020-10-13T12:36:26",
+                "lastUpdate": "2022-10-13T12:36:26",
                 "uuid": "9f4a9386-b456-4684-aa7b-919f3aaafab9"
             }
         ],
@@ -4559,7 +4559,7 @@
         "poiCategories": [],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-18T13:36:58",
+                "lastUpdate": "2022-10-18T13:36:58",
                 "mimeType": "image/png",
                 "name": "loghi_credits.png",
                 "type": "IMG",
@@ -4575,7 +4575,7 @@
                     "62912d87-cc6d-415b-8261-8d8873694151",
                     "3c7d79ba-c542-4c00-b64f-b97de8dd5156"
                 ],
-                "lastUpdate": "2020-10-13T12:36:25",
+                "lastUpdate": "2022-10-13T12:36:25",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Extra",
@@ -4587,7 +4587,7 @@
                 "items": [
                     "309b24f0-8e03-4c9b-802b-b7175af5fcac"
                 ],
-                "lastUpdate": "2020-10-19T08:19:45",
+                "lastUpdate": "2022-10-19T08:19:45",
                 "mediaUuid": null,
                 "subtitle": "",
                 "title": "",
@@ -4600,7 +4600,7 @@
                     "0a2f747f-7aa0-4cee-b151-a24287b19bab",
                     "624dee4f-886e-4f6c-ac5e-54982bc9ca7c"
                 ],
-                "lastUpdate": "2020-10-18T13:53:01",
+                "lastUpdate": "2022-10-18T13:53:01",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4610,7 +4610,7 @@
             {
                 "description": "<p><strong>Progetto cofinanziato dall&#8217;Unione Europea nell&#8217;ambito del PO FESR Sicilia 2014-2020</strong></p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-19T08:19:45",
+                "lastUpdate": "2022-10-19T08:19:45",
                 "mediaUuid": "c4cac6e3-f5cf-47ad-8f8e-79a7d6562411",
                 "subtitle": "",
                 "title": "",
@@ -4620,7 +4620,7 @@
             {
                 "description": "<p>L&#8217;<strong>APP Augustus</strong> è il risultato di un progetto di ricerca e sviluppo che mira a <strong>valorizzare il patrimonio culturale siciliano</strong> tramite una<strong> piattaforma di di gioco</strong> &#8220;web&#8221; e &#8220;app&#8221; che integra <strong>metodologie e tecnologie innovative</strong>, quali: la gamification e serious game, storytelling e storydoing, ricostruzioni 3D, realtà virtuale e realtà aumentata.</p>\n<p>&nbsp;</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T13:53:01",
+                "lastUpdate": "2022-10-18T13:53:01",
                 "mediaUuid": null,
                 "subtitle": "",
                 "title": "",
@@ -4630,7 +4630,7 @@
             {
                 "description": "<p>Il <strong>progetto AUGuSTUS</strong> è stato realizzato da un <strong>Raggruppamento </strong>composto da<strong> partner industriali e tecnico-scientifici</strong>, tra cui: ETT Spa, Red Raion Srl, Ad Meridiem Srl, CNR-ISPC e Università di Palermo (DSEAS), con il coinvolgimento dei <strong>Parchi archeologici e Complessi monumentali siciliani</strong> come il Parco Archeologico di Morgantina e della Villa Romana del Casale, Parco Archeologico e Paesaggistico della Valle dei Templi, Parco Archeologico di Naxos Taormina, Complesso Monumentale di Santa Caterina d’Alessandria.</p>\n<p>&nbsp;</p>\n",
                 "items": [],
-                "lastUpdate": "2020-10-18T13:53:01",
+                "lastUpdate": "2022-10-18T13:53:01",
                 "mediaUuid": null,
                 "subtitle": "",
                 "title": "",
@@ -4642,7 +4642,7 @@
                 "items": [
                     "a04ca37a-7ff2-4498-a283-6b4a898b3170"
                 ],
-                "lastUpdate": "2020-10-13T12:36:27",
+                "lastUpdate": "2022-10-13T12:36:27",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Extra",
@@ -4652,32 +4652,32 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-13T12:36:25",
+                "lastUpdate": "2022-10-13T12:36:25",
                 "order": 0,
                 "uuid": "62912d87-cc6d-415b-8261-8d8873694151"
             },
             {
-                "lastUpdate": "2020-10-13T12:36:25",
+                "lastUpdate": "2022-10-13T12:36:25",
                 "order": 1,
                 "uuid": "3c7d79ba-c542-4c00-b64f-b97de8dd5156"
             },
             {
-                "lastUpdate": "2020-10-19T08:19:45",
+                "lastUpdate": "2022-10-19T08:19:45",
                 "order": 0,
                 "uuid": "309b24f0-8e03-4c9b-802b-b7175af5fcac"
             },
             {
-                "lastUpdate": "2020-10-18T13:53:01",
+                "lastUpdate": "2022-10-18T13:53:01",
                 "order": 0,
                 "uuid": "0a2f747f-7aa0-4cee-b151-a24287b19bab"
             },
             {
-                "lastUpdate": "2020-10-18T13:53:01",
+                "lastUpdate": "2022-10-18T13:53:01",
                 "order": 1,
                 "uuid": "624dee4f-886e-4f6c-ac5e-54982bc9ca7c"
             },
             {
-                "lastUpdate": "2020-10-13T12:36:27",
+                "lastUpdate": "2022-10-13T12:36:27",
                 "order": 0,
                 "uuid": "a04ca37a-7ff2-4498-a283-6b4a898b3170"
             }
@@ -4746,13 +4746,13 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Parco di Taormina-Naxos",
-        "lastUpdate": "2020-10-19T13:53:25",
+        "lastUpdate": "2022-10-19T13:53:25",
         "uuid": "dd2310ff-7113-40b3-9689-f8bb1d1a5392",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2020-09-24T17:14:00",
+                "lastUpdate": "2022-09-24T17:14:00",
                 "mediaUuid": null,
                 "order": 0,
                 "subtitle": null,
@@ -4763,7 +4763,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2020-10-12T10:14:30",
+                "lastUpdate": "2022-10-12T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -4772,7 +4772,7 @@
                 "uuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f"
             },
             {
-                "lastUpdate": "2020-10-07T11:02:46",
+                "lastUpdate": "2022-10-07T11:02:46",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso.png",
                 "type": "IMG",
@@ -4781,7 +4781,7 @@
                 "uuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60"
             },
             {
-                "lastUpdate": "2020-10-05T15:46:57",
+                "lastUpdate": "2022-10-05T15:46:57",
                 "mimeType": "audio/mpeg",
                 "name": "claps.mp3",
                 "type": "AUD",
@@ -4790,7 +4790,7 @@
                 "uuid": "e016082e-ca39-4ef0-8a99-2af7662327b7"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:15",
+                "lastUpdate": "2022-10-07T14:33:15",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_00-1.png",
                 "type": "IMG",
@@ -4799,7 +4799,7 @@
                 "uuid": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b"
             },
             {
-                "lastUpdate": "2020-10-07T14:33:16",
+                "lastUpdate": "2022-10-07T14:33:16",
                 "mimeType": "image/png",
                 "name": "Poi-1-Ingresso_01-1.png",
                 "type": "IMG",
@@ -4816,7 +4816,7 @@
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Ingresso",
-                "lastUpdate": "2020-10-11T16:02:16",
+                "lastUpdate": "2022-10-11T16:02:16",
                 "uuid": "a771e3d1-609f-4883-8736-c903c2337476"
             }
         ],
@@ -4835,7 +4835,7 @@
         "poiCategories": [],
         "gps": [
             {
-                "lastUpdate": "2020-10-07T11:02:48",
+                "lastUpdate": "2022-10-07T11:02:48",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "radius": 5.0,
@@ -4849,7 +4849,7 @@
                     "e3ecea88-9807-40c1-8753-730f94ac4cf0",
                     "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4859,7 +4859,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4873,7 +4873,7 @@
                     "bc955f4a-5f90-47c0-812e-04985dde7612",
                     "07eaefad-5f9d-4aff-83da-bfd980852995"
                 ],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": "3df2454d-bfd7-44bb-bb0b-daf5cffb1f60",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Ingresso",
@@ -4883,7 +4883,7 @@
             {
                 "description": null,
                 "items": [],
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": null,
@@ -4895,7 +4895,7 @@
                 "items": [
                     "a09466c5-f25a-4d9d-9963-ad647841f61a"
                 ],
-                "lastUpdate": "2020-10-18T13:10:21",
+                "lastUpdate": "2022-10-18T13:10:21",
                 "mediaUuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f",
                 "subtitle": "Taormina-Naxos",
                 "title": "Parco di Taormina-Naxos",
@@ -4905,32 +4905,32 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "e3ecea88-9807-40c1-8753-730f94ac4cf0"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "3503bf25-c25d-4d2d-b940-c4c8374e9a5d"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 0,
                 "uuid": "b33ab00f-682d-41ee-b511-bcc1d7a5e98a"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 1,
                 "uuid": "bc955f4a-5f90-47c0-812e-04985dde7612"
             },
             {
-                "lastUpdate": "2020-10-18T12:17:51",
+                "lastUpdate": "2022-10-18T12:17:51",
                 "order": 2,
                 "uuid": "07eaefad-5f9d-4aff-83da-bfd980852995"
             },
             {
-                "lastUpdate": "2020-10-18T13:10:21",
+                "lastUpdate": "2022-10-18T13:10:21",
                 "order": 0,
                 "uuid": "a09466c5-f25a-4d9d-9963-ad647841f61a"
             }
@@ -5006,7 +5006,7 @@
                     "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
                 ],
                 "tag": "audio-gallery",
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "ef07144a-dc24-4df4-ae6d-1692541563b3"
             },
             {
@@ -5015,7 +5015,7 @@
                     "9d82f39d-3850-4307-8299-04281a3f097a"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "f5f480ce-9b6a-4544-a230-949a2a556a86"
             }
         ],
@@ -5026,7 +5026,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-06T13:00:42",
+                "lastUpdate": "2022-10-06T13:00:42",
                 "uuid": "41e2a24a-1153-4ee9-b2b1-f69bdb70cabd"
             },
             {
@@ -5035,7 +5035,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "d7ffab0b-9e89-407e-aa6e-9f9feebff3f1"
             },
             {
@@ -5044,7 +5044,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2020-10-07T14:33:34",
+                "lastUpdate": "2022-10-07T14:33:34",
                 "uuid": "9d82f39d-3850-4307-8299-04281a3f097a"
             }
         ],
@@ -5054,7 +5054,7 @@
                 "bottomRightLongitude": 0.0,
                 "description": null,
                 "height": 0,
-                "lastUpdate": "2020-10-18T13:53:25",
+                "lastUpdate": "2022-10-18T13:53:25",
                 "items": [
                     "39480605-eb35-4b77-959e-e270d91cfc5f"
                 ],
@@ -5071,7 +5071,7 @@
         ],
         "mapItems": [
             {
-                "lastUpdate": "2020-10-18T13:10:22",
+                "lastUpdate": "2022-10-18T13:10:22",
                 "latitude": 37.3645103,
                 "longitude": 14.3343177,
                 "mediaUuid": null,
