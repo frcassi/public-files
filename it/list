@@ -9,7 +9,7 @@
             "skuCode": null,
             "tag": "path-intro",
             "title": "Intro",
-            "lastUpdate": "2021-11-19T11:07:47",
+            "lastUpdate": "2021-11-22T11:07:47",
             "uuid": "86c2d50a-aa3d-4772-a493-51a688fe7ef7",
             "totalSize": 2779908
         },
@@ -24,7 +24,7 @@
             "skuCode": null,
             "tag": "path-rank",
             "title": "Classifica",
-            "lastUpdate": "2021-11-19T14:06:00",
+            "lastUpdate": "2021-11-21T14:06:00",
             "uuid": "4e58d24a-1203-424d-b0bc-239d357b3d94",
             "totalSize": 791546
         },
@@ -39,7 +39,7 @@
             "skuCode": null,
             "tag": "path-bookmark",
             "title": "Preferiti",
-            "lastUpdate": "2021-11-19T14:06:00",
+            "lastUpdate": "2021-11-23T14:06:00",
             "uuid": "266d5791-5c58-4eaf-bb22-31b73b2b356c",
             "totalSize": 769170
         },
@@ -54,7 +54,7 @@
             "skuCode": null,
             "tag": "path-game-reward",
             "title": "Bacheca",
-            "lastUpdate": "2021-11-19T15:30:00",
+            "lastUpdate": "2021-11-24T15:30:00",
             "uuid": "24b0f8d1-fa30-4b9a-aaac-791ad3388e31",
             "totalSize": 138681
         },
@@ -69,7 +69,7 @@
             "skuCode": null,
             "tag": "path-main-external-game",
             "title": "Villa Romana del Casale",
-            "lastUpdate": "2021-11-19T12:17:51",
+            "lastUpdate": "2021-11-25T12:17:51",
             "uuid": "0f1b3a8a-5acf-4dfd-9bbe-56f422de46c4",
             "totalSize": 25918942
         },
@@ -84,7 +84,7 @@
             "skuCode": null,
             "tag": "path-main-external-game",
             "title": "Valle dei Templi",
-            "lastUpdate": "2021-11-19T12:17:51",
+            "lastUpdate": "2021-11-20T12:17:51",
             "uuid": "c5a5f8b7-c390-41a4-8f8a-7b2b75f75d73",
             "totalSize": 2360956
         },
@@ -97,7 +97,7 @@
             "skuCode": null,
             "tag": "path-extra",
             "title": "Extra",
-            "lastUpdate": "2021-11-19T08:19:45",
+            "lastUpdate": "2021-11-26T08:19:45",
             "uuid": "a1fceed5-cf07-49c6-8928-feea4073681a",
             "totalSize": 89180
         },
@@ -112,7 +112,7 @@
             "skuCode": null,
             "tag": "path-main-external-game",
             "title": "Parco di Taormina-Naxos",
-            "lastUpdate": "2021-11-19T13:53:25",
+            "lastUpdate": "2021-11-27T13:53:25",
             "uuid": "dd2310ff-7113-40b3-9689-f8bb1d1a5392",
             "totalSize": 2751772
         }
@@ -121,7 +121,7 @@
         {
             "color": null,
             "description": null,
-            "lastUpdate": "2021-11-19T14:06:00",
+            "lastUpdate": "2021-11-22T14:06:00",
             "mediaUuid": null,
             "order": 1,
             "subtitle": null,
@@ -199,5 +199,5 @@
             "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
         }
     ],
-    "lastUpdate": "2021-11-23T08:19:45"
+    "lastUpdate": "2021-11-28T08:19:45"
 }
