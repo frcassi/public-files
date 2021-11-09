@@ -64,7 +64,7 @@
             ],
             "color": "#EA6A4B",
             "description": "<p>Esplora la Villa Romana del Casale di Piazza Armerina. Risolvi enigmi tra corridoi, terme e appartamenti e colleziona tesori</p>\n",
-            "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948",
+            "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa943",
             "subtitle": "Piazza Armerina",
             "skuCode": null,
             "tag": "path-main-external-game",
@@ -187,7 +187,7 @@
             "type": "IMG",
             "size": 645829,
             "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/Villa-Romana-del-Casale.png",
-            "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948"
+            "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa943"
         },
         {
             "lastUpdate": "2022-11-12T10:26:21",

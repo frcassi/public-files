@@ -644,7 +644,7 @@
         ],
         "color": "#EA6A4B",
         "description": "<p>Esplora la Villa Romana del Casale di Piazza Armerina. Risolvi enigmi tra corridoi, terme e appartamenti e colleziona tesori</p>\n",
-        "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948",
+        "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa943",
         "subtitle": "Piazza Armerina",
         "skuCode": null,
         "tag": "path-main-external-game",
@@ -672,7 +672,7 @@
                 "type": "IMG",
                 "size": 645829,
                 "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/Villa-Romana-del-Casale.png",
-                "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948"
+                "uuid": "b1e13456-c3d3-495b-9e13-c6274e5aa943"
             },
             {
                 "lastUpdate": "2022-10-07T11:02:46",
@@ -762,7 +762,7 @@
                 "type": "IMG",
                 "size": 147016,
                 "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/Poi-10-–-Triclinio-Tribsidiato.png",
-                "uuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b12"
+                "uuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b11"
             },
             {
                 "lastUpdate": "2022-10-05T15:46:57",
@@ -1129,7 +1129,7 @@
             {
                 "categories": [],
                 "description": "<p><strong>1) Lo Xystus</strong></p>\n<p>La parte sud del complesso residenziale è occupata da un portico ovoidale (il cosiddetto Xystus), che confina a ovest con un ninfeo semicircolare. Il mosaico pavimentale del portico mostra protomi animali inseriti all’interno di girali di acanto. La corte scoperta è arricchita da cinque piccole fontane in marmo, decorate internamente con mosaici.</p>\n<p>&nbsp;</p>\n<p><strong>2) Il Triclinio</strong></p>\n<p>Tramite una scala si raggiunge il Triclinio, una grande sala quadrata con tre absidi usata dal dominus per pranzare con gli ospiti più illustri. Il Triclinio presentava una ricca decorazione a mosaico dominata, al centro, dal tema delle fatiche di Ercole. Nell’abside nord, Ercole è raffigurato mentre Giove lo incorona; nell’abside est, cinque giganti con gambe serpentiformi agonizzano perché colpiti dalle frecce dell’eroe; in quella sud si illustra il mito di Licurgo con la metamorfosi di Ambrosia. Il tema delle metamorfosi è ripreso anche nei passaggi che portano alle absidi in cui si riconosce, tra tutti, la trasformazione di Dafne in alloro.</p>\n<p>&nbsp;</p>\n<p><strong>3) Curiosità su mosaici e absidi</strong></p>\n<p>A una profondità di 60 cm, al di sotto del mosaico centrale del peristilio ovoidale, è stato rinvenuto un pavimento in cocciopesto probabilmente relativo al più antico insediamento rustico.</p>\n<p>L’utilizzo di sale triabsidate, nell’ambito dell’edilizia domestica tardoantica, è piuttosto comune in tutte le province dell’impero romano. Le absidi erano infatti destinate ad accogliere i letti curvi (stibadia) su cui si banchettava sdraiati.</p>\n",
-                "mediaUuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b12",
+                "mediaUuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b11",
                 "subtitle": "Villa Romana del Casale",
                 "tag": "poi-main-external-game",
                 "title": "Triclinio Triabsidato",
@@ -2127,7 +2127,7 @@
                     "e00d904d-e539-4c48-b009-89f1177a4af7"
                 ],
                 "lastUpdate": "2022-10-12T14:46:19",
-                "mediaUuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b12",
+                "mediaUuid": "5063fc1d-9e0e-4f4f-933b-6f9d4b5c2b11",
                 "subtitle": "Villa Romana del Casale",
                 "title": "Triclinio Triabsidato",
                 "tag": "poi-main-external-game-main-data",
@@ -2294,7 +2294,7 @@
                     "17be47b4-7493-458c-bff8-c8ca5ac5bd00"
                 ],
                 "lastUpdate": "2022-10-08T10:45:53",
-                "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa948",
+                "mediaUuid": "b1e13456-c3d3-495b-9e13-c6274e5aa943",
                 "subtitle": "Piazza Armerina",
                 "title": "Villa Romana del Casale",
                 "tag": "path-main-external-game-entry-sheet",
