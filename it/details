@@ -8,7 +8,7 @@
         "skuCode": null,
         "tag": "path-intro",
         "title": "Intro",
-        "lastUpdate": "2021-10-20T12:07:47",
+        "lastUpdate": "2021-10-21T12:07:47",
         "uuid": "86c2d50a-aa3d-4772-a493-51a688fe7ef7",
         "pois": [
             {
@@ -18,7 +18,7 @@
                 "subtitle": null,
                 "tag": "poi-intro",
                 "title": "Intro",
-                "lastUpdate": "2021-10-05T15:56:28",
+                "lastUpdate": "2021-10-15T15:56:28",
                 "uuid": "f40e5d1b-5661-4ddb-9873-a5a3fb453093"
             }
         ],
@@ -37,7 +37,7 @@
         "poiCategories": [],
         "mediaFiles": [
             {
-                "lastUpdate": "2021-10-18T11:07:30",
+                "lastUpdate": "2021-10-19 T11:07:30",
                 "mimeType": "image/png",
                 "name": "1.png",
                 "type": "IMG",
@@ -46,7 +46,7 @@
                 "uuid": "9dcf1a85-ce73-4095-ad33-6076c05ddcfc"
             },
             {
-                "lastUpdate": "2021-10-12T10:26:21",
+                "lastUpdate": "2021-10-13T10:26:21",
                 "mimeType": "image/png",
                 "name": "2.png",
                 "type": "IMG",
@@ -55,7 +55,7 @@
                 "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
             },
             {
-                "lastUpdate": "2021-10-12T10:14:30",
+                "lastUpdate": "2021-10-13T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -307,7 +307,7 @@
         "skuCode": null,
         "tag": "path-rank",
         "title": "Classifica",
-        "lastUpdate": "2021-10-18T14:06:00",
+        "lastUpdate": "2021-10-19T14:06:00",
         "uuid": "4e58d24a-1203-424d-b0bc-239d357b3d94",
         "pathCategories": [
             {
@@ -418,7 +418,7 @@
         "skuCode": null,
         "tag": "path-bookmark",
         "title": "Preferiti",
-        "lastUpdate": "2021-10-18T14:06:00",
+        "lastUpdate": "2021-10-19T14:06:00",
         "uuid": "266d5791-5c58-4eaf-bb22-31b73b2b356c",
         "pathCategories": [
             {
@@ -529,7 +529,7 @@
         "skuCode": null,
         "tag": "path-game-reward",
         "title": "Bacheca",
-        "lastUpdate": "2021-10-18T15:30:00",
+        "lastUpdate": "2021-10-19T15:30:00",
         "uuid": "24b0f8d1-fa30-4b9a-aaac-791ad3388e31",
         "pathCategories": [
             {
@@ -649,7 +649,7 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Villa Romana del Casale",
-        "lastUpdate": "2021-10-18T12:17:51",
+        "lastUpdate": "2021-10-19T12:17:51",
         "uuid": "0f1b3a8a-5acf-4dfd-9bbe-56f422de46c4",
         "pathCategories": [
             {
@@ -4184,7 +4184,7 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Valle dei Templi",
-        "lastUpdate": "2021-10-18T12:17:51",
+        "lastUpdate": "2021-10-19T12:17:51",
         "uuid": "c5a5f8b7-c390-41a4-8f8a-7b2b75f75d73",
         "pathCategories": [
             {
@@ -4746,7 +4746,7 @@
         "skuCode": null,
         "tag": "path-main-external-game",
         "title": "Parco di Taormina-Naxos",
-        "lastUpdate": "2021-10-18T13:53:25",
+        "lastUpdate": "2021-10-19T13:53:25",
         "uuid": "dd2310ff-7113-40b3-9689-f8bb1d1a5392",
         "pathCategories": [
             {
