@@ -8,7 +8,7 @@
         "skuCode": null,
         "tag": "path-intro",
         "title": "Intro",
-        "lastUpdate": "2021-10-21T12:07:47",
+        "lastUpdate": "2020-10-21T12:07:47",
         "uuid": "86c2d50a-aa3d-4772-a493-51a688fe7ef7",
         "pois": [
             {
@@ -18,7 +18,7 @@
                 "subtitle": null,
                 "tag": "poi-intro",
                 "title": "Intro",
-                "lastUpdate": "2021-10-15T15:56:28",
+                "lastUpdate": "2020-10-15T15:56:28",
                 "uuid": "f40e5d1b-5661-4ddb-9873-a5a3fb453093"
             }
         ],
@@ -37,7 +37,7 @@
         "poiCategories": [],
         "mediaFiles": [
             {
-                "lastUpdate": "2021-10-19 T11:07:30",
+                "lastUpdate": "2020-10-19 T11:07:30",
                 "mimeType": "image/png",
                 "name": "1.png",
                 "type": "IMG",
@@ -46,7 +46,7 @@
                 "uuid": "9dcf1a85-ce73-4095-ad33-6076c05ddcfc"
             },
             {
-                "lastUpdate": "2021-10-13T10:26:21",
+                "lastUpdate": "2020-10-13T10:26:21",
                 "mimeType": "image/png",
                 "name": "2.png",
                 "type": "IMG",
@@ -55,7 +55,7 @@
                 "uuid": "f3174664-39ea-4d91-8b2e-2bba81d35ddd"
             },
             {
-                "lastUpdate": "2021-10-13T10:14:30",
+                "lastUpdate": "2020-10-13T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -64,7 +64,7 @@
                 "uuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f"
             },
             {
-                "lastUpdate": "2021-10-12T10:12:29",
+                "lastUpdate": "2020-10-12T10:12:29",
                 "mimeType": "image/png",
                 "name": "4.png",
                 "type": "IMG",
@@ -84,7 +84,7 @@
                     "ccdc94f2-00c2-4403-bfd4-711a5bc4e677",
                     "692f43be-afe8-45c5-bd3c-0a77b3d04f7a"
                 ],
-                "lastUpdate": "2021-10-18T11:07:47",
+                "lastUpdate": "2020-10-18T11:07:47",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Intro",
@@ -94,7 +94,7 @@
             {
                 "description": "<p>Dall’unione di cronmologia e beni assessorali nasce il progetto Gianluigina, che mira alla creazione di un dominio del mondo interattivo e immersivo per una fruizione esperienziale di 4 siti archeologici siciliani.</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-18T10:47:00",
+                "lastUpdate": "2020-10-18T10:47:00",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "",
@@ -104,7 +104,7 @@
             {
                 "description": "<p>La piattaforma di gioco web e app AUGuSTUS consente la scoperta onsite e offsite del patrimonio culturale della Sicilia sulle orme dell’imperatore Augusto. All’interno di ogni percorso sono presenti una serie di punti di interesse e contenuti a valore aggiunto navigabili su una mappa fruibile attraverso l’app.</p>\n<p>Il giocatore supererà prove ed enigmi basati su avvenimenti storici reali interagendo in prima persona con ambienti e personaggi e accumulando tesori.</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "",
@@ -114,7 +114,7 @@
             {
                 "description": "<p>Il giocatore supererà prove ed enigmi basati su avvenimenti storici reali interagendo in prima persona con ambienti e personaggi e accumulando tesori.</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-18T10:47:02",
+                "lastUpdate": "2020-10-18T10:47:02",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Videogame",
@@ -126,7 +126,7 @@
                 "items": [
                     "e924353f-d320-42ef-aeed-219b13ccb749"
                 ],
-                "lastUpdate": "2021-10-05T15:56:29",
+                "lastUpdate": "2020-10-05T15:56:29",
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "Intro",
@@ -136,37 +136,37 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 0,
                 "uuid": "74575bb7-ad19-4f9b-9383-27292113cb56"
             },
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 1,
                 "uuid": "1ab9248e-51d7-4dbd-bde1-3672014be95e"
             },
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 2,
                 "uuid": "a56e0633-49c2-4d66-b963-394552d6558e"
             },
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 3,
                 "uuid": "94e149d0-ded6-43f6-9418-5f997fd423b8"
             },
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 4,
                 "uuid": "ccdc94f2-00c2-4403-bfd4-711a5bc4e677"
             },
             {
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "order": 5,
                 "uuid": "692f43be-afe8-45c5-bd3c-0a77b3d04f7a"
             },
             {
-                "lastUpdate": "2021-10-05T15:56:29",
+                "lastUpdate": "2020-10-05T15:56:29",
                 "order": 0,
                 "uuid": "e924353f-d320-42ef-aeed-219b13ccb749"
             }
@@ -236,7 +236,7 @@
                     "de20ff4e-e9e2-4add-9584-2f2d0b5572cb"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "uuid": "6d831580-ad4b-488d-89c1-d3f2d1e4c9e1"
             },
             {
@@ -244,7 +244,7 @@
                     "7da7b1a0-4cb9-43da-84ae-2aa5cda3b2a8"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2021-10-18T10:47:02",
+                "lastUpdate": "2020-10-18T10:47:02",
                 "uuid": "5c206e37-7c20-4768-ab6b-70bc5a8a7fd8"
             },
             {
@@ -252,7 +252,7 @@
                     "83ed5df3-8712-4646-aece-6b356f888d93"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2021-10-18T10:47:02",
+                "lastUpdate": "2020-10-18T10:47:02",
                 "uuid": "65f4cecc-cc96-4fae-be94-903d077de606"
             }
         ],
@@ -263,7 +263,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "uuid": "9e8ca58a-a1c5-4f6a-ab25-60dfa8fc36c8"
             },
             {
@@ -272,7 +272,7 @@
                 "order": 1,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2021-10-18T11:07:46",
+                "lastUpdate": "2020-10-18T11:07:46",
                 "uuid": "de20ff4e-e9e2-4add-9584-2f2d0b5572cb"
             },
             {
@@ -281,7 +281,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2021-10-18T10:47:02",
+                "lastUpdate": "2020-10-18T10:47:02",
                 "uuid": "7da7b1a0-4cb9-43da-84ae-2aa5cda3b2a8"
             },
             {
@@ -290,7 +290,7 @@
                 "order": 0,
                 "subtitle": null,
                 "title": null,
-                "lastUpdate": "2021-10-18T10:47:02",
+                "lastUpdate": "2020-10-18T10:47:02",
                 "uuid": "83ed5df3-8712-4646-aece-6b356f888d93"
             }
         ],
@@ -307,13 +307,13 @@
         "skuCode": null,
         "tag": "path-rank",
         "title": "Classifica",
-        "lastUpdate": "2021-10-19T14:06:00",
+        "lastUpdate": "2020-10-19T14:06:00",
         "uuid": "4e58d24a-1203-424d-b0bc-239d357b3d94",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2021-10-18T14:06:00",
+                "lastUpdate": "2020-10-18T14:06:00",
                 "mediaUuid": null,
                 "order": 1,
                 "subtitle": null,
@@ -324,7 +324,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2021-10-12T10:13:51",
+                "lastUpdate": "2020-10-12T10:13:51",
                 "mimeType": "image/png",
                 "name": "AdobeStock_83450730.png",
                 "type": "IMG",
@@ -341,7 +341,7 @@
                 "subtitle": "AUGUSTUS",
                 "tag": "poi-rank",
                 "title": "Classifica",
-                "lastUpdate": "2021-10-12T10:14:09",
+                "lastUpdate": "2020-10-12T10:14:09",
                 "uuid": "39fdcb7a-be39-4e19-b5d7-091e9faf72a4"
             }
         ],
@@ -362,7 +362,7 @@
             {
                 "description": "<p>Gioca e visualizza in tempo reale la tua posizione in classifica.</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-12T10:14:09",
+                "lastUpdate": "2020-10-12T10:14:09",
                 "mediaUuid": null,
                 "subtitle": "AUGUSTUS",
                 "title": "Classifica",
@@ -374,7 +374,7 @@
                 "items": [
                     "f9424f02-84b7-4a83-8b33-9980a51f38ed"
                 ],
-                "lastUpdate": "2021-10-12T10:14:08",
+                "lastUpdate": "2020-10-12T10:14:08",
                 "mediaUuid": "7e5a190b-b38d-4200-86c1-5e00b55e6734",
                 "subtitle": "AUGUSTUS",
                 "title": "Classifica",
@@ -384,7 +384,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2021-10-05T15:57:07",
+                "lastUpdate": "2020-10-05T15:57:07",
                 "order": 0,
                 "uuid": "f9424f02-84b7-4a83-8b33-9980a51f38ed"
             }
@@ -418,13 +418,13 @@
         "skuCode": null,
         "tag": "path-bookmark",
         "title": "Preferiti",
-        "lastUpdate": "2021-10-19T14:06:00",
+        "lastUpdate": "2020-10-19T14:06:00",
         "uuid": "266d5791-5c58-4eaf-bb22-31b73b2b356c",
         "pathCategories": [
             {
                 "color": null,
                 "description": null,
-                "lastUpdate": "2021-10-18T14:06:00",
+                "lastUpdate": "2020-10-18T14:06:00",
                 "mediaUuid": null,
                 "order": 1,
                 "subtitle": null,
@@ -435,7 +435,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2021-10-12T10:14:30",
+                "lastUpdate": "2020-10-12T10:14:30",
                 "mimeType": "image/png",
                 "name": "3.png",
                 "type": "IMG",
@@ -452,7 +452,7 @@
                 "subtitle": "AUGUSTUS",
                 "tag": "poi-bookmark",
                 "title": "Preferiti",
-                "lastUpdate": "2021-10-12T10:14:47",
+                "lastUpdate": "2020-10-12T10:14:47",
                 "uuid": "b5811d4f-76ee-4c7a-a145-eb5f45a122bd"
             }
         ],
@@ -473,7 +473,7 @@
             {
                 "description": "<p>Salva i tuoi preferiti e ritrovali qui in qualsiasi momento.</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-12T10:14:47",
+                "lastUpdate": "2020-10-12T10:14:47",
                 "mediaUuid": null,
                 "subtitle": "AUGUSTUS",
                 "title": "Preferiti",
@@ -485,7 +485,7 @@
                 "items": [
                     "833166f1-2ed4-43ee-8fa4-12d451c5823c"
                 ],
-                "lastUpdate": "2021-10-12T10:14:47",
+                "lastUpdate": "2020-10-12T10:14:47",
                 "mediaUuid": "75e9c38e-957c-43ed-9fd7-0ee6822fcc6f",
                 "subtitle": "AUGUSTUS",
                 "title": "Preferiti",
@@ -495,7 +495,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2021-10-05T15:57:23",
+                "lastUpdate": "2020-10-05T15:57:23",
                 "order": 0,
                 "uuid": "833166f1-2ed4-43ee-8fa4-12d451c5823c"
             }
@@ -529,13 +529,13 @@
         "skuCode": null,
         "tag": "path-game-reward",
         "title": "Bacheca",
-        "lastUpdate": "2021-10-19T15:30:00",
+        "lastUpdate": "2020-10-19T15:30:00",
         "uuid": "24b0f8d1-fa30-4b9a-aaac-791ad3388e31",
         "pathCategories": [
             {
                 "color": null,
                 "description": "Prova nuovamente l’emozione della conquista. Seleziona i tesori che hai sbloccato e contemplane ogni prezioso dettaglio nella stanza delle Mirabilia di Augusto.",
-                "lastUpdate": "2021-10-18T15:30:00",
+                "lastUpdate": "2020-10-18T15:30:00",
                 "mediaUuid": null,
                 "order": 2,
                 "subtitle": null,
@@ -546,7 +546,7 @@
         ],
         "mediaFiles": [
             {
-                "lastUpdate": "2021-10-12T10:15:21",
+                "lastUpdate": "2020-10-12T10:15:21",
                 "mimeType": "image/png",
                 "name": "Colonna_percorso_villacasale@2x.png",
                 "type": "IMG",
@@ -555,7 +555,7 @@
                 "uuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9"
             },
             {
-                "lastUpdate": "2021-10-12T10:09:50",
+                "lastUpdate": "2020-10-12T10:09:50",
                 "mimeType": "image/png",
                 "name": "Colonna_percorso_villacasale.png",
                 "type": "IMG",
@@ -572,7 +572,7 @@
                 "subtitle": null,
                 "tag": "poi-game-reward",
                 "title": null,
-                "lastUpdate": "2021-10-05T15:51:39",
+                "lastUpdate": "2020-10-05T15:51:39",
                 "uuid": "6927da74-cf09-4011-9bbd-da9be45be1f5"
             }
         ],
@@ -593,7 +593,7 @@
             {
                 "description": "<p>Hai conquistato un oggetto sbloccando questo percorso. Il tuo tesoro è custodito nella stanza delle meraviglie. Visita il sito web per saperne di più!</p>\n",
                 "items": [],
-                "lastUpdate": "2021-10-18T10:49:40",
+                "lastUpdate": "2020-10-18T10:49:40",
                 "mediaUuid": "7837eaa2-46a1-4cc3-96ec-8bdaf6a4ced1",
                 "subtitle": "https://www.augustusgame.it",
                 "title": "Colonna",
@@ -605,7 +605,7 @@
                 "items": [
                     "d219337a-0c16-4304-b26f-0ffbe9f6cc88"
                 ],
-                "lastUpdate": "2021-10-12T10:15:41",
+                "lastUpdate": "2020-10-12T10:15:41",
                 "mediaUuid": "e31c23bf-9b18-483a-8d92-f072eb1b64f9",
                 "subtitle": "AUGUSTUS",
                 "title": "Bacheca",
@@ -615,7 +615,7 @@
         ],
         "sheetItems": [
             {
-                "lastUpdate": "2021-10-05T15:59:30",
+                "lastUpdate": "2020-10-05T15:59:30",
                 "order": 0,
                 "uuid": "d219337a-0c16-4304-b26f-0ffbe9f6cc88"
             }
