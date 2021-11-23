@@ -1427,8 +1427,8 @@
                 "description": null,
                 "mediaUuid": "3e1dd3bc-04a5-4174-8a7c-2065ed340321",
                 "order": 0,
-                "subtitle": null,
-                "title": null,
+                "subtitle": "Another day in paradise",
+                "title": "Test",
                 "lastUpdate": "2021-03-02T16:30:49",
                 "uuid": "bd54e392-d47d-47ea-a5de-e0c75416a1b2"
             },
@@ -1436,8 +1436,8 @@
                 "description": null,
                 "mediaUuid": "5852945c-dee8-4b3c-b325-1e1ef40c4810",
                 "order": 1,
-                "subtitle": null,
-                "title": null,
+                "subtitle": "What the hell",
+                "title": "Test1",
                 "lastUpdate": "2021-03-02T16:30:49",
                 "uuid": "f5303f69-8397-4592-ab82-af75d178d8bf"
             },
