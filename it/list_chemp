@@ -1,0 +1,177 @@
+{
+    "paths": [
+        {
+            "categories": [
+                "67ba5d86-3461-48aa-a5f4-3f916b8c7641"
+            ],
+            "color": "#3FB498",
+            "description": "<p>Il Cardinale Ippolito II d&#8217;Este vi accompagna tra miti, leggende e storie legate alla costruzione e decorazione di Villa d&#8217;Este</p>\n",
+            "mediaUuid": "24056cb3-22de-4113-9264-63f2b1677256",
+            "subtitle": "14 Punti di Interesse",
+            "skuCode": null,
+            "tag": "path-main-internal",
+            "title": "Il Mito",
+            "lastUpdate": "2021-10-22T09:54:46",
+            "uuid": "1692fc39-8e22-4f48-b652-8b4064edccf4",
+            "totalSize": 68691726
+        },
+        {
+            "categories": [],
+            "color": null,
+            "description": "<p>Ascolta il suono delle fontane di Villa d&#8217;Este</p>\n",
+            "mediaUuid": "f86a2ab0-62cb-4dca-9dc4-fc55b73f136c",
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-secondary-internal-playlist",
+            "title": "Le Fontane",
+            "lastUpdate": "2021-10-21T18:54:48",
+            "uuid": "cb916b56-121b-40fe-926b-a9064e0a2feb",
+            "totalSize": 15387153
+        },
+        {
+            "categories": [],
+            "color": null,
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-extra",
+            "title": "Path Extra/Credits",
+            "lastUpdate": "2021-03-18T10:50:14",
+            "uuid": "c9ceae2b-62d9-4d14-9a45-ab6755f0196c",
+            "totalSize": 101333
+        },
+        {
+            "categories": [],
+            "color": null,
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-intro",
+            "title": "Percorso Intro",
+            "lastUpdate": "2021-10-22T10:30:54",
+            "uuid": "2108bcf8-dc17-47cf-85a2-f3ad526e85ca",
+            "totalSize": 2549946
+        },
+        {
+            "categories": [
+                "67ba5d86-3461-48aa-a5f4-3f916b8c7641"
+            ],
+            "color": "#3FB498",
+            "description": "<p>Ninfei, grotte e giochi d’acqua: scoprite le meraviglie che si nascondono dietro le fontane di Villa d’Este</p>\n",
+            "mediaUuid": "9fe7bf58-4ef0-47d5-9ae7-fbc908fc65ab",
+            "subtitle": "12 Punti di Interesse",
+            "skuCode": null,
+            "tag": "path-main-internal",
+            "title": "Le Fontane",
+            "lastUpdate": "2021-10-22T09:42:33",
+            "uuid": "39b95c38-39e9-4e2b-8047-a678bed3816a",
+            "totalSize": 19233056
+        },
+        {
+            "categories": [
+                "67ba5d86-3461-48aa-a5f4-3f916b8c7643"
+            ],
+            "color": "#3FB498",
+            "description": "<p>Ascolta il suono delle fontane di Villa d&#8217;Este</p>\n",
+            "mediaUuid": "f86a2ab0-62cb-4dca-9dc4-fc55b73f136c",
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-playlist",
+            "title": "Le Fontane",
+            "lastUpdate": "2021-10-22T18:03:10",
+            "uuid": "cbed0a69-640d-4c13-b754-7057323a2c52",
+            "totalSize": 14301716
+        },
+        {
+            "categories": [
+                "67ba5d86-3461-48aa-a5f4-3f916b8c7642"
+            ],
+            "color": "#3FB498",
+            "description": "<p>Le incisioni di Giovanni Battista Piranesi vi accompagnano tra le antichità romane di Tivoli</p>\n",
+            "mediaUuid": "e4e70c33-4229-433e-9a2f-afdded40ba4c",
+            "subtitle": "16 Punti di Interesse",
+            "skuCode": null,
+            "tag": "path-main-internal",
+            "title": "Percorso Piranesi",
+            "lastUpdate": "2021-10-22T16:10:03",
+            "uuid": "b43c7a37-8618-4e4a-ac18-73ac2c96ef55",
+            "totalSize": 47874887
+        }
+    ],
+    "pathCategories": [
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2021-10-19T10:35:00",
+            "mediaUuid": null,
+            "order": 0,
+            "subtitle": null,
+            "tag": "preview",
+            "title": "Itinerario Villa D'Este",
+            "uuid": "67ba5d86-3461-48aa-a5f4-3f916b8c7641"
+        },
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2021-08-29T10:35:00",
+            "mediaUuid": null,
+            "order": 2,
+            "subtitle": null,
+            "tag": "circular-expanded",
+            "title": "Il Suono di Villa D'Este",
+            "uuid": "67ba5d86-3461-48aa-a5f4-3f916b8c7643"
+        },
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2021-10-19T10:35:00",
+            "mediaUuid": null,
+            "order": 1,
+            "subtitle": null,
+            "tag": "preview",
+            "title": "Itinerario trasversale",
+            "uuid": "67ba5d86-3461-48aa-a5f4-3f916b8c7642"
+        }
+    ],
+    "mediaFiles": [
+        {
+            "lastUpdate": "2021-10-01T16:00:42",
+            "mimeType": "image/jpeg",
+            "name": "Il_Mito-1.jpg",
+            "type": "IMG",
+            "size": 373811,
+            "url": "http://chempcms.democontent.it/wp-content/uploads/2020/08/Il_Mito-1.jpg",
+            "uuid": "24056cb3-22de-4113-9264-63f2b1677256"
+        },
+        {
+            "lastUpdate": "2020-11-06T17:22:46",
+            "mimeType": "image/jpeg",
+            "name": "Fontane.jpg",
+            "type": "IMG",
+            "size": 78707,
+            "url": "http://chempcms.democontent.it/wp-content/uploads/2020/08/Fontane.jpg",
+            "uuid": "f86a2ab0-62cb-4dca-9dc4-fc55b73f136c"
+        },
+        {
+            "lastUpdate": "2021-10-01T16:00:43",
+            "mimeType": "image/jpeg",
+            "name": "Le_Fontane.jpg",
+            "type": "IMG",
+            "size": 306503,
+            "url": "http://chempcms.democontent.it/wp-content/uploads/2020/12/Le_Fontane.jpg",
+            "uuid": "9fe7bf58-4ef0-47d5-9ae7-fbc908fc65ab"
+        },
+        {
+            "lastUpdate": "2021-09-30T14:24:50",
+            "mimeType": "image/jpeg",
+            "name": "PercorsoPiranesi_MainPage.jpg",
+            "type": "IMG",
+            "size": 491560,
+            "url": "http://chempcms.democontent.it/wp-content/uploads/2021/09/PercorsoPiranesi_MainPage.jpg",
+            "uuid": "e4e70c33-4229-433e-9a2f-afdded40ba4c"
+        }
+    ],
+    "lastUpdate": "2021-10-22T18:03:10"
+}
