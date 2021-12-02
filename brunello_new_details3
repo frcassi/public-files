@@ -10,7 +10,7 @@
         "skuCode": null,
         "tag": "path-main-internal",
         "title": "Museo Civico e Diocesano",
-        "lastUpdate": "2022-07-08T16:45:59",
+        "lastUpdate": "2023-07-08T16:45:59",
         "uuid": "95cabffa-fc2a-4408-9413-e067efc10a8f",
         "pathCategories": [
             {
@@ -142,15 +142,6 @@
                 "size": 575671,
                 "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/03_AngeloNalduccio.jpg",
                 "uuid": "96a5f6ec-cb10-4387-83b8-e5251a116bc6"
-            },
-            {
-                "lastUpdate": "2021-06-30T10:08:19",
-                "mimeType": "image/jpeg",
-                "name": "04_Montalcino.jpg",
-                "type": "IMG",
-                "size": 410813,
-                "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/04_Montalcino.jpg",
-                "uuid": "e95f712e-484b-4cf2-8806-ea5b4554cad0"
             },
             {
                 "lastUpdate": "2021-07-07T16:55:46",
@@ -766,11 +757,10 @@
                 "items": [
                     "ea9bfbf3-beac-4f4c-8881-6550cb8b0e1b",
                     "a2d46843-1265-436c-99a9-213fc09e230b",
-                    "8c166a06-a1ca-41f5-9f64-6ddf706efd40",
-                    "b862bcd4-02fd-45b3-a455-b9dad79b9659"
+                    "8c166a06-a1ca-41f5-9f64-6ddf706efd40"
                 ],
                 "tag": "images-gallery",
-                "lastUpdate": "2021-07-01T09:04:56",
+                "lastUpdate": "2022-07-01T09:04:56",
                 "uuid": "31a37f2d-c3a6-4040-80c3-421ae7c1415e"
             },
             {
@@ -985,15 +975,6 @@
                 "title": null,
                 "lastUpdate": "2021-07-01T09:04:56",
                 "uuid": "8c166a06-a1ca-41f5-9f64-6ddf706efd40"
-            },
-            {
-                "description": null,
-                "mediaUuid": "e95f712e-484b-4cf2-8806-ea5b4554cad0",
-                "order": 3,
-                "subtitle": null,
-                "title": null,
-                "lastUpdate": "2021-07-01T09:04:56",
-                "uuid": "b862bcd4-02fd-45b3-a455-b9dad79b9659"
             },
             {
                 "description": null,
