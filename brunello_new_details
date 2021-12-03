@@ -10,7 +10,7 @@
         "skuCode": null,
         "tag": "path-main-internal",
         "title": "Museo Civico e Diocesano",
-        "lastUpdate": "2022-07-08T16:45:59",
+        "lastUpdate": "2024-07-08T16:45:59",
         "uuid": "95cabffa-fc2a-4408-9413-e067efc10a8f",
         "pathCategories": [
             {
@@ -124,15 +124,6 @@
                 "size": 980757,
                 "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/01_Montalcino.jpg",
                 "uuid": "33a0de8f-c11f-4e51-b700-5f51a36a2224"
-            },
-            {
-                "lastUpdate": "2021-06-30T10:06:48",
-                "mimeType": "image/jpeg",
-                "name": "02_BartoloDiFredi.jpg",
-                "type": "IMG",
-                "size": 1023108,
-                "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/02_BartoloDiFredi.jpg",
-                "uuid": "be0940e9-0108-4953-b98c-4182fcfdd16d"
             },
             {
                 "lastUpdate": "2021-07-07T16:55:46",
@@ -746,8 +737,7 @@
         "galleries": [
             {
                 "items": [
-                    "ea9bfbf3-beac-4f4c-8881-6550cb8b0e1b",
-                    "a2d46843-1265-436c-99a9-213fc09e230b"
+                    "ea9bfbf3-beac-4f4c-8881-6550cb8b0e1b"
                 ],
                 "tag": "images-gallery",
                 "lastUpdate": "2021-07-01T09:04:56",
@@ -947,15 +937,6 @@
                 "title": null,
                 "lastUpdate": "2021-07-01T09:04:56",
                 "uuid": "ea9bfbf3-beac-4f4c-8881-6550cb8b0e1b"
-            },
-            {
-                "description": null,
-                "mediaUuid": "be0940e9-0108-4953-b98c-4182fcfdd16d",
-                "order": 1,
-                "subtitle": null,
-                "title": null,
-                "lastUpdate": "2021-07-01T09:04:56",
-                "uuid": "a2d46843-1265-436c-99a9-213fc09e230b"
             },
             {
                 "description": null,
