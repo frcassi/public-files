@@ -10,7 +10,7 @@
         "skuCode": null,
         "tag": "path-main-internal",
         "title": "Museo Civico e Diocesano",
-        "lastUpdate": "2021-07-08T16:45:59",
+        "lastUpdate": "2022-07-08T16:45:59",
         "uuid": "95cabffa-fc2a-4408-9413-e067efc10a8f",
         "pathCategories": [
             {
@@ -151,15 +151,6 @@
                 "size": 410813,
                 "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/04_Montalcino.jpg",
                 "uuid": "e95f712e-484b-4cf2-8806-ea5b4554cad0"
-            },
-            {
-                "lastUpdate": "2021-06-30T10:09:07",
-                "mimeType": "image/jpeg",
-                "name": "05_Madonna.jpg",
-                "type": "IMG",
-                "size": 460750,
-                "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/05_Madonna.jpg",
-                "uuid": "332d4325-18a6-49e6-889c-b924faa19705"
             },
             {
                 "lastUpdate": "2021-07-07T16:55:46",
@@ -776,8 +767,7 @@
                     "ea9bfbf3-beac-4f4c-8881-6550cb8b0e1b",
                     "a2d46843-1265-436c-99a9-213fc09e230b",
                     "8c166a06-a1ca-41f5-9f64-6ddf706efd40",
-                    "b862bcd4-02fd-45b3-a455-b9dad79b9659",
-                    "c7284e6f-812e-417a-ab19-59107e7f4e5c"
+                    "b862bcd4-02fd-45b3-a455-b9dad79b9659"
                 ],
                 "tag": "images-gallery",
                 "lastUpdate": "2021-07-01T09:04:56",
@@ -1004,15 +994,6 @@
                 "title": null,
                 "lastUpdate": "2021-07-01T09:04:56",
                 "uuid": "b862bcd4-02fd-45b3-a455-b9dad79b9659"
-            },
-            {
-                "description": null,
-                "mediaUuid": "332d4325-18a6-49e6-889c-b924faa19705",
-                "order": 4,
-                "subtitle": null,
-                "title": null,
-                "lastUpdate": "2021-07-01T09:04:56",
-                "uuid": "c7284e6f-812e-417a-ab19-59107e7f4e5c"
             },
             {
                 "description": null,
