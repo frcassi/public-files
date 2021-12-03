@@ -1,365 +1,366 @@
 {
-  "paths": [
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
-      ],
-      "color": "#CFA047",
-      "description": "<p>Grazie a questo percorso sarai coinvolto in un viaggio artistico tra i grandi maestri dal Medioevo fino al â€˜900.</p>\n",
-      "mediaUuid": "bb8079b3-0fdf-4fb8-a96c-d1f6df47fea9",
-      "subtitle": "Il Complesso di Sant'Agostino",
-      "skuCode": null,
-      "tag": "path-main-internal",
-      "title": "Museo Civico e Diocesano",
-      "lastUpdate": "2023-07-08T16:45:59",
-      "uuid": "95cabffa-fc2a-4408-9413-e067efc10a8f",
-      "totalSize": 60459712
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb03"
-      ],
-      "color": "#CFA047",
-      "description": "",
-      "mediaUuid": "9992617b-fbdf-4415-8557-e670cd2c1af7",
-      "subtitle": "LE ORIGINI",
-      "skuCode": null,
-      "tag": "path-main-list",
-      "title": "Il Meglio di Montalcino",
-      "lastUpdate": "2021-07-07T15:45:24",
-      "uuid": "579a7c71-18b4-4979-83ce-26fbb0af35db",
-      "totalSize": 50964423
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
-      ],
-      "color": "#425A42",
-      "description": "<p>Svela la tua personalitÃ  e scopri il vino per te</p>\n",
-      "mediaUuid": "8bd74003-4b52-4c4b-b063-96626555867f",
-      "subtitle": "VETRINA",
-      "skuCode": null,
-      "tag": "path-enoteca",
-      "title": "Prendi il controllo",
-      "lastUpdate": "2021-07-08T19:57:33",
-      "uuid": "d06d4752-3fcd-4d88-908c-72fbb78a6f39",
-      "totalSize": 399953
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
-      ],
-      "color": "#849F76",
-      "description": "<p>Scopri i vini prodotti dallâ€™uva Sangiovese</p>\n",
-      "mediaUuid": "a23d4d49-d525-497b-8488-abeb74dd107e",
-      "subtitle": "SCAFFALI ",
-      "skuCode": null,
-      "tag": "path-qrcode-video",
-      "title": "Scopri di piÃ¹",
-      "lastUpdate": "2021-07-08T20:17:05",
-      "uuid": "163a7017-5d1d-4552-8955-3fbdde3cd4ff",
-      "totalSize": 157382482
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
-      ],
-      "color": "#849F76",
-      "description": "<p>Scopri i luoghi iconici del territorio montalcinese attraverso contenuti immersivi, inquadrando i QR code tramite l&#8217;App.</p>\n",
-      "mediaUuid": "16a00576-cfc6-405f-84fe-22904434069c",
-      "subtitle": "Skyline",
-      "skuCode": null,
-      "tag": "path-qrcode-panoramic",
-      "title": "Lo Skyline di Montalcino",
-      "lastUpdate": "2021-07-08T19:55:59",
-      "uuid": "a9759951-2809-4fba-8872-b606f30d06e0",
-      "totalSize": 32265514
-    },
-    {
-      "categories": [],
-      "color": null,
-      "description": null,
-      "mediaUuid": null,
-      "subtitle": null,
-      "skuCode": null,
-      "tag": "path-extra",
-      "title": "Extra",
-      "lastUpdate": "2021-07-07T10:42:42",
-      "uuid": "8f577998-e09a-4f3c-8722-273943965c01",
-      "totalSize": 113798
-    },
-    {
-      "categories": [],
-      "color": "#CFA047",
-      "description": null,
-      "mediaUuid": null,
-      "subtitle": null,
-      "skuCode": null,
-      "tag": "path-intro",
-      "title": "Intro",
-      "lastUpdate": "2021-07-06T14:51:09",
-      "uuid": "6930ecec-9a29-404a-aedf-b85993d97072",
-      "totalSize": 1238117
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb04"
-      ],
-      "color": "#CFA047",
-      "description": "<p>Inizia un viaggio nei luoghi che identificano il territorio di Montalcino</p>\n",
-      "mediaUuid": "3d26876e-6d4c-4a71-9303-0204cfcd4953",
-      "subtitle": "Dove nasce il Brunello",
-      "skuCode": null,
-      "tag": "path-main",
-      "title": "Territorio",
-      "lastUpdate": "2021-10-15T11:44:50",
-      "uuid": "158e33cc-a687-419c-9580-1ca3b16c37b2",
-      "totalSize": 65895467
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
-      ],
-      "color": "#CFA047",
-      "description": "<p>Nel Museo Archeologico potrai riscoprire lâ€™antica storia del territorio e in particolare della civiltÃ  etrusca.</p>\n",
-      "mediaUuid": "3eb01a6b-b5a8-474a-b485-e93fb0b36f3a",
-      "subtitle": "Il Complesso di Sant'Agostino",
-      "skuCode": null,
-      "tag": "path-main-internal",
-      "title": "Museo Archeologico",
-      "lastUpdate": "2021-07-08T16:45:54",
-      "uuid": "6e4edcc5-e148-44e3-95c0-b0ba641fa6b5",
-      "totalSize": 36782988
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
-      ],
-      "color": "#CFA047",
-      "description": "<p>Due diversi racconti ti permetteranno di scoprire la fondazione della Chiesa e del Complesso di Santâ€™Agostino.</p>\n",
-      "mediaUuid": "39b4791f-2d28-4425-aea0-f817a35fad86",
-      "subtitle": "Il Complesso di Sant'Agostino",
-      "skuCode": null,
-      "tag": "path-main-internal",
-      "title": "Chiesa di Sant'Agostino",
-      "lastUpdate": "2021-07-08T16:45:52",
-      "uuid": "c0ce9c86-f6b5-42bf-be55-39eed9378a13",
-      "totalSize": 39135584
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
-      ],
-      "color": "#CFA047",
-      "description": "<p>Il racconto di quattro importanti prodotti della terra ti farÃ  scoprire lâ€™essenza del territorio di Montalcino.</p>\n",
-      "mediaUuid": "29228071-5377-4605-aad8-d30fa0a85509",
-      "subtitle": "Il Complesso di Sant'Agostino",
-      "skuCode": null,
-      "tag": "path-main-internal",
-      "title": "Gli Ori di Montalcino",
-      "lastUpdate": "2021-07-12T09:24:43",
-      "uuid": "962e394c-8a6f-4abd-989e-53685ecb4d6a",
-      "totalSize": 63853583
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb05"
-      ],
-      "color": "#CF9F46",
-      "description": "",
-      "mediaUuid": "cab41f86-83ab-4579-a46a-4c8c07364a9a",
-      "subtitle": null,
-      "skuCode": null,
-      "tag": "path-imagegallery",
-      "title": "Panoramiche",
-      "lastUpdate": "2021-07-15T15:39:42",
-      "uuid": "0449a9b7-3250-4ac9-8837-818e22919838",
-      "totalSize": 21562613
-    },
-    {
-      "categories": [
-        "09700c82-9df2-47fa-bfe8-87e8c7edeb06"
-      ],
-      "color": null,
-      "description": "News ed Eventi",
-      "mediaUuid": "cee79154-04c5-48d5-ad8f-8d39ea652328",
-      "subtitle": null,
-      "skuCode": null,
-      "tag": "path-secondary-feed",
-      "title": "News",
-      "lastUpdate": "2021-11-12T13:29:00",
-      "uuid": "759ffcfc-50e6-4548-8148-dfe339ff64ef",
-      "totalSize": 76082
-    }
-  ],
-  "pathCategories": [
-    {
-      "color": null,
-      "description": null,
-      "lastUpdate": "2021-07-07T09:42:00",
-      "mediaUuid": null,
-      "order": 0,
-      "subtitle": null,
-      "tag": "preview",
-      "title": "Gli Itinerari di Sant'Agostino",
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
-    },
-    {
-      "color": null,
-      "description": null,
-      "lastUpdate": "2021-07-07T09:42:00",
-      "mediaUuid": null,
-      "order": 2,
-      "subtitle": null,
-      "tag": "carousel-expanded",
-      "title": "Il Meglio di Montalcino",
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb03"
-    },
-    {
-      "color": "#849F76",
-      "description": "<p>Scopri il percorso museale dedicato al Brunello di Montalcino e al suo territorio, dalla nascita alla sua diffusione in tutto il mondo: esperienze immersive e interattive ti accompagneranno alla scoperta del Re del territorio.</p>",
-      "lastUpdate": "2021-07-07T09:42:00",
-      "mediaUuid": null,
-      "order": 1,
-      "subtitle": "Scopri l'Enoteca Experience",
-      "tag": "enoteca",
-      "title": "Sei al Tempio del Brunello?",
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
-    },
-    {
-      "color": null,
-      "description": null,
-      "lastUpdate": "2021-07-07T09:42:00",
-      "mediaUuid": null,
-      "order": 3,
-      "subtitle": null,
-      "tag": "boxed",
-      "title": null,
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb04"
-    },
-    {
-      "color": null,
-      "description": null,
-      "lastUpdate": "2021-07-07T09:42:00",
-      "mediaUuid": null,
-      "order": 4,
-      "subtitle": null,
-      "tag": "circular-expanded",
-      "title": "I Panorami di Montalcino",
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb05"
-    },
-    {
-      "color": null,
-      "description": null,
-      "lastUpdate": "2021-11-12T13:29:00",
-      "mediaUuid": null,
-      "order": 5,
-      "subtitle": null,
-      "tag": "secondary",
-      "title": null,
-      "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb06"
-    }
-  ],
-  "mediaFiles": [
-    {
-      "lastUpdate": "2021-06-30T09:17:01",
-      "mimeType": "image/jpeg",
-      "name": "MuseoCivicoDiocesano.jpg",
-      "type": "IMG",
-      "size": 298610,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/MuseoCivicoDiocesano.jpg",
-      "uuid": "bb8079b3-0fdf-4fb8-a96c-d1f6df47fea9"
-    },
-    {
-      "lastUpdate": "2021-06-30T21:11:11",
-      "mimeType": "image/jpeg",
-      "name": "01-9.jpg",
-      "type": "IMG",
-      "size": 339936,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/01-9.jpg",
-      "uuid": "9992617b-fbdf-4415-8557-e670cd2c1af7"
-    },
-    {
-      "lastUpdate": "2021-07-08T19:56:44",
-      "mimeType": "image/png",
-      "name": "vetrina.png",
-      "type": "IMG",
-      "size": 354342,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/vetrina.png",
-      "uuid": "8bd74003-4b52-4c4b-b063-96626555867f"
-    },
-    {
-      "lastUpdate": "2021-07-08T19:54:35",
-      "mimeType": "image/png",
-      "name": "scaffali.png",
-      "type": "IMG",
-      "size": 371319,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/scaffali.png",
-      "uuid": "a23d4d49-d525-497b-8488-abeb74dd107e"
-    },
-    {
-      "lastUpdate": "2021-07-08T19:55:15",
-      "mimeType": "image/png",
-      "name": "skyline.png",
-      "type": "IMG",
-      "size": 721345,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/skyline.png",
-      "uuid": "16a00576-cfc6-405f-84fe-22904434069c"
-    },
-    {
-      "lastUpdate": "2021-06-30T11:31:50",
-      "mimeType": "image/png",
-      "name": "territori_main_page.png",
-      "type": "IMG",
-      "size": 1026963,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/territori_main_page.png",
-      "uuid": "3d26876e-6d4c-4a71-9303-0204cfcd4953"
-    },
-    {
-      "lastUpdate": "2021-06-30T11:08:19",
-      "mimeType": "image/jpeg",
-      "name": "MuseoArcheologico.jpg",
-      "type": "IMG",
-      "size": 226987,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/MuseoArcheologico.jpg",
-      "uuid": "3eb01a6b-b5a8-474a-b485-e93fb0b36f3a"
-    },
-    {
-      "lastUpdate": "2021-06-30T11:10:57",
-      "mimeType": "image/jpeg",
-      "name": "ChiesaSantAgostino.jpg",
-      "type": "IMG",
-      "size": 137505,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/ChiesaSantAgostino.jpg",
-      "uuid": "39b4791f-2d28-4425-aea0-f817a35fad86"
-    },
-    {
-      "lastUpdate": "2021-07-12T09:24:02",
-      "mimeType": "image/jpeg",
-      "name": "OriMontalcino_2.jpg",
-      "type": "IMG",
-      "size": 210278,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/OriMontalcino_2.jpg",
-      "uuid": "29228071-5377-4605-aad8-d30fa0a85509"
-    },
-    {
-      "lastUpdate": "2021-07-05T11:51:53",
-      "mimeType": "image/jpeg",
-      "name": "2.-Panorama-dal-vignolo-1.jpg",
-      "type": "IMG",
-      "size": 23404,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/07/2.-Panorama-dal-vignolo-1.jpg",
-      "uuid": "cab41f86-83ab-4579-a46a-4c8c07364a9a"
-    },
-    {
-      "lastUpdate": "2021-07-06T18:25:17",
-      "mimeType": "image/png",
-      "name": "logo-consorzio@3x.png",
-      "type": "IMG",
-      "size": 76082,
-      "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/logo-consorzio@3x.png",
-      "uuid": "cee79154-04c5-48d5-ad8f-8d39ea652328"
-    }
-  ],
-  "lastUpdate": "2022-11-12T13:29:00"
-}
+    "paths": [
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
+        ],
+        "color": "#CFA047",
+        "description": "<p>Grazie a questo percorso sarai coinvolto in un viaggio artistico tra i grandi maestri dal Medioevo fino al â€˜900.</p>\n",
+        "mediaUuid": "bb8079b3-0fdf-4fb8-a96c-d1f6df47fea9",
+        "subtitle": "Il Complesso di Sant'Agostino",
+        "skuCode": null,
+        "tag": "path-main-internal",
+        "title": "Museo Civico e Diocesano",
+        "lastUpdate": "2024-07-08T16:45:59",
+        "uuid": "95cabffa-fc2a-4408-9413-e067efc10a8f",
+        "totalSize": 60459712
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb03"
+        ],
+        "color": "#CFA047",
+        "description": "",
+        "mediaUuid": "9992617b-fbdf-4415-8557-e670cd2c1af7",
+        "subtitle": "LE ORIGINI",
+        "skuCode": null,
+        "tag": "path-main-list",
+        "title": "Il Meglio di Montalcino",
+        "lastUpdate": "2021-07-07T15:45:24",
+        "uuid": "579a7c71-18b4-4979-83ce-26fbb0af35db",
+        "totalSize": 50964423
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
+        ],
+        "color": "#425A42",
+        "description": "<p>Svela la tua personalitÃ  e scopri il vino per te</p>\n",
+        "mediaUuid": "8bd74003-4b52-4c4b-b063-96626555867f",
+        "subtitle": "VETRINA",
+        "skuCode": null,
+        "tag": "path-enoteca",
+        "title": "Prendi il controllo",
+        "lastUpdate": "2021-07-08T19:57:33",
+        "uuid": "d06d4752-3fcd-4d88-908c-72fbb78a6f39",
+        "totalSize": 399953
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
+        ],
+        "color": "#849F76",
+        "description": "<p>Scopri i vini prodotti dallâ€™uva Sangiovese</p>\n",
+        "mediaUuid": "a23d4d49-d525-497b-8488-abeb74dd107e",
+        "subtitle": "SCAFFALI ",
+        "skuCode": null,
+        "tag": "path-qrcode-video",
+        "title": "Scopri di piÃ¹",
+        "lastUpdate": "2021-07-08T20:17:05",
+        "uuid": "163a7017-5d1d-4552-8955-3fbdde3cd4ff",
+        "totalSize": 157382482
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
+        ],
+        "color": "#849F76",
+        "description": "<p>Scopri i luoghi iconici del territorio montalcinese attraverso contenuti immersivi, inquadrando i QR code tramite l&#8217;App.</p>\n",
+        "mediaUuid": "16a00576-cfc6-405f-84fe-22904434069c",
+        "subtitle": "Skyline",
+        "skuCode": null,
+        "tag": "path-qrcode-panoramic",
+        "title": "Lo Skyline di Montalcino",
+        "lastUpdate": "2021-07-08T19:55:59",
+        "uuid": "a9759951-2809-4fba-8872-b606f30d06e0",
+        "totalSize": 32265514
+      },
+      {
+        "categories": [],
+        "color": null,
+        "description": null,
+        "mediaUuid": null,
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-extra",
+        "title": "Extra",
+        "lastUpdate": "2021-07-07T10:42:42",
+        "uuid": "8f577998-e09a-4f3c-8722-273943965c01",
+        "totalSize": 113798
+      },
+      {
+        "categories": [],
+        "color": "#CFA047",
+        "description": null,
+        "mediaUuid": null,
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-intro",
+        "title": "Intro",
+        "lastUpdate": "2021-07-06T14:51:09",
+        "uuid": "6930ecec-9a29-404a-aedf-b85993d97072",
+        "totalSize": 1238117
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb04"
+        ],
+        "color": "#CFA047",
+        "description": "<p>Inizia un viaggio nei luoghi che identificano il territorio di Montalcino</p>\n",
+        "mediaUuid": "3d26876e-6d4c-4a71-9303-0204cfcd4953",
+        "subtitle": "Dove nasce il Brunello",
+        "skuCode": null,
+        "tag": "path-main",
+        "title": "Territorio",
+        "lastUpdate": "2021-10-15T11:44:50",
+        "uuid": "158e33cc-a687-419c-9580-1ca3b16c37b2",
+        "totalSize": 65895467
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
+        ],
+        "color": "#CFA047",
+        "description": "<p>Nel Museo Archeologico potrai riscoprire lâ€™antica storia del territorio e in particolare della civiltÃ  etrusca.</p>\n",
+        "mediaUuid": "3eb01a6b-b5a8-474a-b485-e93fb0b36f3a",
+        "subtitle": "Il Complesso di Sant'Agostino",
+        "skuCode": null,
+        "tag": "path-main-internal",
+        "title": "Museo Archeologico",
+        "lastUpdate": "2021-07-08T16:45:54",
+        "uuid": "6e4edcc5-e148-44e3-95c0-b0ba641fa6b5",
+        "totalSize": 36782988
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
+        ],
+        "color": "#CFA047",
+        "description": "<p>Due diversi racconti ti permetteranno di scoprire la fondazione della Chiesa e del Complesso di Santâ€™Agostino.</p>\n",
+        "mediaUuid": "39b4791f-2d28-4425-aea0-f817a35fad86",
+        "subtitle": "Il Complesso di Sant'Agostino",
+        "skuCode": null,
+        "tag": "path-main-internal",
+        "title": "Chiesa di Sant'Agostino",
+        "lastUpdate": "2021-07-08T16:45:52",
+        "uuid": "c0ce9c86-f6b5-42bf-be55-39eed9378a13",
+        "totalSize": 39135584
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
+        ],
+        "color": "#CFA047",
+        "description": "<p>Il racconto di quattro importanti prodotti della terra ti farÃ  scoprire lâ€™essenza del territorio di Montalcino.</p>\n",
+        "mediaUuid": "29228071-5377-4605-aad8-d30fa0a85509",
+        "subtitle": "Il Complesso di Sant'Agostino",
+        "skuCode": null,
+        "tag": "path-main-internal",
+        "title": "Gli Ori di Montalcino",
+        "lastUpdate": "2021-07-12T09:24:43",
+        "uuid": "962e394c-8a6f-4abd-989e-53685ecb4d6a",
+        "totalSize": 63853583
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb05"
+        ],
+        "color": "#CF9F46",
+        "description": "",
+        "mediaUuid": "cab41f86-83ab-4579-a46a-4c8c07364a9a",
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-imagegallery",
+        "title": "Panoramiche",
+        "lastUpdate": "2021-07-15T15:39:42",
+        "uuid": "0449a9b7-3250-4ac9-8837-818e22919838",
+        "totalSize": 21562613
+      },
+      {
+        "categories": [
+          "09700c82-9df2-47fa-bfe8-87e8c7edeb06"
+        ],
+        "color": null,
+        "description": "News ed Eventi",
+        "mediaUuid": "cee79154-04c5-48d5-ad8f-8d39ea652328",
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-secondary-feed",
+        "title": "News",
+        "lastUpdate": "2021-11-12T13:29:00",
+        "uuid": "759ffcfc-50e6-4548-8148-dfe339ff64ef",
+        "totalSize": 76082
+      }
+    ],
+    "pathCategories": [
+      {
+        "color": null,
+        "description": null,
+        "lastUpdate": "2021-07-07T09:42:00",
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": null,
+        "tag": "preview",
+        "title": "Gli Itinerari di Sant'Agostino",
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb01"
+      },
+      {
+        "color": null,
+        "description": null,
+        "lastUpdate": "2021-07-07T09:42:00",
+        "mediaUuid": null,
+        "order": 2,
+        "subtitle": null,
+        "tag": "carousel-expanded",
+        "title": "Il Meglio di Montalcino",
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb03"
+      },
+      {
+        "color": "#849F76",
+        "description": "<p>Scopri il percorso museale dedicato al Brunello di Montalcino e al suo territorio, dalla nascita alla sua diffusione in tutto il mondo: esperienze immersive e interattive ti accompagneranno alla scoperta del Re del territorio.</p>",
+        "lastUpdate": "2021-07-07T09:42:00",
+        "mediaUuid": null,
+        "order": 1,
+        "subtitle": "Scopri l'Enoteca Experience",
+        "tag": "enoteca",
+        "title": "Sei al Tempio del Brunello?",
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb02"
+      },
+      {
+        "color": null,
+        "description": null,
+        "lastUpdate": "2021-07-07T09:42:00",
+        "mediaUuid": null,
+        "order": 3,
+        "subtitle": null,
+        "tag": "boxed",
+        "title": null,
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb04"
+      },
+      {
+        "color": null,
+        "description": null,
+        "lastUpdate": "2021-07-07T09:42:00",
+        "mediaUuid": null,
+        "order": 4,
+        "subtitle": null,
+        "tag": "circular-expanded",
+        "title": "I Panorami di Montalcino",
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb05"
+      },
+      {
+        "color": null,
+        "description": null,
+        "lastUpdate": "2021-11-12T13:29:00",
+        "mediaUuid": null,
+        "order": 5,
+        "subtitle": null,
+        "tag": "secondary",
+        "title": null,
+        "uuid": "09700c82-9df2-47fa-bfe8-87e8c7edeb06"
+      }
+    ],
+    "mediaFiles": [
+      {
+        "lastUpdate": "2021-06-30T09:17:01",
+        "mimeType": "image/jpeg",
+        "name": "MuseoCivicoDiocesano.jpg",
+        "type": "IMG",
+        "size": 298610,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/MuseoCivicoDiocesano.jpg",
+        "uuid": "bb8079b3-0fdf-4fb8-a96c-d1f6df47fea9"
+      },
+      {
+        "lastUpdate": "2021-06-30T21:11:11",
+        "mimeType": "image/jpeg",
+        "name": "01-9.jpg",
+        "type": "IMG",
+        "size": 339936,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/01-9.jpg",
+        "uuid": "9992617b-fbdf-4415-8557-e670cd2c1af7"
+      },
+      {
+        "lastUpdate": "2021-07-08T19:56:44",
+        "mimeType": "image/png",
+        "name": "vetrina.png",
+        "type": "IMG",
+        "size": 354342,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/vetrina.png",
+        "uuid": "8bd74003-4b52-4c4b-b063-96626555867f"
+      },
+      {
+        "lastUpdate": "2021-07-08T19:54:35",
+        "mimeType": "image/png",
+        "name": "scaffali.png",
+        "type": "IMG",
+        "size": 371319,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/scaffali.png",
+        "uuid": "a23d4d49-d525-497b-8488-abeb74dd107e"
+      },
+      {
+        "lastUpdate": "2021-07-08T19:55:15",
+        "mimeType": "image/png",
+        "name": "skyline.png",
+        "type": "IMG",
+        "size": 721345,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/skyline.png",
+        "uuid": "16a00576-cfc6-405f-84fe-22904434069c"
+      },
+      {
+        "lastUpdate": "2021-06-30T11:31:50",
+        "mimeType": "image/png",
+        "name": "territori_main_page.png",
+        "type": "IMG",
+        "size": 1026963,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/territori_main_page.png",
+        "uuid": "3d26876e-6d4c-4a71-9303-0204cfcd4953"
+      },
+      {
+        "lastUpdate": "2021-06-30T11:08:19",
+        "mimeType": "image/jpeg",
+        "name": "MuseoArcheologico.jpg",
+        "type": "IMG",
+        "size": 226987,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/MuseoArcheologico.jpg",
+        "uuid": "3eb01a6b-b5a8-474a-b485-e93fb0b36f3a"
+      },
+      {
+        "lastUpdate": "2021-06-30T11:10:57",
+        "mimeType": "image/jpeg",
+        "name": "ChiesaSantAgostino.jpg",
+        "type": "IMG",
+        "size": 137505,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/ChiesaSantAgostino.jpg",
+        "uuid": "39b4791f-2d28-4425-aea0-f817a35fad86"
+      },
+      {
+        "lastUpdate": "2021-07-12T09:24:02",
+        "mimeType": "image/jpeg",
+        "name": "OriMontalcino_2.jpg",
+        "type": "IMG",
+        "size": 210278,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/OriMontalcino_2.jpg",
+        "uuid": "29228071-5377-4605-aad8-d30fa0a85509"
+      },
+      {
+        "lastUpdate": "2021-07-05T11:51:53",
+        "mimeType": "image/jpeg",
+        "name": "2.-Panorama-dal-vignolo-1.jpg",
+        "type": "IMG",
+        "size": 23404,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/07/2.-Panorama-dal-vignolo-1.jpg",
+        "uuid": "cab41f86-83ab-4579-a46a-4c8c07364a9a"
+      },
+      {
+        "lastUpdate": "2021-07-06T18:25:17",
+        "mimeType": "image/png",
+        "name": "logo-consorzio@3x.png",
+        "type": "IMG",
+        "size": 76082,
+        "url": "http://brunellocms.democontent.it/wp-content/uploads/2021/06/logo-consorzio@3x.png",
+        "uuid": "cee79154-04c5-48d5-ad8f-8d39ea652328"
+      }
+    ],
+    "lastUpdate": "2024-11-12T13:29:00"
+  }
+ 
