@@ -5,27 +5,27 @@
         "5eca7b4c-7b4b-418c-9243-d23d3c425d01"
       ],
       "color": "#548488",
-      "description": null,
-      "mediaUuid": null,
-      "subtitle": null,
+      "description": "<p>zasdasdasd</p>\n",
+      "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
+      "subtitle": "sotto",
       "skuCode": null,
       "tag": "path-main-external",
-      "title": null,
+      "title": "esterno",
       "lastUpdate": "2021-12-03T16:40:17",
       "uuid": "504999eb-4f8f-44f0-969f-dea71e43297e",
-      "totalSize": 31883
+      "totalSize": 63766
     },
     {
       "categories": [
         "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
       ],
       "color": "#548488",
-      "description": null,
-      "mediaUuid": null,
-      "subtitle": null,
+      "description": "",
+      "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
+      "subtitle": "",
       "skuCode": null,
       "tag": "path-game-score",
-      "title": null,
+      "title": "Punteggi",
       "lastUpdate": "2021-12-03T15:59:10",
       "uuid": "8334f148-b941-48df-99e9-d1c0d1d9b477",
       "totalSize": 31883
@@ -35,15 +35,15 @@
         "5eca7b4c-7b4b-418c-9243-d23d3c425d02"
       ],
       "color": "#548488",
-      "description": null,
-      "mediaUuid": null,
-      "subtitle": null,
+      "description": "",
+      "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
+      "subtitle": "234234234234234",
       "skuCode": null,
       "tag": "path-main-external-game",
-      "title": null,
+      "title": "Giuoco dell'Alessandria",
       "lastUpdate": "2021-12-03T16:40:50",
       "uuid": "f4f3c59e-9c97-4e94-9338-28ead42e0285",
-      "totalSize": 31883
+      "totalSize": 85931
     }
   ],
   "pathCategories": [
@@ -55,7 +55,7 @@
       "order": 0,
       "subtitle": null,
       "tag": "preview",
-      "title": null,
+      "title": "Itinerari in Alessandria",
       "uuid": "5eca7b4c-7b4b-418c-9243-d23d3c425d01"
     },
     {
@@ -66,21 +66,31 @@
       "order": 2,
       "subtitle": null,
       "tag": "secondary",
-      "title": null,
+      "title": "I tuoi punteggi",
       "uuid": "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
     },
     {
       "color": null,
-      "description": null,
+      "description": "è severamente vietato il giuoco della palla nel cortile.\nChiunque verrà colto in flagranza di reato ricevera una sanzione di \"'mo ve lo buco sto pallone\"",
       "lastUpdate": "2021-12-03T14:17:00",
       "mediaUuid": null,
       "order": 1,
       "subtitle": null,
       "tag": "boxed",
-      "title": null,
+      "title": "Giuoco",
       "uuid": "5eca7b4c-7b4b-418c-9243-d23d3c425d02"
     }
   ],
-  "mediaFiles": [],
+  "mediaFiles": [
+    {
+      "lastUpdate": "2021-12-02T15:46:26",
+      "mimeType": "image/png",
+      "name": "test.png",
+      "type": "IMG",
+      "size": 31883,
+      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
+    }
+  ],
   "lastUpdate": "2021-12-03T16:40:50"
 }
