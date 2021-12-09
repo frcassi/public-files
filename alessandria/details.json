@@ -9,7 +9,7 @@
   "skuCode": null,
   "tag": "path-main-external",
   "title": "esterno",
-  "lastUpdate": "2021-12-03T16:40:17",
+  "lastUpdate": "2021-12-09T16:40:17",
   "uuid": "504999eb-4f8f-44f0-969f-dea71e43297e",
   "pathCategories": [
     {
@@ -52,7 +52,7 @@
       "subtitle": "",
       "tag": "poi-main-external",
       "title": "primo esterno",
-      "lastUpdate": "2021-12-02T15:51:28",
+      "lastUpdate": "2021-12-09T15:51:28",
       "uuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529"
     }
   ],
@@ -112,7 +112,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-02T17:29:40",
+      "lastUpdate": "2021-12-09T17:29:40",
       "mediaUuid": null,
       "subtitle": "http://google.com",
       "title": "Link",
@@ -122,7 +122,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-02T17:29:40",
+      "lastUpdate": "2021-12-09T17:29:40",
       "mediaUuid": null,
       "subtitle": "https://www.youtube.com/watch?v=NUUr3CYGEUg",
       "title": "Video",
