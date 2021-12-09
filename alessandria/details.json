@@ -565,7 +565,7 @@
   "skuCode": null,
   "tag": "path-main-external-game",
   "title": "Giuoco dell'Alessandria",
-  "lastUpdate": "2021-12-03T16:40:50",
+  "lastUpdate": "2021-12-09T16:40:50",
   "uuid": "f4f3c59e-9c97-4e94-9338-28ead42e0285",
   "pathCategories": [
     {
@@ -791,11 +791,11 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:39",
+      "lastUpdate": "2021-12-09T16:40:39",
       "mediaUuid": null,
       "subtitle": "http://youtube.com",
       "title": "dUE",
-      "tag": "document-link-video-sheet",
+      "tag": "video-link-sheet",
       "uuid": "6f8743f0-cfd4-4949-a859-7e0a161269dc"
     },
     {
