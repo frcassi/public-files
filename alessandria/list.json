@@ -20,13 +20,13 @@
         "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
       ],
       "color": "#E2253F",
-      "description": "",
+      "description": "Durante il gioco, avrai la possibilità di raccogliere le tue monete.",
       "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
-      "subtitle": "",
+      "subtitle": "Scopri",
       "skuCode": null,
       "tag": "path-game-score",
       "title": "Punteggi",
-      "lastUpdate": "2021-12-03T15:59:10",
+      "lastUpdate": "2021-12-09T14:49:10",
       "uuid": "8334f148-b941-48df-99e9-d1c0d1d9b477",
       "totalSize": 31883
     },
@@ -60,11 +60,11 @@
     },
     {
       "color": "#E2253F",
-      "description": "Durante il gioco, avrai la possibilità di raccogliere le tue monete.",
+      "description": null,
       "lastUpdate": "2021-12-03T14:17:00",
       "mediaUuid": null,
       "order": 2,
-      "subtitle": "Scopri",
+      "subtitle": null,
       "tag": "secondary",
       "title": "I tuoi punteggi",
       "uuid": "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
@@ -92,5 +92,5 @@
       "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
     }
   ],
-  "lastUpdate": "2021-12-03T16:40:50"
+  "lastUpdate": "2021-12-09T14:40:50"
 }
