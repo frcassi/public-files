@@ -88,8 +88,7 @@
           "640af275-9f48-4385-ba0a-f68acfcb2dc5",
           "eecd88c9-f8ec-4645-910a-7fa72491aff9",
           "9cd7f484-5f73-4fb0-9ffc-1f4afe400ed9",
-          "ed4f42a9-7e6a-4449-884c-901f857845a7",
-          "5a45b0c6-2d65-4838-b336-ec02366a8756"
+          "ed4f42a9-7e6a-4449-884c-901f857845a7"
         ],
         "lastUpdate": "2021-12-09T17:40:26",
         "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
@@ -141,18 +140,6 @@
         "title": "Video",
         "tag": "video-link-sheet",
         "uuid": "e6a8b679-5cd5-48ec-9b5d-0b8efc1bd248"
-      },
-      {
-        "description": null,
-        "items": [
-          "52e0093e-a95d-4f3e-8025-8596fcc5b67e"
-        ],
-        "lastUpdate": "2021-12-03T16:40:06",
-        "mediaUuid": null,
-        "subtitle": null,
-        "title": "Panorama 2",
-        "tag": "poi-panoramic-entry-sheet",
-        "uuid": "89133f88-a727-4391-83d0-012748d72965"
       },
       {
         "description": "<p>asdrsef asdf sdff sdf</p>\n",
@@ -211,11 +198,6 @@
         "uuid": "ed4f42a9-7e6a-4449-884c-901f857845a7"
       },
       {
-        "lastUpdate": "2021-12-09T17:40:26",
-        "order": 6,
-        "uuid": "5a45b0c6-2d65-4838-b336-ec02366a8756"
-      },
-      {
         "lastUpdate": "2021-12-09T17:40:24",
         "order": 0,
         "uuid": "8cd752e8-7f9a-4f87-a7fb-08d2a13e617d"
@@ -224,11 +206,6 @@
         "lastUpdate": "2021-12-02T15:46:36",
         "order": 0,
         "uuid": "5f55e539-4232-485f-a1ed-daf95292c7c7"
-      },
-      {
-        "lastUpdate": "2021-12-03T16:40:05",
-        "order": 0,
-        "uuid": "52e0093e-a95d-4f3e-8025-8596fcc5b67e"
       },
       {
         "lastUpdate": "2021-12-09T17:40:25",
@@ -287,13 +264,6 @@
       {
         "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
         "inType": "SHT_ITM",
-        "inUuid": "5a45b0c6-2d65-4838-b336-ec02366a8756",
-        "outType": "SHT",
-        "outUuid": "89133f88-a727-4391-83d0-012748d72965"
-      },
-      {
-        "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
-        "inType": "SHT_ITM",
         "inUuid": "8cd752e8-7f9a-4f87-a7fb-08d2a13e617d",
         "outType": "GLR",
         "outUuid": "9dd42ffb-0cf7-43e0-86d5-9a43f468cef8"
@@ -304,13 +274,6 @@
         "inUuid": "5f55e539-4232-485f-a1ed-daf95292c7c7",
         "outType": "VR",
         "outUuid": "e2cbaf4d-5f08-4b0a-9e38-5408138a757e"
-      },
-      {
-        "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
-        "inType": "SHT_ITM",
-        "inUuid": "52e0093e-a95d-4f3e-8025-8596fcc5b67e",
-        "outType": "VR",
-        "outUuid": "6c51e21c-2517-407c-969c-453bfe9037a8"
       },
       {
         "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
@@ -481,19 +444,6 @@
         "rotation": 0.0,
         "thumbMediaUuid": null,
         "uuid": "e2cbaf4d-5f08-4b0a-9e38-5408138a757e"
-      },
-      {
-        "frameType": "Degree360",
-        "hotspots": [],
-        "lastUpdate": "2021-12-03T16:40:05",
-        "layout3D": "None",
-        "mappingLayout": "LatitudeLongitude",
-        "mediaType": "IMG360",
-        "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
-        "mode": "Swipe",
-        "rotation": 0.0,
-        "thumbMediaUuid": null,
-        "uuid": "6c51e21c-2517-407c-969c-453bfe9037a8"
       }
     ],
     "vrHotspots": [],
