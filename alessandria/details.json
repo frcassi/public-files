@@ -1,15 +1,16 @@
-[{
+[
+{
   "categories": [
     "5eca7b4c-7b4b-418c-9243-d23d3c425d01"
   ],
-  "color": "#548488",
+  "color": "#E2253F",
   "description": "<p>zasdasdasd</p>\n",
   "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
   "subtitle": "sotto",
   "skuCode": null,
   "tag": "path-main-external",
   "title": "esterno",
-  "lastUpdate": "2021-12-09T16:40:17",
+  "lastUpdate": "2021-12-09T17:40:27",
   "uuid": "504999eb-4f8f-44f0-969f-dea71e43297e",
   "pathCategories": [
     {
@@ -31,7 +32,7 @@
       "name": "test.png",
       "type": "IMG",
       "size": 31883,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/11/test.png",
       "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
     },
     {
@@ -40,7 +41,7 @@
       "name": "test.png",
       "type": "IMG",
       "size": 31883,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/12/test.png",
       "uuid": "37c22455-cc22-45bb-84ac-ff42d34caa44"
     }
   ],
@@ -52,7 +53,7 @@
       "subtitle": "",
       "tag": "poi-main-external",
       "title": "primo esterno",
-      "lastUpdate": "2021-12-09T15:51:28",
+      "lastUpdate": "2021-12-02T15:51:28",
       "uuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529"
     }
   ],
@@ -82,15 +83,15 @@
     {
       "description": "",
       "items": [
-        "5f5e9123-a061-497d-9c8d-70c3b8ff901d",
-        "fd1d3886-37ff-4855-9bc0-18707f205a18",
-        "e279adff-1bc3-4bee-a394-371195d8a5f4",
-        "7fb55051-2c95-4036-911f-98377fb1f484",
-        "aaed6963-2860-4b14-bd82-a13515ce9e9a",
-        "ba948ccb-05f8-4964-8d82-3942e93dba63",
-        "586556a0-0f87-49f5-b084-734c63e52909"
+        "0656f8a2-1daa-47e2-968d-3648dabe8152",
+        "253d8e3d-6199-4de0-89c4-81a25c8bbc18",
+        "640af275-9f48-4385-ba0a-f68acfcb2dc5",
+        "eecd88c9-f8ec-4645-910a-7fa72491aff9",
+        "9cd7f484-5f73-4fb0-9ffc-1f4afe400ed9",
+        "ed4f42a9-7e6a-4449-884c-901f857845a7",
+        "5a45b0c6-2d65-4838-b336-ec02366a8756"
       ],
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
       "subtitle": "",
       "title": "primo esterno",
@@ -100,9 +101,9 @@
     {
       "description": "",
       "items": [
-        "24dad728-cb65-4503-bef1-f217710a4f3c"
+        "8cd752e8-7f9a-4f87-a7fb-08d2a13e617d"
       ],
-      "lastUpdate": "2021-12-03T16:40:15",
+      "lastUpdate": "2021-12-09T17:40:25",
       "mediaUuid": null,
       "subtitle": "",
       "title": "Titolo",
@@ -111,18 +112,30 @@
     },
     {
       "description": null,
+      "items": [
+        "5f55e539-4232-485f-a1ed-daf95292c7c7"
+      ],
+      "lastUpdate": "2021-12-02T15:46:36",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": null,
+      "tag": "poi-panoramic-entry-sheet",
+      "uuid": "d94cea59-d743-40c8-8589-38f01da4ac76"
+    },
+    {
+      "description": null,
       "items": [],
-      "lastUpdate": "2021-12-09T17:29:40",
+      "lastUpdate": "2021-12-09T17:40:26",
       "mediaUuid": null,
       "subtitle": "http://google.com",
       "title": "Link",
-      "tag": "document-link-sheet",
+      "tag": "link-sheet",
       "uuid": "953775a9-83db-42f3-8ae8-24db388598be"
     },
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-09T17:29:40",
+      "lastUpdate": "2021-12-09T17:40:26",
       "mediaUuid": null,
       "subtitle": "https://www.youtube.com/watch?v=NUUr3CYGEUg",
       "title": "Video",
@@ -130,11 +143,23 @@
       "uuid": "e6a8b679-5cd5-48ec-9b5d-0b8efc1bd248"
     },
     {
+      "description": null,
+      "items": [
+        "52e0093e-a95d-4f3e-8025-8596fcc5b67e"
+      ],
+      "lastUpdate": "2021-12-03T16:40:06",
+      "mediaUuid": null,
+      "subtitle": null,
+      "title": null,
+      "tag": "poi-panoramic-entry-sheet",
+      "uuid": "89133f88-a727-4391-83d0-012748d72965"
+    },
+    {
       "description": "<p>asdrsef asdf sdff sdf</p>\n",
       "items": [
-        "a47ec95e-1b51-491c-bd5e-eddb2ac63ae0"
+        "3c734f71-9342-472c-a997-3cc34965e944"
       ],
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:25",
       "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
       "subtitle": "Segno",
       "title": "Scopri",
@@ -156,49 +181,59 @@
   ],
   "sheetItems": [
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 0,
-      "uuid": "5f5e9123-a061-497d-9c8d-70c3b8ff901d"
+      "uuid": "0656f8a2-1daa-47e2-968d-3648dabe8152"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 1,
-      "uuid": "fd1d3886-37ff-4855-9bc0-18707f205a18"
+      "uuid": "253d8e3d-6199-4de0-89c4-81a25c8bbc18"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 2,
-      "uuid": "e279adff-1bc3-4bee-a394-371195d8a5f4"
+      "uuid": "640af275-9f48-4385-ba0a-f68acfcb2dc5"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 3,
-      "uuid": "7fb55051-2c95-4036-911f-98377fb1f484"
+      "uuid": "eecd88c9-f8ec-4645-910a-7fa72491aff9"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 4,
-      "uuid": "aaed6963-2860-4b14-bd82-a13515ce9e9a"
+      "uuid": "9cd7f484-5f73-4fb0-9ffc-1f4afe400ed9"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 5,
-      "uuid": "ba948ccb-05f8-4964-8d82-3942e93dba63"
+      "uuid": "ed4f42a9-7e6a-4449-884c-901f857845a7"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:16",
+      "lastUpdate": "2021-12-09T17:40:26",
       "order": 6,
-      "uuid": "586556a0-0f87-49f5-b084-734c63e52909"
+      "uuid": "5a45b0c6-2d65-4838-b336-ec02366a8756"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:15",
+      "lastUpdate": "2021-12-09T17:40:24",
       "order": 0,
-      "uuid": "24dad728-cb65-4503-bef1-f217710a4f3c"
+      "uuid": "8cd752e8-7f9a-4f87-a7fb-08d2a13e617d"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:15",
+      "lastUpdate": "2021-12-02T15:46:36",
       "order": 0,
-      "uuid": "a47ec95e-1b51-491c-bd5e-eddb2ac63ae0"
+      "uuid": "5f55e539-4232-485f-a1ed-daf95292c7c7"
+    },
+    {
+      "lastUpdate": "2021-12-03T16:40:05",
+      "order": 0,
+      "uuid": "52e0093e-a95d-4f3e-8025-8596fcc5b67e"
+    },
+    {
+      "lastUpdate": "2021-12-09T17:40:25",
+      "order": 0,
+      "uuid": "3c734f71-9342-472c-a997-3cc34965e944"
     },
     {
       "lastUpdate": "2021-12-03T14:27:28",
@@ -210,63 +245,77 @@
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "5f5e9123-a061-497d-9c8d-70c3b8ff901d",
+      "inUuid": "0656f8a2-1daa-47e2-968d-3648dabe8152",
       "outType": "GLR",
       "outUuid": "cb47b354-e99c-4651-8b53-11fdec332e41"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "fd1d3886-37ff-4855-9bc0-18707f205a18",
+      "inUuid": "253d8e3d-6199-4de0-89c4-81a25c8bbc18",
       "outType": "SHT",
       "outUuid": "953775a9-83db-42f3-8ae8-24db388598be"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "e279adff-1bc3-4bee-a394-371195d8a5f4",
+      "inUuid": "640af275-9f48-4385-ba0a-f68acfcb2dc5",
       "outType": "SHT",
       "outUuid": "e6a8b679-5cd5-48ec-9b5d-0b8efc1bd248"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "7fb55051-2c95-4036-911f-98377fb1f484",
+      "inUuid": "eecd88c9-f8ec-4645-910a-7fa72491aff9",
       "outType": "map",
       "outUuid": "b16280fc-0e89-4732-a244-c9bc8a952d88"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "aaed6963-2860-4b14-bd82-a13515ce9e9a",
+      "inUuid": "9cd7f484-5f73-4fb0-9ffc-1f4afe400ed9",
       "outType": "SHT",
       "outUuid": "26e652d1-32e2-4cbd-a337-425e9b85f417"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "ba948ccb-05f8-4964-8d82-3942e93dba63",
-      "outType": "VR",
-      "outUuid": "e2cbaf4d-5f08-4b0a-9e38-5408138a757e"
+      "inUuid": "ed4f42a9-7e6a-4449-884c-901f857845a7",
+      "outType": "SHT",
+      "outUuid": "d94cea59-d743-40c8-8589-38f01da4ac76"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "586556a0-0f87-49f5-b084-734c63e52909",
-      "outType": "VR",
-      "outUuid": "6c51e21c-2517-407c-969c-453bfe9037a8"
+      "inUuid": "5a45b0c6-2d65-4838-b336-ec02366a8756",
+      "outType": "SHT",
+      "outUuid": "89133f88-a727-4391-83d0-012748d72965"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "24dad728-cb65-4503-bef1-f217710a4f3c",
+      "inUuid": "8cd752e8-7f9a-4f87-a7fb-08d2a13e617d",
       "outType": "GLR",
       "outUuid": "9dd42ffb-0cf7-43e0-86d5-9a43f468cef8"
     },
     {
       "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
       "inType": "SHT_ITM",
-      "inUuid": "a47ec95e-1b51-491c-bd5e-eddb2ac63ae0",
+      "inUuid": "5f55e539-4232-485f-a1ed-daf95292c7c7",
+      "outType": "VR",
+      "outUuid": "e2cbaf4d-5f08-4b0a-9e38-5408138a757e"
+    },
+    {
+      "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
+      "inType": "SHT_ITM",
+      "inUuid": "52e0093e-a95d-4f3e-8025-8596fcc5b67e",
+      "outType": "VR",
+      "outUuid": "6c51e21c-2517-407c-969c-453bfe9037a8"
+    },
+    {
+      "poiUuid": "c20d0fc1-76b1-4cb0-81fd-df4db7bf7529",
+      "inType": "SHT_ITM",
+      "inUuid": "3c734f71-9342-472c-a997-3cc34965e944",
       "outType": "GLR",
       "outUuid": "e8aeae25-2cf4-40a0-9e63-6f6a64c85058"
     },
@@ -283,6 +332,13 @@
       "inType": "EPT",
       "outType": "SHT",
       "outUuid": "12a09c8e-462e-4d3c-a10f-61ea64a1d630"
+    },
+    {
+      "poiUuid": "",
+      "inUuid": "",
+      "inType": "EPT",
+      "outType": "MAP",
+      "outUuid": "9b409c4e-c29a-4abd-a75e-a0197aabe7e0"
     }
   ],
   "galleries": [
@@ -375,7 +431,7 @@
       "bottomRightLongitude": 0.0,
       "description": null,
       "height": 0,
-      "lastUpdate": "2021-12-03T16:40:17",
+      "lastUpdate": "2021-12-09T17:40:27",
       "items": [
         "e9c7f990-f9cc-41e2-a369-8bd1564ea4fa"
       ],
@@ -447,7 +503,7 @@
   "categories": [
     "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
   ],
-  "color": "#548488",
+  "color": "#E2253F",
   "description": "",
   "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
   "subtitle": "",
@@ -458,7 +514,7 @@
   "uuid": "8334f148-b941-48df-99e9-d1c0d1d9b477",
   "pathCategories": [
     {
-      "color": null,
+      "color": "#E2253F",
       "description": null,
       "lastUpdate": "2021-12-03T14:17:00",
       "mediaUuid": null,
@@ -476,7 +532,7 @@
       "name": "test.png",
       "type": "IMG",
       "size": 31883,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/11/test.png",
       "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
     }
   ],
@@ -558,19 +614,19 @@
   "categories": [
     "5eca7b4c-7b4b-418c-9243-d23d3c425d02"
   ],
-  "color": "#548488",
+  "color": "#E2253F",
   "description": "",
   "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
   "subtitle": "234234234234234",
   "skuCode": null,
   "tag": "path-main-external-game",
   "title": "Giuoco dell'Alessandria",
-  "lastUpdate": "2021-12-09T16:40:50",
+  "lastUpdate": "2021-12-09T18:12:09",
   "uuid": "f4f3c59e-9c97-4e94-9338-28ead42e0285",
   "pathCategories": [
     {
-      "color": null,
-      "description": "è severamente vietato il giuoco della palla nel cortile.\nChiunque verrà colto in flagranza di reato ricevera una sanzione di \"'mo ve lo buco sto pallone\"",
+      "color": "#E2253F",
+      "description": "Ã¨ severamente vietato il giuoco della palla nel cortile.\nChiunque verrÃ  colto in flagranza di reato ricevera una sanzione di \"'mo ve lo buco sto pallone\"",
       "lastUpdate": "2021-12-03T14:17:00",
       "mediaUuid": null,
       "order": 1,
@@ -587,7 +643,7 @@
       "name": "test.png",
       "type": "IMG",
       "size": 31883,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/11/test.png",
       "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
     },
     {
@@ -596,7 +652,7 @@
       "name": "claps.mp3",
       "type": "AUD",
       "size": 54048,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/claps.mp3",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/12/claps.mp3",
       "uuid": "9ed10e7a-7461-4a3e-9b1e-0a4994620e0f"
     }
   ],
@@ -638,8 +694,8 @@
     {
       "description": null,
       "items": [
-        "4c761d97-6cbb-43fa-931d-ac43cc3aba26",
-        "37c0b7c9-dac7-423b-be93-8ed26fde1033"
+        "caad9b4c-cfde-435c-a15d-a20cb0d6dc3a",
+        "bf196193-ebcf-45a2-8d6b-66337d31d906"
       ],
       "lastUpdate": "2021-12-03T16:40:40",
       "mediaUuid": null,
@@ -651,9 +707,9 @@
     {
       "description": null,
       "items": [
-        "0b3946e9-098a-435d-a9d4-1c58dcfc0cce"
+        "4af77e16-d238-423f-ae2c-1db910cf3084"
       ],
-      "lastUpdate": "2021-12-03T16:40:38",
+      "lastUpdate": "2021-12-09T18:12:06",
       "mediaUuid": null,
       "subtitle": null,
       "title": null,
@@ -663,12 +719,12 @@
     {
       "description": "",
       "items": [
-        "f44c5ad7-adce-4027-91e2-084fe6fc611f",
-        "2c6b08e2-d798-40d4-b01a-93724288243f",
-        "6deade72-a52f-4fe4-833b-a4e85f01c64c",
-        "1bc64983-ecbe-4a72-a373-1cdebd3a5105",
-        "093b7e8e-e649-45a6-8b92-2356be9e6267",
-        "b96b7873-aac9-4751-8637-3c701fe74089"
+        "b18ac5f6-e991-46f1-ac27-4e32d25a7cc3",
+        "36035b6a-c646-41bb-a39d-7861805e30e9",
+        "7fff47be-14bc-42e2-b173-46ff2c45b1cb",
+        "068a9bef-7869-41da-a609-c9f5814b53a8",
+        "8e229989-e22f-4f20-8d8b-b61d2ff14b82",
+        "df265ca8-6e1a-4521-bf95-c8dc10bfd8f2"
       ],
       "lastUpdate": "2021-12-03T16:40:39",
       "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
@@ -680,10 +736,10 @@
     {
       "description": null,
       "items": [
-        "355ac767-4550-46f0-a6a6-813fc4a4f247",
-        "13f49352-1f55-4bfa-a510-37501d05125c"
+        "2fd4f476-8d72-45eb-9e59-8d0700631108",
+        "582de468-16b8-4e65-af86-bd42fa42646b"
       ],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": null,
       "title": null,
@@ -693,11 +749,11 @@
     {
       "description": null,
       "items": [
-        "8dc78e80-b9f1-4f05-b408-4cd6c96364e9",
-        "0c053f0e-4554-4588-93b0-5ddc0d7e3ce8",
-        "ce502662-8b36-43ea-990d-08a71d6dfce9"
+        "fcf47b1d-cb37-48ef-924e-782a56ba5e62",
+        "b2f5d2fa-c037-42a4-8a71-e60a988345c3",
+        "2079922f-f14b-45e8-8bc6-716b3a929cd8"
       ],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": null,
       "title": "D1",
@@ -707,11 +763,11 @@
     {
       "description": null,
       "items": [
-        "c7c0f704-48a3-4bcb-bdeb-b2dbb3481025",
-        "cf6cc199-153e-4578-bd08-c1b42c903cd3",
-        "bbb006f3-fd78-4587-b5d6-f97f1daf4718"
+        "dab17de2-0161-404d-8b3e-3c75bcc1928d",
+        "b338075f-ea91-42ba-bf8c-6d393f424fca",
+        "cb34bbf6-6480-4fd6-9902-a0230f188319"
       ],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": null,
       "title": "D2",
@@ -721,7 +777,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "mediaUuid": null,
       "subtitle": "true",
       "title": "D1 R1",
@@ -731,7 +787,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "mediaUuid": null,
       "subtitle": "false",
       "title": "D1 R2",
@@ -741,7 +797,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "mediaUuid": null,
       "subtitle": "false",
       "title": "D1 R3",
@@ -751,7 +807,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": "false",
       "title": "D2 R1",
@@ -761,7 +817,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": "true",
       "title": "D2 R2",
@@ -771,7 +827,7 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "mediaUuid": null,
       "subtitle": "false",
       "title": "D2 R3",
@@ -781,17 +837,17 @@
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-03T16:40:39",
+      "lastUpdate": "2021-12-09T18:12:08",
       "mediaUuid": null,
       "subtitle": "http://www.google.com",
       "title": "UNio",
-      "tag": "document-link-sheet",
+      "tag": "link-sheet",
       "uuid": "72841f7c-7fdc-45bc-b848-2a45380a20e5"
     },
     {
       "description": null,
       "items": [],
-      "lastUpdate": "2021-12-09T16:40:39",
+      "lastUpdate": "2021-12-09T18:12:08",
       "mediaUuid": null,
       "subtitle": "http://youtube.com",
       "title": "dUE",
@@ -801,9 +857,9 @@
     {
       "description": "<p>sdasdf easfasda asd asddef zdc as</p>\n<p>asd</p>\n<p>as</p>\n<p>sf</p>\n<p>sd</p>\n<p>f</p>\n<p>sdf0sdi f usd&#8217; f</p>\n<p>sdf</p>\n<p>asid f</p>\n<p>as</p>\n",
       "items": [
-        "ed59ff51-bae8-4d59-85a7-5169af9d8a9c"
+        "1340a689-2bb2-45b8-8ae0-1e72a4f72ceb"
       ],
-      "lastUpdate": "2021-12-03T16:40:38",
+      "lastUpdate": "2021-12-09T18:12:07",
       "mediaUuid": null,
       "subtitle": "asd",
       "title": "asd",
@@ -813,9 +869,9 @@
     {
       "description": "",
       "items": [
-        "4e2b88b6-4ba9-4100-997a-e8961d065567"
+        "524e7000-0072-421b-8ea7-fc620c1fb43a"
       ],
-      "lastUpdate": "2021-12-03T16:40:39",
+      "lastUpdate": "2021-12-09T18:12:07",
       "mediaUuid": null,
       "subtitle": "",
       "title": "Audioooooo",
@@ -839,97 +895,97 @@
     {
       "lastUpdate": "2021-12-03T16:40:40",
       "order": 0,
-      "uuid": "4c761d97-6cbb-43fa-931d-ac43cc3aba26"
+      "uuid": "caad9b4c-cfde-435c-a15d-a20cb0d6dc3a"
     },
     {
       "lastUpdate": "2021-12-03T16:40:40",
       "order": 1,
-      "uuid": "37c0b7c9-dac7-423b-be93-8ed26fde1033"
+      "uuid": "bf196193-ebcf-45a2-8d6b-66337d31d906"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:38",
+      "lastUpdate": "2021-12-09T18:12:06",
       "order": 0,
-      "uuid": "0b3946e9-098a-435d-a9d4-1c58dcfc0cce"
+      "uuid": "4af77e16-d238-423f-ae2c-1db910cf3084"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 0,
-      "uuid": "f44c5ad7-adce-4027-91e2-084fe6fc611f"
+      "uuid": "b18ac5f6-e991-46f1-ac27-4e32d25a7cc3"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 1,
-      "uuid": "2c6b08e2-d798-40d4-b01a-93724288243f"
+      "uuid": "36035b6a-c646-41bb-a39d-7861805e30e9"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 2,
-      "uuid": "6deade72-a52f-4fe4-833b-a4e85f01c64c"
+      "uuid": "7fff47be-14bc-42e2-b173-46ff2c45b1cb"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 3,
-      "uuid": "1bc64983-ecbe-4a72-a373-1cdebd3a5105"
+      "uuid": "068a9bef-7869-41da-a609-c9f5814b53a8"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 4,
-      "uuid": "093b7e8e-e649-45a6-8b92-2356be9e6267"
+      "uuid": "8e229989-e22f-4f20-8d8b-b61d2ff14b82"
     },
     {
       "lastUpdate": "2021-12-03T16:40:39",
       "order": 5,
-      "uuid": "b96b7873-aac9-4751-8637-3c701fe74089"
+      "uuid": "df265ca8-6e1a-4521-bf95-c8dc10bfd8f2"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "order": 0,
-      "uuid": "355ac767-4550-46f0-a6a6-813fc4a4f247"
+      "uuid": "2fd4f476-8d72-45eb-9e59-8d0700631108"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "order": 1,
-      "uuid": "13f49352-1f55-4bfa-a510-37501d05125c"
+      "uuid": "582de468-16b8-4e65-af86-bd42fa42646b"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "order": 0,
-      "uuid": "8dc78e80-b9f1-4f05-b408-4cd6c96364e9"
+      "uuid": "fcf47b1d-cb37-48ef-924e-782a56ba5e62"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "order": 1,
-      "uuid": "0c053f0e-4554-4588-93b0-5ddc0d7e3ce8"
+      "uuid": "b2f5d2fa-c037-42a4-8a71-e60a988345c3"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:36",
+      "lastUpdate": "2021-12-09T18:12:04",
       "order": 2,
-      "uuid": "ce502662-8b36-43ea-990d-08a71d6dfce9"
+      "uuid": "2079922f-f14b-45e8-8bc6-716b3a929cd8"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "order": 0,
-      "uuid": "c7c0f704-48a3-4bcb-bdeb-b2dbb3481025"
+      "uuid": "dab17de2-0161-404d-8b3e-3c75bcc1928d"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "order": 1,
-      "uuid": "cf6cc199-153e-4578-bd08-c1b42c903cd3"
+      "uuid": "b338075f-ea91-42ba-bf8c-6d393f424fca"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:37",
+      "lastUpdate": "2021-12-09T18:12:05",
       "order": 2,
-      "uuid": "bbb006f3-fd78-4587-b5d6-f97f1daf4718"
+      "uuid": "cb34bbf6-6480-4fd6-9902-a0230f188319"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:38",
+      "lastUpdate": "2021-12-09T18:12:06",
       "order": 0,
-      "uuid": "ed59ff51-bae8-4d59-85a7-5169af9d8a9c"
+      "uuid": "1340a689-2bb2-45b8-8ae0-1e72a4f72ceb"
     },
     {
-      "lastUpdate": "2021-12-03T16:40:39",
+      "lastUpdate": "2021-12-09T18:12:07",
       "order": 0,
-      "uuid": "4e2b88b6-4ba9-4100-997a-e8961d065567"
+      "uuid": "524e7000-0072-421b-8ea7-fc620c1fb43a"
     },
     {
       "lastUpdate": "2021-12-03T16:40:49",
@@ -941,133 +997,133 @@
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "4c761d97-6cbb-43fa-931d-ac43cc3aba26",
+      "inUuid": "caad9b4c-cfde-435c-a15d-a20cb0d6dc3a",
       "outType": "SHT",
       "outUuid": "f1c23441-8d14-441c-bcb8-beb2db6e64c7"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "37c0b7c9-dac7-423b-be93-8ed26fde1033",
+      "inUuid": "bf196193-ebcf-45a2-8d6b-66337d31d906",
       "outType": "SHT",
       "outUuid": "2b65cbcb-d3c2-4be9-8549-312d75599436"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "0b3946e9-098a-435d-a9d4-1c58dcfc0cce",
+      "inUuid": "4af77e16-d238-423f-ae2c-1db910cf3084",
       "outType": "SHT",
       "outUuid": "266687b0-637a-46e7-a098-456bf3d4c683"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "f44c5ad7-adce-4027-91e2-084fe6fc611f",
+      "inUuid": "b18ac5f6-e991-46f1-ac27-4e32d25a7cc3",
       "outType": "GLR",
       "outUuid": "8b666eba-c106-4958-9eac-9a3f08c7fae1"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "2c6b08e2-d798-40d4-b01a-93724288243f",
+      "inUuid": "36035b6a-c646-41bb-a39d-7861805e30e9",
       "outType": "SHT",
       "outUuid": "72841f7c-7fdc-45bc-b848-2a45380a20e5"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "6deade72-a52f-4fe4-833b-a4e85f01c64c",
+      "inUuid": "7fff47be-14bc-42e2-b173-46ff2c45b1cb",
       "outType": "SHT",
       "outUuid": "6f8743f0-cfd4-4949-a859-7e0a161269dc"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "1bc64983-ecbe-4a72-a373-1cdebd3a5105",
+      "inUuid": "068a9bef-7869-41da-a609-c9f5814b53a8",
       "outType": "map",
       "outUuid": "d6c9b72c-d20a-4b9f-852c-4c7a075e913a"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "093b7e8e-e649-45a6-8b92-2356be9e6267",
+      "inUuid": "8e229989-e22f-4f20-8d8b-b61d2ff14b82",
       "outType": "VR",
       "outUuid": "e2cbaf4d-5f08-4b0a-9e38-5408138a757e"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "b96b7873-aac9-4751-8637-3c701fe74089",
+      "inUuid": "df265ca8-6e1a-4521-bf95-c8dc10bfd8f2",
       "outType": "VR",
       "outUuid": "6c51e21c-2517-407c-969c-453bfe9037a8"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "13f49352-1f55-4bfa-a510-37501d05125c",
-      "outType": "SHT",
-      "outUuid": "ef00433d-0e8c-4309-958c-3be4edd45770"
-    },
-    {
-      "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
-      "inType": "SHT_ITM",
-      "inUuid": "355ac767-4550-46f0-a6a6-813fc4a4f247",
+      "inUuid": "2fd4f476-8d72-45eb-9e59-8d0700631108",
       "outType": "SHT",
       "outUuid": "4defc79e-f90b-4c43-9f77-fb1a2347b5f5"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "ce502662-8b36-43ea-990d-08a71d6dfce9",
+      "inUuid": "582de468-16b8-4e65-af86-bd42fa42646b",
       "outType": "SHT",
-      "outUuid": "1d0d6c75-c59a-452a-8f85-0a2b4c4f05e3"
+      "outUuid": "ef00433d-0e8c-4309-958c-3be4edd45770"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "0c053f0e-4554-4588-93b0-5ddc0d7e3ce8",
-      "outType": "SHT",
-      "outUuid": "3040244a-2dbc-4d04-929f-89565613df4f"
-    },
-    {
-      "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
-      "inType": "SHT_ITM",
-      "inUuid": "8dc78e80-b9f1-4f05-b408-4cd6c96364e9",
+      "inUuid": "fcf47b1d-cb37-48ef-924e-782a56ba5e62",
       "outType": "SHT",
       "outUuid": "c089f787-f324-406c-8f25-9bd7af003271"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "bbb006f3-fd78-4587-b5d6-f97f1daf4718",
+      "inUuid": "b2f5d2fa-c037-42a4-8a71-e60a988345c3",
       "outType": "SHT",
-      "outUuid": "17acac62-d29a-465a-8d88-3eb2ef5d14a0"
+      "outUuid": "3040244a-2dbc-4d04-929f-89565613df4f"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "cf6cc199-153e-4578-bd08-c1b42c903cd3",
+      "inUuid": "2079922f-f14b-45e8-8bc6-716b3a929cd8",
       "outType": "SHT",
-      "outUuid": "8bd80123-3b5d-4a0f-99ed-9aeed26d9a9b"
+      "outUuid": "1d0d6c75-c59a-452a-8f85-0a2b4c4f05e3"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "c7c0f704-48a3-4bcb-bdeb-b2dbb3481025",
+      "inUuid": "dab17de2-0161-404d-8b3e-3c75bcc1928d",
       "outType": "SHT",
       "outUuid": "dd5511c7-f3d6-415b-aae6-2f06c9660db9"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "ed59ff51-bae8-4d59-85a7-5169af9d8a9c",
+      "inUuid": "b338075f-ea91-42ba-bf8c-6d393f424fca",
+      "outType": "SHT",
+      "outUuid": "8bd80123-3b5d-4a0f-99ed-9aeed26d9a9b"
+    },
+    {
+      "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
+      "inType": "SHT_ITM",
+      "inUuid": "cb34bbf6-6480-4fd6-9902-a0230f188319",
+      "outType": "SHT",
+      "outUuid": "17acac62-d29a-465a-8d88-3eb2ef5d14a0"
+    },
+    {
+      "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
+      "inType": "SHT_ITM",
+      "inUuid": "1340a689-2bb2-45b8-8ae0-1e72a4f72ceb",
       "outType": "GLR",
       "outUuid": "845f3b81-4591-43f4-aa20-ad395e560cb1"
     },
     {
       "poiUuid": "a2b4fcae-36f2-461f-a514-5c54b0c76715",
       "inType": "SHT_ITM",
-      "inUuid": "4e2b88b6-4ba9-4100-997a-e8961d065567",
+      "inUuid": "524e7000-0072-421b-8ea7-fc620c1fb43a",
       "outType": "GLR",
       "outUuid": "18527a94-72c4-493c-8fb2-c2a4369f8930"
     },
@@ -1181,7 +1237,7 @@
       "bottomRightLongitude": 0.0,
       "description": null,
       "height": 0,
-      "lastUpdate": "2021-12-03T16:40:50",
+      "lastUpdate": "2021-12-09T18:12:09",
       "items": [
         "5378355b-9256-424b-993c-cdbb7538a031"
       ],
