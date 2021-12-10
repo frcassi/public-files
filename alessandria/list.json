@@ -11,7 +11,7 @@
       "skuCode": null,
       "tag": "path-main-external",
       "title": "esterno",
-      "lastUpdate": "2021-12-03T16:40:17",
+      "lastUpdate": "2021-12-09T17:40:27",
       "uuid": "504999eb-4f8f-44f0-969f-dea71e43297e",
       "totalSize": 63766
     },
@@ -20,13 +20,13 @@
         "5eca7b4c-7b4b-418c-9243-d23d3c425d03"
       ],
       "color": "#E2253F",
-      "description": "Durante il gioco, avrai la possibilità di raccogliere le tue monete.",
+      "description": "",
       "mediaUuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220",
-      "subtitle": "Scopri",
+      "subtitle": "",
       "skuCode": null,
       "tag": "path-game-score",
       "title": "Punteggi",
-      "lastUpdate": "2021-12-09T14:49:10",
+      "lastUpdate": "2021-12-03T15:59:10",
       "uuid": "8334f148-b941-48df-99e9-d1c0d1d9b477",
       "totalSize": 31883
     },
@@ -41,7 +41,7 @@
       "skuCode": null,
       "tag": "path-main-external-game",
       "title": "Giuoco dell'Alessandria",
-      "lastUpdate": "2021-12-09T16:40:50",
+      "lastUpdate": "2021-12-09T18:12:09",
       "uuid": "f4f3c59e-9c97-4e94-9338-28ead42e0285",
       "totalSize": 85931
     }
@@ -71,7 +71,7 @@
     },
     {
       "color": "#E2253F",
-      "description": "è severamente vietato il giuoco della palla nel cortile.\nChiunque verrà colto in flagranza di reato ricevera una sanzione di \"'mo ve lo buco sto pallone\"",
+      "description": "Ã¨ severamente vietato il giuoco della palla nel cortile.\nChiunque verrÃ  colto in flagranza di reato ricevera una sanzione di \"'mo ve lo buco sto pallone\"",
       "lastUpdate": "2021-12-03T14:17:00",
       "mediaUuid": null,
       "order": 1,
@@ -88,9 +88,9 @@
       "name": "test.png",
       "type": "IMG",
       "size": 31883,
-      "url": "http://augustuscms.democontent.it/wp-content/uploads/2021/10/1.png",
+      "url": "http://demo02.ettsolutions.it/ettproject/alessandriacms/wp-content/uploads/2021/11/test.png",
       "uuid": "b2ed2d94-5173-4ece-abbe-d89bb456b220"
     }
   ],
-  "lastUpdate": "2021-12-09T15:20:50"
+  "lastUpdate": "2021-12-09T18:12:09"
 }
