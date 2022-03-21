@@ -1,0 +1,129 @@
+{
+    "paths": [
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-intro",
+            "title": "Intro",
+            "lastUpdate": "2022-03-10T15:19:50",
+            "uuid": "b8fadeb1-e8b6-454c-8b77-22cf98a09677",
+            "totalSize": 222924
+        },
+        {
+            "categories": [
+                "ee8b6159-c3ba-4a0d-820e-88a3591a1801"
+            ],
+            "color": "#DF6D17",
+            "description": "<p>Segui il percorso suddiviso in sette grandi temi: Pioniere, Segno, Geometrie, Materia, Concetto, Corpo, Spazio.</p>\n",
+            "mediaUuid": "67388d01-323a-44ee-afd6-64f1d48c6697",
+            "subtitle": "ARTE ASTRATTA",
+            "skuCode": null,
+            "tag": "path-main-internal",
+            "title": "Le sezioni della mostra",
+            "lastUpdate": "2022-03-17T08:32:55",
+            "uuid": "f1be3bc8-e7ee-4601-8d77-cda5746ef6db",
+            "totalSize": 12634374
+        },
+        {
+            "categories": [
+                "ee8b6159-c3ba-4a0d-820e-88a3591a1801"
+            ],
+            "color": "#DF6D17",
+            "description": "<p>Una lettura di genere del periodo compreso tra gli anni Trenta e gli anni Novanta del &#8216;900: le grandi protagoniste dell&#8217;arte italiana.</p>\n",
+            "mediaUuid": "393dd413-8bdc-475b-bfdf-16f65cfce2e3",
+            "subtitle": "ARTISTE",
+            "skuCode": null,
+            "tag": "path-main-list-internal",
+            "title": "Le opere",
+            "lastUpdate": "2022-03-21T09:08:53",
+            "uuid": "871d56c2-41af-4bfe-a740-52d837bf74da",
+            "totalSize": 71539926
+        },
+        {
+            "categories": [
+                "ee8b6159-c3ba-4a0d-820e-88a3591a1802"
+            ],
+            "color": "#DF6D17",
+            "description": "<p>Le architetture che rappresentano un laboratorio di ricerca progettuale razionalista.</p>\n",
+            "mediaUuid": "02bdf5cd-6aee-498a-b7c9-2962ac355681",
+            "subtitle": "Territorio e architettura",
+            "skuCode": null,
+            "tag": "path-main-external",
+            "title": "Percorso nel Razionalismo Lariano",
+            "lastUpdate": "2022-03-21T11:28:21",
+            "uuid": "6599424e-304f-4033-a26a-f86d53122cf2",
+            "totalSize": 50117277
+        },
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-extra",
+            "title": "Crediti",
+            "lastUpdate": "2022-03-11T15:49:54",
+            "uuid": "951e5214-2bcb-4c01-9802-9a24ad296984",
+            "totalSize": 62666
+        }
+    ],
+    "pathCategories": [
+        {
+            "color": null,
+            "description": "",
+            "lastUpdate": "2022-02-25T11:55:00",
+            "mediaUuid": null,
+            "order": 0,
+            "subtitle": "",
+            "tag": "preview",
+            "title": "In mostra",
+            "uuid": "ee8b6159-c3ba-4a0d-820e-88a3591a1801"
+        },
+        {
+            "color": null,
+            "description": "",
+            "lastUpdate": "2022-02-25T11:55:00",
+            "mediaUuid": null,
+            "order": 1,
+            "subtitle": "",
+            "tag": "boxed",
+            "title": "",
+            "uuid": "ee8b6159-c3ba-4a0d-820e-88a3591a1802"
+        }
+    ],
+    "mediaFiles": [
+        {
+            "lastUpdate": "2022-03-10T15:23:24",
+            "mimeType": "image/jpeg",
+            "name": "Percorso_Espositivo-1.jpg",
+            "type": "IMG",
+            "size": 123352,
+            "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/02/Percorso_Espositivo-1.jpg",
+            "uuid": "67388d01-323a-44ee-afd6-64f1d48c6697"
+        },
+        {
+            "lastUpdate": "2022-03-10T15:22:53",
+            "mimeType": "image/jpeg",
+            "name": "Percorso_Opere-1.jpg",
+            "type": "IMG",
+            "size": 97863,
+            "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/03/Percorso_Opere-1.jpg",
+            "uuid": "393dd413-8bdc-475b-bfdf-16f65cfce2e3"
+        },
+        {
+            "lastUpdate": "2022-03-10T15:24:37",
+            "mimeType": "image/jpeg",
+            "name": "Percorso_Territorio-1.jpg",
+            "type": "IMG",
+            "size": 240881,
+            "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/03/Percorso_Territorio-1.jpg",
+            "uuid": "02bdf5cd-6aee-498a-b7c9-2962ac355681"
+        }
+    ],
+    "lastUpdate": "2022-03-21T11:28:21"
+}
