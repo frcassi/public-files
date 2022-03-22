@@ -88,7 +88,7 @@
                 "mediaUuid": null,
                 "subtitle": null,
                 "title": "",
-                "extraData": "{\"backgroundColor\": \"#2567F2\",\"foregroundColor\": null}",
+                "extraData": "{\"bgColor\": \"#2567F2\",\"fgColor\": null}",
                 "tag": "description-sheet",
                 "uuid": "5dc684ac-0685-4b16-b3c9-d125ab333637"
             },
