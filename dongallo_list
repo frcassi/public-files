@@ -46,21 +46,6 @@
             "totalSize": 71539926
         },
         {
-            "categories": [
-                "ee8b6159-c3ba-4a0d-820e-88a3591a1802"
-            ],
-            "color": "#DF6D17",
-            "description": "<p>Le architetture che rappresentano un laboratorio di ricerca progettuale razionalista.</p>\n",
-            "mediaUuid": "02bdf5cd-6aee-498a-b7c9-2962ac355681",
-            "subtitle": "Territorio e architettura",
-            "skuCode": null,
-            "tag": "path-main-external",
-            "title": "Percorso nel Razionalismo Lariano",
-            "lastUpdate": "2022-03-21T11:28:21",
-            "uuid": "6599424e-304f-4033-a26a-f86d53122cf2",
-            "totalSize": 50117277
-        },
-        {
             "categories": [],
             "color": "",
             "description": null,
@@ -85,17 +70,6 @@
             "tag": "preview",
             "title": "In mostra",
             "uuid": "ee8b6159-c3ba-4a0d-820e-88a3591a1801"
-        },
-        {
-            "color": null,
-            "description": "",
-            "lastUpdate": "2022-02-25T11:55:00",
-            "mediaUuid": null,
-            "order": 1,
-            "subtitle": "",
-            "tag": "boxed",
-            "title": "",
-            "uuid": "ee8b6159-c3ba-4a0d-820e-88a3591a1802"
         }
     ],
     "mediaFiles": [
