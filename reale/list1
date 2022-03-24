@@ -1,0 +1,73 @@
+{
+    "paths": [
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "order": 0,
+            "mediaUuid": null,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-intro",
+            "title": "Intro",
+            "lastUpdate": "2022-03-09T14:48:40",
+            "uuid": "4f9e78c4-8ef5-4e3d-8477-1f1f7687843f",
+            "totalSize": 939054
+        },
+        {
+            "categories": [],
+            "color": "",
+            "description": null,
+            "mediaUuid": null,
+            "order": 0,
+            "subtitle": null,
+            "skuCode": null,
+            "tag": "path-extra",
+            "title": "Credits",
+            "lastUpdate": "2022-03-09T14:37:38",
+            "uuid": "ecaa68ef-9927-4b50-beba-3c2dc5c5fd21",
+            "totalSize": 5985
+        },
+        {
+            "categories": [
+                "6d21e552-5b22-4e4e-bb35-e98a8611a101"
+            ],
+            "color": "#073463",
+            "description": "<p>Poi niente, sono accadute cose&#8230; Niente di rilevante, comunque</p>\n",
+            "mediaUuid": "78b8dece-4f72-492f-8148-ce1ef973f592",
+            "order": 0,
+            "subtitle": "In principio ero io",
+            "skuCode": null,
+            "tag": "path-main-internal",
+            "title": "Percorso 1",
+            "lastUpdate": "2022-03-24T10:41:39",
+            "uuid": "abd8e4c3-a8ce-484b-ac51-ee7e4e516578",
+            "totalSize": 2021701
+        }
+    ],
+    "pathCategories": [
+        {
+            "color": null,
+            "description": null,
+            "lastUpdate": "2022-02-28T11:49:00",
+            "mediaUuid": null,
+            "order": 0,
+            "subtitle": null,
+            "tag": "preview",
+            "title": "Le ale del Palazzo",
+            "uuid": "6d21e552-5b22-4e4e-bb35-e98a8611a101"
+        }
+    ],
+    "mediaFiles": [
+        {
+            "lastUpdate": "2022-03-09T14:47:38",
+            "mimeType": "image/png",
+            "name": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+            "type": "IMG",
+            "size": 933069,
+            "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/02/3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+            "uuid": "78b8dece-4f72-492f-8148-ce1ef973f592"
+        }
+    ],
+    "lastUpdate": "2022-03-24T10:41:39"
+}

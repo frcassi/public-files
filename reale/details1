@@ -1,0 +1,636 @@
+[
+    {
+        "categories": [],
+        "color": "",
+        "description": null,
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-intro",
+        "title": "Intro",
+        "lastUpdate": "2022-03-09T14:48:40",
+        "uuid": "4f9e78c4-8ef5-4e3d-8477-1f1f7687843f",
+        "pois": [
+            {
+                "categories": [],
+                "description": null,
+                "mediaUuid": null,
+                "subtitle": null,
+                "tag": "poi-intro",
+                "title": "Intro",
+                "lastUpdate": "2022-02-28T11:21:51",
+                "uuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b"
+            }
+        ],
+        "poiOrder": [
+            {
+                "index": 0,
+                "isEnabled": true,
+                "isVisited": true,
+                "order": null,
+                "poiUuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b",
+                "isAccessibility": true,
+                "isHidden": false,
+                "id": 1
+            }
+        ],
+        "poiCategories": [],
+        "mediaFiles": [
+            {
+                "lastUpdate": "2022-03-09T14:24:31",
+                "mimeType": "image/jpeg",
+                "name": "no_image.jpg",
+                "type": "IMG",
+                "size": 5985,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/02/no_image.jpg",
+                "uuid": "872c2f86-6127-4369-959e-1c0c49ab5038"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:47:38",
+                "mimeType": "image/png",
+                "name": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+                "type": "IMG",
+                "size": 933069,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/02/3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+                "uuid": "78b8dece-4f72-492f-8148-ce1ef973f592"
+            }
+        ],
+        "sheets": [
+            {
+                "description": null,
+                "items": [
+                    "14510001-99ae-4ef1-a2a7-0ac4b267f922",
+                    "2bb9383d-1151-4902-b0c4-920d0832c4ab",
+                    "584cbefb-265e-4961-9324-9d46d5367e34"
+                ],
+                "lastUpdate": "2022-03-09T14:48:40",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": "Intro",
+                "tag": "poi-intro-entry-sheet",
+                "uuid": "225110d9-18b6-4add-8123-ce96374eb33e"
+            },
+            {
+                "description": "<p>asdasdasd</p>\n",
+                "items": [],
+                "lastUpdate": "2022-03-09T14:48:37",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": "asdasd",
+                "tag": "description-sheet",
+                "uuid": "cebd69f3-3d85-4c5d-87c0-3be0c31b8d9f"
+            },
+            {
+                "description": null,
+                "items": [
+                    "ddba700d-3e07-4fcf-bf12-305a4eca0cb5"
+                ],
+                "lastUpdate": "2022-02-28T11:21:53",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": "Intro",
+                "tag": "path-intro-entry-sheet",
+                "uuid": "0223aae6-2bf0-49f0-b839-95ec61ebfcc6"
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2022-03-09T14:48:39",
+                "order": 0,
+                "uuid": "14510001-99ae-4ef1-a2a7-0ac4b267f922"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:48:39",
+                "order": 1,
+                "uuid": "2bb9383d-1151-4902-b0c4-920d0832c4ab"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:48:39",
+                "order": 2,
+                "uuid": "584cbefb-265e-4961-9324-9d46d5367e34"
+            },
+            {
+                "lastUpdate": "2022-02-28T11:21:53",
+                "order": 0,
+                "uuid": "ddba700d-3e07-4fcf-bf12-305a4eca0cb5"
+            }
+        ],
+        "relations": [
+            {
+                "poiUuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b",
+                "inType": "SHT_ITM",
+                "inUuid": "14510001-99ae-4ef1-a2a7-0ac4b267f922",
+                "outType": "SHT",
+                "outUuid": "cebd69f3-3d85-4c5d-87c0-3be0c31b8d9f"
+            },
+            {
+                "poiUuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b",
+                "inType": "SHT_ITM",
+                "inUuid": "2bb9383d-1151-4902-b0c4-920d0832c4ab",
+                "outType": "GLR",
+                "outUuid": "60464841-f410-452e-aa3a-a93667d2d337"
+            },
+            {
+                "poiUuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b",
+                "inType": "SHT_ITM",
+                "inUuid": "584cbefb-265e-4961-9324-9d46d5367e34",
+                "outType": "GLR",
+                "outUuid": "abea1f5b-9911-4931-b33d-61e892e16c38"
+            },
+            {
+                "poiUuid": "7f903506-4db8-4a4d-aa22-c14b9f412f4b",
+                "inType": "SHT_ITM",
+                "inUuid": "ddba700d-3e07-4fcf-bf12-305a4eca0cb5",
+                "outType": "SHT",
+                "outUuid": "225110d9-18b6-4add-8123-ce96374eb33e"
+            },
+            {
+                "poiUuid": "",
+                "inUuid": "",
+                "inType": "EPT",
+                "outType": "SHT",
+                "outUuid": "0223aae6-2bf0-49f0-b839-95ec61ebfcc6"
+            }
+        ],
+        "galleries": [
+            {
+                "items": [
+                    "e6b1c195-3758-4427-bfb7-07d7ba1130ca"
+                ],
+                "tag": "images-gallery",
+                "lastUpdate": "2022-03-09T14:25:39",
+                "uuid": "60464841-f410-452e-aa3a-a93667d2d337"
+            },
+            {
+                "items": [
+                    "bbdda704-ea91-4df7-81f5-9793289f5e42",
+                    "cca0cdc9-3518-44bd-840d-16ccc0af8795"
+                ],
+                "tag": "images-gallery",
+                "lastUpdate": "2022-03-09T14:48:38",
+                "uuid": "abea1f5b-9911-4931-b33d-61e892e16c38"
+            }
+        ],
+        "galleryItems": [
+            {
+                "description": null,
+                "mediaUuid": "872c2f86-6127-4369-959e-1c0c49ab5038",
+                "order": 0,
+                "subtitle": null,
+                "title": null,
+                "lastUpdate": "2022-03-09T14:25:39",
+                "uuid": "e6b1c195-3758-4427-bfb7-07d7ba1130ca"
+            },
+            {
+                "description": null,
+                "mediaUuid": "872c2f86-6127-4369-959e-1c0c49ab5038",
+                "order": 0,
+                "subtitle": null,
+                "title": null,
+                "lastUpdate": "2022-03-09T14:38:53",
+                "uuid": "bbdda704-ea91-4df7-81f5-9793289f5e42"
+            },
+            {
+                "description": null,
+                "mediaUuid": "78b8dece-4f72-492f-8148-ce1ef973f592",
+                "order": 1,
+                "subtitle": null,
+                "title": null,
+                "lastUpdate": "2022-03-09T14:48:38",
+                "uuid": "cca0cdc9-3518-44bd-840d-16ccc0af8795"
+            }
+        ],
+        "totalSize": 939054
+    },
+    {
+        "categories": [],
+        "color": "",
+        "description": null,
+        "mediaUuid": null,
+        "order": 0,
+        "subtitle": null,
+        "skuCode": null,
+        "tag": "path-extra",
+        "title": "Credits",
+        "lastUpdate": "2022-03-09T14:37:38",
+        "uuid": "ecaa68ef-9927-4b50-beba-3c2dc5c5fd21",
+        "pois": [
+            {
+                "categories": [],
+                "description": null,
+                "mediaUuid": null,
+                "subtitle": null,
+                "tag": "poi-extra",
+                "title": "",
+                "lastUpdate": "2022-03-09T14:24:36",
+                "uuid": "9392be5d-bac9-42fa-affe-f5579686e78d"
+            }
+        ],
+        "poiOrder": [
+            {
+                "index": 0,
+                "isEnabled": true,
+                "isVisited": true,
+                "order": null,
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "isAccessibility": true,
+                "isHidden": false,
+                "id": 2
+            }
+        ],
+        "poiCategories": [],
+        "mediaFiles": [
+            {
+                "lastUpdate": "2022-03-09T14:24:31",
+                "mimeType": "image/jpeg",
+                "name": "no_image.jpg",
+                "type": "IMG",
+                "size": 5985,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/02/no_image.jpg",
+                "uuid": "872c2f86-6127-4369-959e-1c0c49ab5038"
+            }
+        ],
+        "sheets": [
+            {
+                "description": null,
+                "items": [
+                    "d40d34a6-69ca-43c4-9932-7c1c28b09d2c",
+                    "8c60ed63-390b-472d-8648-cd19b0d22f0f"
+                ],
+                "lastUpdate": "2022-03-09T14:24:35",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": "",
+                "tag": "poi-extra-entry-sheet",
+                "uuid": "6ede933a-0dd9-4d00-b1a7-ea070072f444"
+            },
+            {
+                "description": "",
+                "items": [
+                    "6de23380-b6f4-40f4-8ef6-75de4e42762e",
+                    "4549ad85-c6ba-4ca2-9984-928abe19ec36"
+                ],
+                "lastUpdate": "2022-03-09T14:37:38",
+                "mediaUuid": null,
+                "subtitle": "",
+                "title": "",
+                "tag": "highlights-sheet",
+                "uuid": "085def69-d536-45db-b9fb-1a5bfa64fc0b"
+            },
+            {
+                "description": null,
+                "items": [
+                    "616ddb94-ee81-4b17-aa24-1ef20e377880"
+                ],
+                "lastUpdate": "2022-03-09T14:24:35",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": null,
+                "tag": "other-sheet",
+                "uuid": "a3865c51-5e9a-4588-a879-fde210dd2685"
+            },
+            {
+                "description": "",
+                "items": [],
+                "lastUpdate": "2022-03-09T14:37:36",
+                "mediaUuid": "872c2f86-6127-4369-959e-1c0c49ab5038",
+                "subtitle": "",
+                "title": "credits",
+                "tag": "custom-block-sheet",
+                "uuid": "e258ba7f-547f-486b-a7f8-cf37478331e6"
+            },
+            {
+                "description": "",
+                "items": [],
+                "lastUpdate": "2022-03-09T14:37:37",
+                "mediaUuid": "872c2f86-6127-4369-959e-1c0c49ab5038",
+                "subtitle": "",
+                "title": "prova",
+                "tag": "custom-block-sheet",
+                "uuid": "9a9fcf03-098a-41f4-bef5-4648061eb9e3"
+            },
+            {
+                "description": "<p>Descrizione</p>\n",
+                "items": [],
+                "lastUpdate": "2022-03-09T14:24:35",
+                "mediaUuid": null,
+                "subtitle": "sottotitolo",
+                "title": "Titolo",
+                "tag": "title-text-sheet",
+                "uuid": "7114e52a-4fbe-44b1-b7e2-419f9b79a70e"
+            },
+            {
+                "description": null,
+                "items": [
+                    "b4b94726-5441-4bd0-b539-2de6d3f48b5e"
+                ],
+                "lastUpdate": "2022-03-09T14:25:37",
+                "mediaUuid": null,
+                "subtitle": null,
+                "title": "Credits",
+                "tag": "path-extra-entry-sheet",
+                "uuid": "9c06cb88-dd38-464a-af4a-afe389410e8b"
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2022-03-09T14:24:35",
+                "order": 0,
+                "uuid": "d40d34a6-69ca-43c4-9932-7c1c28b09d2c"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:24:35",
+                "order": 1,
+                "uuid": "8c60ed63-390b-472d-8648-cd19b0d22f0f"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:37:37",
+                "order": 0,
+                "uuid": "6de23380-b6f4-40f4-8ef6-75de4e42762e"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:37:37",
+                "order": 1,
+                "uuid": "4549ad85-c6ba-4ca2-9984-928abe19ec36"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:24:35",
+                "order": 0,
+                "uuid": "616ddb94-ee81-4b17-aa24-1ef20e377880"
+            },
+            {
+                "lastUpdate": "2022-03-09T14:25:37",
+                "order": 0,
+                "uuid": "b4b94726-5441-4bd0-b539-2de6d3f48b5e"
+            }
+        ],
+        "relations": [
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "d40d34a6-69ca-43c4-9932-7c1c28b09d2c",
+                "outType": "SHT",
+                "outUuid": "085def69-d536-45db-b9fb-1a5bfa64fc0b"
+            },
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "8c60ed63-390b-472d-8648-cd19b0d22f0f",
+                "outType": "SHT",
+                "outUuid": "a3865c51-5e9a-4588-a879-fde210dd2685"
+            },
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "6de23380-b6f4-40f4-8ef6-75de4e42762e",
+                "outType": "SHT",
+                "outUuid": "e258ba7f-547f-486b-a7f8-cf37478331e6"
+            },
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "4549ad85-c6ba-4ca2-9984-928abe19ec36",
+                "outType": "SHT",
+                "outUuid": "9a9fcf03-098a-41f4-bef5-4648061eb9e3"
+            },
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "616ddb94-ee81-4b17-aa24-1ef20e377880",
+                "outType": "SHT",
+                "outUuid": "7114e52a-4fbe-44b1-b7e2-419f9b79a70e"
+            },
+            {
+                "poiUuid": "9392be5d-bac9-42fa-affe-f5579686e78d",
+                "inType": "SHT_ITM",
+                "inUuid": "b4b94726-5441-4bd0-b539-2de6d3f48b5e",
+                "outType": "SHT",
+                "outUuid": "6ede933a-0dd9-4d00-b1a7-ea070072f444"
+            },
+            {
+                "poiUuid": "",
+                "inUuid": "",
+                "inType": "EPT",
+                "outType": "SHT",
+                "outUuid": "9c06cb88-dd38-464a-af4a-afe389410e8b"
+            }
+        ],
+        "totalSize": 5985
+    },
+    {
+        "categories": [
+            "6d21e552-5b22-4e4e-bb35-e98a8611a101"
+        ],
+        "color": "#073463",
+        "description": "<p>Poi niente, sono accadute cose&#8230; Niente di rilevante, comunque</p>\n",
+        "mediaUuid": "78b8dece-4f72-492f-8148-ce1ef973f592",
+        "order": 0,
+        "subtitle": "In principio ero io",
+        "skuCode": null,
+        "tag": "path-main-internal",
+        "title": "Percorso 1",
+        "lastUpdate": "2022-03-24T10:41:39",
+        "uuid": "abd8e4c3-a8ce-484b-ac51-ee7e4e516578",
+        "pathCategories": [
+            {
+                "color": null,
+                "description": null,
+                "lastUpdate": "2022-02-28T11:49:00",
+                "mediaUuid": null,
+                "order": 0,
+                "subtitle": null,
+                "tag": "preview",
+                "title": "Le ale del Palazzo",
+                "uuid": "6d21e552-5b22-4e4e-bb35-e98a8611a101"
+            }
+        ],
+        "mediaFiles": [
+            {
+                "lastUpdate": "2022-03-09T14:47:38",
+                "mimeType": "image/png",
+                "name": "3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+                "type": "IMG",
+                "size": 933069,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/02/3d4f4e0d-b57a-48c8-8359-9867863a3d1b.png",
+                "uuid": "78b8dece-4f72-492f-8148-ce1ef973f592"
+            },
+            {
+                "lastUpdate": "2022-03-11T11:09:08",
+                "mimeType": "image/jpeg",
+                "name": "Screenshot_20220302-125630_MUST-DSH2030.jpg",
+                "type": "IMG",
+                "size": 176582,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/03/Screenshot_20220302-125630_MUST-DSH2030.jpg",
+                "uuid": "204c85d1-fd95-4c8a-90bb-67d3f4ef1dc8"
+            },
+            {
+                "lastUpdate": "2022-03-11T11:12:43",
+                "mimeType": "image/jpeg",
+                "name": "Screenshot_20220304-151550_MUST-DSH2030.jpg",
+                "type": "IMG",
+                "size": 912050,
+                "url": "http://palazzorealecms.democontent.it/wp-content/uploads/2022/03/Screenshot_20220304-151550_MUST-DSH2030.jpg",
+                "uuid": "e5bd2d7d-d81f-4f83-ac9f-01449d6e1de9"
+            }
+        ],
+        "pois": [
+            {
+                "categories": [],
+                "description": "<p>Ciao sono una descrizione</p>\n",
+                "mediaUuid": "204c85d1-fd95-4c8a-90bb-67d3f4ef1dc8",
+                "subtitle": "Sotto il titolo",
+                "tag": "poi-main-internal",
+                "title": "Poi1",
+                "lastUpdate": "2022-03-11T11:13:19",
+                "uuid": "892704c3-a9de-4051-a5a2-8d6ca912df05"
+            }
+        ],
+        "poiOrder": [
+            {
+                "index": 0,
+                "isEnabled": true,
+                "isVisited": true,
+                "order": null,
+                "poiUuid": "892704c3-a9de-4051-a5a2-8d6ca912df05",
+                "isAccessibility": true,
+                "isHidden": false,
+                "id": 6
+            }
+        ],
+        "poiCategories": [],
+        "sheets": [
+            {
+                "description": "<p>Ciao sono una descrizione</p>\n",
+                "items": [
+                    "315d9d09-fbd2-4ede-8c42-37a1ed4c1064"
+                ],
+                "lastUpdate": "2022-03-14T10:31:02",
+                "mediaUuid": "204c85d1-fd95-4c8a-90bb-67d3f4ef1dc8",
+                "subtitle": "Sotto il titolo",
+                "title": "Poi1",
+                "tag": "poi-main-internal-entry-sheet",
+                "uuid": "6b50b403-4021-4088-af68-1c9ae7c8f4b9"
+            },
+            {
+                "description": "<p>Poi niente, sono accadute cose&#8230; Niente di rilevante, comunque</p>\n",
+                "items": [
+                    "41628a88-c758-4a30-a180-ccb0b91f79bd"
+                ],
+                "lastUpdate": "2022-03-14T10:28:31",
+                "mediaUuid": "78b8dece-4f72-492f-8148-ce1ef973f592",
+                "subtitle": "In principio ero io",
+                "title": "Percorso 1",
+                "tag": "path-main-internal-entry-sheet",
+                "uuid": "8c622e49-e0a8-4812-b0f9-32ca20ecfdee"
+            }
+        ],
+        "sheetItems": [
+            {
+                "lastUpdate": "2022-03-14T10:31:00",
+                "order": 0,
+                "uuid": "315d9d09-fbd2-4ede-8c42-37a1ed4c1064"
+            },
+            {
+                "lastUpdate": "2022-03-14T10:28:31",
+                "order": 0,
+                "uuid": "41628a88-c758-4a30-a180-ccb0b91f79bd"
+            }
+        ],
+        "relations": [
+            {
+                "poiUuid": "892704c3-a9de-4051-a5a2-8d6ca912df05",
+                "inType": "SHT_ITM",
+                "inUuid": "315d9d09-fbd2-4ede-8c42-37a1ed4c1064",
+                "outType": "GLR",
+                "outUuid": "f0448817-0eb5-45f9-8fe0-037d18a61b4b"
+            },
+            {
+                "poiUuid": "892704c3-a9de-4051-a5a2-8d6ca912df05",
+                "inType": "SHT_ITM",
+                "inUuid": "41628a88-c758-4a30-a180-ccb0b91f79bd",
+                "outType": "SHT",
+                "outUuid": "6b50b403-4021-4088-af68-1c9ae7c8f4b9"
+            },
+            {
+                "poiUuid": "",
+                "inUuid": "",
+                "inType": "EPT",
+                "outType": "SHT",
+                "outUuid": "8c622e49-e0a8-4812-b0f9-32ca20ecfdee"
+            },
+            {
+                "poiUuid": "",
+                "inUuid": "",
+                "inType": "EPT",
+                "outType": "MAP",
+                "outUuid": "7d1700e4-7f01-46e0-bc1b-79e8cb6c528c"
+            }
+        ],
+        "galleries": [
+            {
+                "items": [
+                    "2b45dab0-4cea-4d6a-8d25-f764468511e6",
+                    "469896ee-d2dc-461e-8616-a7b0b699ae25"
+                ],
+                "tag": "images-gallery",
+                "lastUpdate": "2022-03-11T11:13:18",
+                "uuid": "f0448817-0eb5-45f9-8fe0-037d18a61b4b"
+            }
+        ],
+        "galleryItems": [
+            {
+                "description": null,
+                "mediaUuid": "e5bd2d7d-d81f-4f83-ac9f-01449d6e1de9",
+                "order": 0,
+                "subtitle": null,
+                "title": null,
+                "lastUpdate": "2022-03-11T11:13:18",
+                "uuid": "2b45dab0-4cea-4d6a-8d25-f764468511e6"
+            },
+            {
+                "description": null,
+                "mediaUuid": "204c85d1-fd95-4c8a-90bb-67d3f4ef1dc8",
+                "order": 1,
+                "subtitle": null,
+                "title": null,
+                "lastUpdate": "2022-03-11T11:13:18",
+                "uuid": "469896ee-d2dc-461e-8616-a7b0b699ae25"
+            }
+        ],
+        "maps": [
+            {
+                "bottomRightLatitude": 0,
+                "bottomRightLongitude": 0,
+                "description": null,
+                "height": 872,
+                "lastUpdate": "2022-03-14T10:28:31",
+                "items": [
+                    "38e3f44f-bf34-4ebf-8e91-493341f69cb8"
+                ],
+                "mapType": 2,
+                "mediaUuid": "78b8dece-4f72-492f-8148-ce1ef973f592",
+                "subtitle": null,
+                "tag": "map-main-internal",
+                "title": "Piano 1",
+                "topLeftLatitude": 0,
+                "topLeftLongitude": 0,
+                "uuid": "7d1700e4-7f01-46e0-bc1b-79e8cb6c528c",
+                "width": 600
+            }
+        ],
+        "mapItems": [
+            {
+                "lastUpdate": "2022-03-14T10:28:31",
+                "latitude": 0,
+                "longitude": 0,
+                "mediaUuid": null,
+                "poiUuid": "892704c3-a9de-4051-a5a2-8d6ca912df05",
+                "uuid": "38e3f44f-bf34-4ebf-8e91-493341f69cb8",
+                "x": 90,
+                "y": 100
+            }
+        ],
+        "totalSize": 2021701
+    }
+]
