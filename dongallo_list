@@ -1,19 +1,6 @@
 {
     "paths": [
         {
-            "categories": [],
-            "color": "",
-            "description": null,
-            "mediaUuid": null,
-            "subtitle": null,
-            "skuCode": null,
-            "tag": "path-intro",
-            "title": "Intro",
-            "lastUpdate": "2022-03-10T15:19:50",
-            "uuid": "b8fadeb1-e8b6-454c-8b77-22cf98a09677",
-            "totalSize": 222924
-        },
-        {
             "categories": [
                 "ee8b6159-c3ba-4a0d-820e-88a3591a1801"
             ],
@@ -90,16 +77,7 @@
             "size": 97863,
             "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/03/Percorso_Opere-1.jpg",
             "uuid": "393dd413-8bdc-475b-bfdf-16f65cfce2e3"
-        },
-        {
-            "lastUpdate": "2022-03-10T15:24:37",
-            "mimeType": "image/jpeg",
-            "name": "Percorso_Territorio-1.jpg",
-            "type": "IMG",
-            "size": 240881,
-            "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/03/Percorso_Territorio-1.jpg",
-            "uuid": "02bdf5cd-6aee-498a-b7c9-2962ac355681"
         }
     ],
-    "lastUpdate": "2022-03-21T11:28:21"
+    "lastUpdate": "2022-03-24T11:28:21"
 }
