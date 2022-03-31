@@ -386,12 +386,12 @@
                 "uuid": "57f9b8ec-65d4-4e52-a861-e068cf9ccec9"
             },
             {
-                "lastUpdate": "2022-03-14T11:33:56",
-                "mimeType": "audio/mpeg",
-                "name": "INTRODUZIONE.mp3",
-                "type": "AUD",
-                "size": 906879,
-                "url": "http://comunedicomocms.democontent.it/wp-content/uploads/2022/03/INTRODUZIONE.mp3",
+                "lastUpdate": "2022-03-12T15:38:59",
+                "mimeType": "video/mp4",
+                "name": "giardino-ITA.mp4",
+                "type": "VID",
+                "size": 11237609,
+                "url": "http://chempcms.democontent.it/wp-content/uploads/2020/08/giardino-ITA.mp4",
                 "uuid": "392a273d-6ba8-4680-bdc2-4ba64e939238"
             },
             {
